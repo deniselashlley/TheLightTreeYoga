@@ -11,10 +11,6 @@ seo:
     such as mudra and mantra, Chinese medicine techniques.
   title: teaching
 ---
-The tree as a great analogy for our lives and our experience. Just like a tree, from each root to every leaf, everything is connected. We are connected to everything through energy and we are a unique manifestation of that energy in matter form. 
-
-The tree also represents the realisation of the seed. Plant the seed, feed and water it, give it sunlight and from it the tree will grow strong and healthy, always towards the light. Our thoughts, intentions and actions are the seeds of our life and the outer world we experience is simply a reflection and manifestation of what we are experiencing within us.
-
 My teaching is focused on four key principles; connection, courage, creativity, contribution which are encompassed within The Light Tree philosophy.
 
 ![null](/img/the-4-c-s.png)
