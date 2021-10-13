@@ -1,12 +1,12 @@
 ---
 templateKey: home-page
-bannerImage: /img/home-banner.jpg)
+bannerText: []
 seo:
   browserTitle: The Light Tree Yoga
   description: >-
-    The Light Tree Yoga is run by me, Jess a YAP200 Yoga teacher since 2015. I
-    provide Yoga classes, workshops and private sessions for all abilities in NW
-    London.
-  title: The Light Tree - Home 
+    Jae Gibbs founded The Light Tree in 2015. A Yogi, Embodied Mystic and
+    Focalizing Practitioner offering group and private embodied explorations
+    within the London area
+  title: The Light Tree - Home
 ---
 
