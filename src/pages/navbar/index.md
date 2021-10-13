@@ -15,11 +15,11 @@ menuItems:
     linkURL: '#connect'
 socialLinks:
   - hiddenText: ''
-    label: 'follow me '
+    label: follow
     linkURL: 'https://www.instagram.com/we_the_light_tree_yoga_wellness/'
     type: instagram
   - hiddenText: thelighttreeyoga@gmail.com
-    label: email me
+    label: 'email '
     linkURL: 'mailto:thelighttreeyoga@gmail.com'
     type: email
 ---
