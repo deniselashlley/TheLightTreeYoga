@@ -2,27 +2,33 @@
 templateKey: services
 title: Services
 serviceList:
-  - description: >-
-      All public classes are listed in the schedule section. It is also possible
-      to book private group classes.
+  - description: |-
+      All public explorations are listed in the schedule section. 
+      Upcoming journeys and events are listed or follow me on Instagram.
+      Contact me to book private group or workplace explorations.
     image: /img/adobestock_194685469.jpg
     link: ''
-    title: GROUP YOGA
+    title: GROUP EXPLORATIONS JOURNEYS EVENTS
   - description: >-
-      I offer private 1-2-1 sessions at your home or at my home studio. Perfect
-      when you have a specific goal and/or a group session isn't appropriate.
+      I offer private 1-2-1 explorations at your home, at my home studio or
+      online.
+
+      - Yoga including pranayama(breathwork), meditation, nidra (deep rest) and
+      restorative
+
+      - Embodied Movement
+
+      - Focalizing
     image: /img/adult-daylight-exercise-1533886.jpg
     link: ''
-    title: PRIVATE YOGA
+    title: PRIVATE PRACTICE
   - description: >-
       I provide classes for organisations and their employees which can be
       arranged on a regular basis or as a one off workshop or event.
     image: /img/active-activity-adult-1308746.jpg
     link: ''
     title: WORKPLACE YOGA
-  - description: >-
-      I run workshops and events at studios and venues. Check out the schedule
-      section for upcoming workshops and events or follow me on Instagram.
+  - description: I run workshops and events at studios and venues.
     image: /img/backlit-clouds-dusk-853168.jpg
     link: '#schedule'
     title: WORKSHOPS & EVENTS
