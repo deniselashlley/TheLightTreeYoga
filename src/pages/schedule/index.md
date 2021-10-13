@@ -1,14 +1,11 @@
 ---
 templateKey: schedule
-title: Schedule
-classHeading: Classes Timetable
-eventsHeading: Workshops & Events
+title: Happenings
+classHeading: Explorations
+eventsHeading: Upcoming Journeys + Events
 scheduleSection:
-  - body: |-
-      ## ONLINE YOGA CLASSES
-
-      Check the class timetable for updates
-    title: COMING THIS MONTH
+  - body: No planned happenings this month
+    title: THIS MONTH
   - body: |-
       # ****
 
