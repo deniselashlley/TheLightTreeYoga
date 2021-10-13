@@ -1,6 +1,6 @@
 ---
 templateKey: my-story
-title: My Story
+title: 'About '
 content: >-
   I have been a practitioner of Yoga since 2002 and began teaching Yoga in
   2015. 
