@@ -19,7 +19,7 @@ quote: >-
   "THE MOST AUTHENTIC THING ABOUT US IS OUR CAPACITY TO CREATE, TO OVERCOME, TO
   ENDURE, TO TRANSFORM, TO LOVE AND TO BE GREATER THAN OUR SUFFERING." - Ben
   Okri
-image: /img/profile-me.jpg
+image: /img/af19-headshot-specturm.png
 highlightedText: >-
   Join me to begin your journey of transformation. I look forward to meeting you
   soon.
