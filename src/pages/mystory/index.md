@@ -16,6 +16,6 @@ content: >-
 quote: Where is your magic? How does it desire to emerge?
 pageLink:
   label: About my teaching
-  link: /teachings
+  link: /about
 ---
 
