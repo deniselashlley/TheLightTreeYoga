@@ -6,7 +6,7 @@ quote: >-
   "THE MOST AUTHENTIC THING ABOUT US IS OUR CAPACITY TO CREATE, TO OVERCOME, TO
   ENDURE, TO TRANSFORM, TO LOVE AND TO BE GREATER THAN OUR SUFFERING." - Ben
   Okri
-image: /img/af19-headshot-specturm.png
+image: /img/af19-headshot-crop2.png
 highlightedText: 'Join me for embodied explorations, journeys and events.'
 pageLink:
   label: About yoga
