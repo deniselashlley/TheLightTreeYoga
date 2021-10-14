@@ -1,35 +1,7 @@
 ---
 templateKey: introduction
-title: The Light Tree
-content: >-
-  Welcome to The Light Tree 
-
-
-  The invitation is to embark on a journey of re-membering our
-  inter-connectedness to reawaken and explore our Aliveness.
-
-
-  The tree is the realisation of the seed being loved into existence. The seed
-  is a gift passed on, an intelligent imprint of nature, uniquely expressed, a
-  miraculous becoming. Intrinsically connected with the elements the seed grows,
-  nourished safely within the earth, hydrated by the rain, energised by the sun
-  and breathed by the air. As the seed sprouts roots, the sapling grows ever
-  towards the light, to become the tree it was designed to become. The tree is
-  simply living it's tree life.
-
-
-  Our lives are trees, formed from the roots of before and ever expanding
-  towards the beyond, intrinsically connected to one another, loved into
-  existence. As humans our beliefs, stories and intentions are the seeds of our
-  life, our perception and experience of the outer world a reflection and
-  manifestation of what we are nurturing within us. 
-
-
-  In a world where we are incentivised to live head centred, with a limiting and
-  harmful concept of our humanness, our stories can takes over, disconnecting
-  us  from our authentic being. Embodiment and heart-centred practices invite us
-  to re-member that we are more, to receive valuable information our bodies
-  hold, intrinsically connected to each other
+title: Welcome to The Light Tree
+content: "This is an invitation to embark on a journey of re-membering our inter-connectedness to reawaken and explore our Aliveness.\r\n\nThe tree is the realisation of the seed being loved into existence. The seed is a gift paid forward, an intelligent imprint of nature, uniquely expressed, a miraculous becoming. Intrinsically connected with the elements the seed grows, nourished safely within the earth, hydrated by the rain, energised by the sun and breathed by the air. As the seed sprouts expanding roots, the sapling grows ever towards the light, to become the tree it was designed to become. \r\n\nWe are no different to trees, formed from seeds, connected by the roots of before and ever expanding towards the beyond. We are loved into existence. Intrinsically connected to one another. \r\n\nLiving in environments where our bodies are marginalised, our minds overloaded and our hearts neglected, the emotional wounds we receive are normalised and not acknowledged so often go unchecked and unhealed. As humans our beliefs, stories and intentions are the seeds of our life, our perception and experience of the outer world a reflection and manifestation of what we are nurturing or neglecting within us. \r\n\nWe are being called back to the old ways to be re-membered and connected in these modern global times. Embodiment and heart-centred practices invite us to re-member that we are that we are more, to embrace our whole being, to receive valuable healing and empowering information our bodies hold.\r\n\nLet's create space for not knowing or needing to know. To dance to the music of our curiosity. Explore the order and disordering of aliveness. Notice the blips and textures and movements. \r\n\nA place to expand into the otherness of our humanness. Unwind into the freedom of discomfort or the discomfort of freedom. Backstroke in the joy of beautiful imperfections \r\n\nA space to explore the whole being we are. \r\n\nA space for being as it is."
 quote: >-
   "THE MOST AUTHENTIC THING ABOUT US IS OUR CAPACITY TO CREATE, TO OVERCOME, TO
   ENDURE, TO TRANSFORM, TO LOVE AND TO BE GREATER THAN OUR SUFFERING." - Ben
