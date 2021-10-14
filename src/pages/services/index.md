@@ -1,6 +1,6 @@
 ---
 templateKey: services
-title: Services
+title: Offerings
 serviceList:
   - description: |-
       All public explorations are listed in the schedule section. 
@@ -8,7 +8,7 @@ serviceList:
       Contact me to book private group or workplace explorations.
     image: /img/adobestock_194685469.jpg
     link: ''
-    title: GROUP EXPLORATIONS JOURNEYS EVENTS
+    title: GROUP EXPLORATIONS | JOURNEYS | EVENTS
   - description: >-
       I offer private 1-2-1 explorations at your home, at my home studio or
       online.
@@ -33,23 +33,25 @@ serviceList:
     link: '#schedule'
     title: WORKSHOPS & EVENTS
   - description: >-
-      I am passionate about all people having access the benefits of a Yoga
-      practice. I offer a reduced rate or FOC regular class to one charitable
-      organisation for their staff and service users. 
+      Health is “a state of complete physical, mental, and social well-being and
+      not merely the absence of disease or infirmity (illness) and wellness is
+      “the optimal state of health of individuals and groups, as defined by WHO.
 
 
-      Get in touch if you would like to find out more.
+      I offer a reduced rate or FOC regular class to a change-making group or
+      charitable organisation for their service users and staff. Get in touch to
+      find out more.
     image: /img/group_diversity_yoga.jpg
     link: 'mailto:jess@thelighttreeyoga.co.uk'
-    title: OUTREACH
+    title: WELLNESS EQUITY
   - description: >-
-      A monthly talk show going beneath the physical matter to the soul of what
-      matters. Hosted by Jess Gibbs and Shaka Lish with guests. The show is
-      centred around wellbeing, including chat and music discussing topics
+      A podcast series going beneath the physical matter to the soul of what
+      matters. Hosted by Jae Gibbs and Shaka Lish with guests. The show is
+      centred on wellbeing, including chat and music discussing topics
       concerning the African diaspora from the female black British
       perspective. 
     image: /img/img_20190204_103624_325.jpg
-    label: Listen to a show
+    label: Listen to a show here
     link: 'https://www.mixcloud.com/soulshallmata/'
     title: 'SOULSHALL MATA '
 ---
