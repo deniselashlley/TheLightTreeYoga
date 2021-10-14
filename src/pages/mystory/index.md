@@ -12,7 +12,7 @@ content: >-
   self-love and community care for our collective wellbeing and empowerment. As
   a mixed-black bodied woman, she centres the healing of ethnic race-based and
   patriarchal trauma, exploring and unravelling how these impressions manifest
-  in our bodies and minds to inhibit our true nature, power and magic as women.
+  in our bodies and minds to inhibit our true nature, power and magic.
 quote: Where is your magic? How does it desire to emerge?
 pageLink:
   label: About my teaching
