@@ -16,7 +16,7 @@ menuItems:
 socialLinks:
   - hiddenText: ''
     label: follow
-    linkURL: 'https://www.instagram.com/we_the_light_tree_yoga_wellness/'
+    linkURL: 'https://www.instagram.com/we_the_light_tree_wellness/'
     type: instagram
   - hiddenText: thelighttreeyoga@gmail.com
     label: 'email '
