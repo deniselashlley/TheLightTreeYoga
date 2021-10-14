@@ -15,7 +15,7 @@ content: >-
   in our bodies and minds to inhibit our true nature, power and magic.
 quote: Where is your magic? How does it desire to emerge?
 pageLink:
-  label: About my teaching
+  label: About Yoga
   link: /about
 ---
 
