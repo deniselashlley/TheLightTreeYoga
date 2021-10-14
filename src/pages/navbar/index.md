@@ -4,7 +4,7 @@ menuItems:
   - label: happenings
     linkType: hash
     linkURL: '#schedule'
-  - label: services
+  - label: offerings
     linkType: hash
     linkURL: '#services'
   - label: about
