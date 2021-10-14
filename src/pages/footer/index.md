@@ -1,6 +1,6 @@
 ---
 templateKey: footer
-copyrightText: 'The Light Tree '
+copyrightText: The Light Tree Wellness
 logoImage:
   image: >-
     https://www.yogaallianceprofessionals.org/images/yapo-teacher-associate-1.png
