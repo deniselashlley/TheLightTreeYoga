@@ -50,7 +50,7 @@ content: >-
   A space for being as it is.
 quote: 'Join me for embodied explorations, journeys and events.'
 image: /img/af19-headshot-crop2.png
-highlightedText: ~ ( ( ( O ) ) ) ~
+highlightedText: ''
 pageLink:
   label: About yoga
   link: /about
