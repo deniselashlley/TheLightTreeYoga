@@ -3,24 +3,23 @@ templateKey: navbar
 menuItems:
   - label: happenings
     linkType: hash
-    linkURL: '#schedule'
+    linkURL: "#happenings"
   - label: offerings
     linkType: hash
-    linkURL: '#services'
+    linkURL: "#offerings"
   - label: about
     linkType: hash
-    linkURL: '#mystory'
+    linkURL: "#about"
   - label: connect with me
     linkType: hash
-    linkURL: '#connect'
+    linkURL: "#connect"
 socialLinks:
-  - hiddenText: ''
+  - hiddenText: "@we_the_light_tree_wellness"
     label: follow
-    linkURL: 'https://www.instagram.com/we_the_light_tree_wellness/'
+    linkURL: https://www.instagram.com/we_the_light_tree_wellness/
     type: instagram
   - hiddenText: thelighttreeyoga@gmail.com
-    label: 'email '
-    linkURL: 'mailto:thelighttreeyoga@gmail.com'
+    label: "email "
+    linkURL: mailto:thelighttreeyoga@gmail.com
     type: email
 ---
-
