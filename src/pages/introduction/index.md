@@ -28,7 +28,10 @@ content: >-
 
 
   A space for being as it is.
-quote: "**\\~ ( ( ( O ) ) ) \\~**"
+
+
+  **\~ ( ( ( O ) ) ) \~**
+quote: "''"
 image: /img/af19-headshot-crop2.png
 highlightedText: Join me for embodied explorations, journeys and events.
 pageLink:
