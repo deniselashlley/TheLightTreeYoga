@@ -1,7 +1,7 @@
 ---
 templateKey: my-story
 title: Jae Gibbs
-content: >-
+body: >-
   A Yogi and Embodied Mystic, Jae began her journey with Yoga in 2002. In 2015
   she began leading classes, sharing the ancient wisdom, practices and her
   personal learnings. In 2018, as a part of reclaiming her lineage and identity,

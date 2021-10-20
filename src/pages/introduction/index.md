@@ -1,7 +1,7 @@
 ---
 templateKey: introduction
 title: "Welcome "
-content: >-
+body: >-
   This is an invitation to embark on a journey of re-membering our
   inter-connectedness to reawaken and explore our Aliveness.
 
@@ -31,7 +31,7 @@ content: >-
 
 
   **\~ ( ( ( O ) ) ) \~**
-quote: "''"
+quote:
 image: /img/af19-headshot-crop2.png
 highlightedText: Join me for embodied explorations, journeys and events.
 pageLink:

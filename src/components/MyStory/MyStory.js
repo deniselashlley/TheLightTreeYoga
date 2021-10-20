@@ -7,7 +7,7 @@ export const MyStoryTemplate = ({
   data: {
     title,
     quote,
-    content,
+    body,
     pageLink: {
       link,
       label,
@@ -18,7 +18,7 @@ export const MyStoryTemplate = ({
     <section id="mystory" className="section-block section-block--mystory">
         <div className="container">
           <h2 className="section-title">{title}</h2>
-            <ReactMarkdown source={content} />
+            <ReactMarkdown children={body} />
             <blockquote className="quote">
               <p>{quote}</p>
             </blockquote>

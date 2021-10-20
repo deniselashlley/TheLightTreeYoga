@@ -14,8 +14,10 @@ export const ScheduleTemplate = ({data}) => {
       link
     }
   } = data;
+
+  const getSectionId = title.replace(/''/g, '-');
   return (
-    <section id="schedule" className="section-block section-block--schedule">
+    <section id={getSectionId.toLowerCase()} className="section-block section-block--schedule">
     <div className="container">
        <h2 className="section-title">{title}</h2>
        <div className="container-row">
@@ -36,7 +38,7 @@ export const ScheduleTemplate = ({data}) => {
             scheduleSection.map(section => (
             <div key={section.title} className="block--events">
               <h4>{section.title}</h4>
-              <ReactMarkdown source={section.body} />
+              <ReactMarkdown children={section.body} />
             </div>
             ))
           }

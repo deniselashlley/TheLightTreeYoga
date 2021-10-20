@@ -6,8 +6,10 @@ export const ServicesTemplate = ({
     title,
     serviceList
   }}) => { 
+
+    const getSectionId = title.replace(/''/g, '-');
   return (
-    <section id="services" className="section-block section-block--services">
+    <section id={getSectionId.toLowerCase()} className="section-block section-block--services">
         <div className="container">
           <h2 className="section-title">{title}</h2>
           <div>

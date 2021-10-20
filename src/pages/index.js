@@ -103,7 +103,7 @@ export const pageQuery = graphql`
             title
             quote
             image
-            content
+            body
             highlightedText
             pageLink {
               label
@@ -120,7 +120,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             quote
-            content
+            body
             pageLink {
               label
               link

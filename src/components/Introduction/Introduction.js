@@ -4,7 +4,7 @@ import CustomLink from "../CustomLink";
 import "./styles.scss";
 
 export const IntroductionTemplate = ({data}) => {
-  const { title, image, pageLink, quote, content, highlightedText } = data;
+  const { title, image, pageLink, quote, body, highlightedText } = data;
   return (
     <section id="intro" className="section-block section-block--introduction">
     <div className="container">
@@ -14,11 +14,14 @@ export const IntroductionTemplate = ({data}) => {
         </div>
         <div className="block block-context">
           <h1 className="section-title">{title}</h1>
-          <ReactMarkdown source={content} />
-          <blockquote className="quote">
-            <p>{quote}</p>
-          </blockquote>
-          <p className="highlightedText">{highlightedText}</p>
+          <ReactMarkdown children={body} />
+          { quote ?
+            <blockquote className="quote">
+              <p>{quote}</p>
+            </blockquote>
+          : null
+          }
+          { highlightedText ?  <p className="highlightedText">{highlightedText}</p> : null }
         <CustomLink
           linkType="internal"
           linkURL={pageLink.link}
