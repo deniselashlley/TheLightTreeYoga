@@ -65,10 +65,11 @@ collections:
           - { 
               label: "Banner Text", 
               name: "bannerText", 
-              widget: "string",
-              required: false
+              widget: "list",
+              fields: [
+                {label: "Item Text", name: "itemText", widget: "string"},
+              ],
             }
-          - {label: "Image", name: "image", widget: "image", required: false }  
           - {
               label: "SEO & Meta",
               name: "seo",

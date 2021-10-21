@@ -31,7 +31,6 @@ export const query = graphql`
             logoImage {
               image
               imageAlt
-              imageLink
             }
           }
         }

@@ -207,8 +207,6 @@ export const pageQuery = graphql`
         node {
           id
           frontmatter {
-            bannerText
-            image
             seo {
               browserTitle
               title

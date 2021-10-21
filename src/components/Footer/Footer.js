@@ -9,7 +9,7 @@ export const FooterTemplate = ({ data }) => {
     <footer role="contentinfo" className="footer">
       <div className="container">
         <p className="copy-text">Copyright &copy; {year} {copyrightText}</p>
-        <p className="member-logo">
+        {/* <p className="member-logo">
           <span>{logoImage.imageAlt}</span>
             <a 
               href={logoImage.imageLink}
@@ -23,7 +23,7 @@ export const FooterTemplate = ({ data }) => {
               />
               
             </a> 
-          </p>
+  </p> */}
         </div>
     </footer>
   );
