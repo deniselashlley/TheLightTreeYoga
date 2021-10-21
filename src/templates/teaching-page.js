@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { graphql } from "gatsby";
+import { graphql } from 'gatsby'
 import ReactMarkdown from "react-markdown";
 import Helmet from "react-helmet";
 
@@ -19,8 +19,6 @@ export const TeachingPageTemplate = props => {
         <section className="content-block">
           <div className="container">
           <h1>{page.frontmatter.title}</h1>
-          {/* The page.html is actually markdown when viewing the page from the netlify CMS,
-              so we must use the ReactMarkdown component to parse the mardown in that case  */}
           {page.bodyIsMarkdown ? (
             <ReactMarkdown children={page.html} />
           ) : (

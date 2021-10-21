@@ -62,14 +62,8 @@ collections:
         name: "home"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page" }
-          - { 
-              label: "Banner Text", 
-              name: "bannerText", 
-              widget: "list",
-              fields: [
-                {label: "Item Text", name: "itemText", widget: "string"},
-              ],
-            }
+          - { label: "Banner Text", name: "bannerText", widget: "string", required: false}
+          - { label: "Banner Image", name: "image", widget: "image" required: false}
           - {
               label: "SEO & Meta",
               name: "seo",
@@ -121,7 +115,7 @@ collections:
               widget: "object",
               fields:
                 [
-                  { label: "Image", name: "image", widget: "image" },
+                  { label: "Image", name: "image", widget: "image"  },
                   { label: "Image Description", name: "imageAlt", widget: "string" },
                 ],
             }

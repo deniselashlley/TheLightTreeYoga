@@ -1,6 +1,7 @@
 ---
 templateKey: home-page
-bannerText: []
+bannerText: xxxx
+image: /img/af19-headshot-crop2.png
 seo:
   browserTitle: The Light Tree Yoga
   description: >-

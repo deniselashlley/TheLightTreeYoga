@@ -4,8 +4,8 @@
 
 .hero-banner {
   position: relative;
-  background: url(../../static/img/home-banner.jpg)  75% top no-repeat;
-  background-size: cover;
+  background-image: url(../../static/img/home-banner.jpg);
+  background-repeat: no-repeat;
   min-height: 60vh;
   margin-bottom: 40px;
 

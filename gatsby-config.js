@@ -2,10 +2,19 @@ require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
 })
 
+const customQueries = {
+  xs: '(max-width: 320px)',
+  sm: '(max-width: 768px)',
+  md: '(max-width: 992px)',
+  l: '(max-width: 1024px)',
+  portrait: '(orientation: portrait)',
+};
+
 module.exports = {
   siteMetadata: {
     title: "The Light Tree",
-    siteUrl: process.env.NODE_EN === development ?'http://localhost:8000/' : 'https://www.thelighttreeyoga.co.uk/' ,
+    siteUrl: 'https://www.thelighttreeyoga.co.uk/' ,
+    basePath: '/',
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -33,9 +42,6 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              // It's important to specify the maxWidth (in pixels) of
-              // the content container as this plugin uses this as the
-              // base for generating different widths of each image.
               maxWidth: 2048,
             },
           },
@@ -54,6 +60,12 @@ module.exports = {
         logo: "./src/img/favicon.png",
       },
     },
-    "gatsby-plugin-netlify", // make sure to keep it last in the array
+    {
+      resolve: `gatsby-plugin-breakpoints`,
+      options: {
+          queries: customQueries,
+      },
+    },
+    "gatsby-plugin-netlify",
   ],
 };
