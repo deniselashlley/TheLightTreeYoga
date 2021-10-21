@@ -26,11 +26,12 @@ export const HomePageTemplate = ({
  }) => {
 
   const breakpoints = useBreakpoint();
-
+  
+ console.log(home.bannerImage);
   return (
     <>
       <section className="hero-banner" style={{
-        // backgroundImage: url(`${home.image}`),
+        //backgroundImage: url(`${home.bannerImage}`),
         backgroundPosition: breakpoints.md ? '75% top' :'center',
         backgroundSize: 'cover',
       }}>
@@ -128,6 +129,7 @@ export const pageQuery = graphql`
             title
             quote
             body
+            image
             pageLink {
               label
               link

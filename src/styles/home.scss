@@ -85,9 +85,7 @@
   scroll-behavior: smooth;
 
   &:nth-child(odd) {
-    // background-color: $light-green;
-    background-color: rgba(162, 197, 172, 0.44);
-    box-shadow: 0 0 3px 0 rgba(45,48,71,.22)
+    background-color: $section-background-color;
   }
   .quote {
     color: $green;
@@ -98,6 +96,7 @@
   }
 
   .section-title {
+    color: $irresistible;
     text-align: center;
     margin-bottom: 28px;
   }

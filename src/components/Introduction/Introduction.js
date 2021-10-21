@@ -4,15 +4,10 @@ import CustomLink from "../CustomLink";
 import "./styles.scss";
 
 export const IntroductionTemplate = ({data}) => {
-  const { title, image, pageLink, quote, body, highlightedText } = data;
+  const { title, pageLink, quote, body, highlightedText } = data;
   return (
     <section id="intro" className="section-block section-block--introduction">
     <div className="container">
-      <div className="container-row">
-        <div className="block block-profile">
-          <img src={image} alt="" className="profile" />
-        </div>
-        <div className="block block-context">
           <h1 className="section-title">{title}</h1>
           <ReactMarkdown children={body} />
           { quote ?
@@ -29,8 +24,6 @@ export const IntroductionTemplate = ({data}) => {
         >
         {pageLink.label}
       </CustomLink>
-        </div>
-      </div> 
     </div>
     </section>
   );

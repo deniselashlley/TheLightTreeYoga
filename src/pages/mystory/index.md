@@ -14,6 +14,7 @@ body: >-
   patriarchal trauma, exploring and unravelling how these impressions manifest
   in our bodies and minds to inhibit our true nature, power and magic.
 quote: Where is your magic? How does it desire to emerge?
+image: /img/af19-headshot-crop2.png
 pageLink:
   label: About Yoga
   link: /about
