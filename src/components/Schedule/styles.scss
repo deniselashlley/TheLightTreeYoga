@@ -17,7 +17,6 @@
     }
     .scheduleFrame {
       background-color: $white;
-      box-shadow: 0 0 3px 0  rgba(45, 48, 71, 0.22);
       margin-bottom: 1em;
       border-radius: 3px;
     }
@@ -26,13 +25,9 @@
     .block--events {
       padding: 1em;
       background-color: $white;
-      box-shadow: 0 0 3px 0  rgba(45, 48, 71, 0.22);
       margin-bottom: 1em;
       border-radius: 3px;
 
-      h4{
-        color: $yellow;
-      }
       p {
         margin-bottom: 0.8em;
           strong {
