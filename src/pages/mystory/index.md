@@ -1,22 +1,17 @@
 ---
 templateKey: my-story
 title: Jae Gibbs
-body: >-
-  A Yogi and Embodied Mystic, Jae began her journey with Yoga in 2002. In 2015
-  she began leading classes, sharing the ancient wisdom, practices and her
-  personal learnings. In 2018, as a part of reclaiming her lineage and identity,
-  she began a priestess journey into the Afro and Celtic mystic arts.
-
-
-  Jae facilities healing spaces for embodied explorations that cultivate
-  self-love and community care for our collective wellbeing and empowerment. As
-  a mixed-black bodied woman, she centres the healing of ethnic race-based and
-  patriarchal trauma, exploring and unravelling how these impressions manifest
-  in our bodies and minds to inhibit our true nature, power and magic.
-quote: Where is your magic? How does it desire to emerge?
 image: /img/af19-headshot-crop2.png
+quote: I help curious seekers re-member the forgotten wisdom within your bodies
+  and hearts, to explore a more courageous, connected and authentic life
 pageLink:
   label: About Yoga
   link: /about
 ---
+A Yogini, Embodied Mystic and Focalizing Somatic Therapist, Jae began her own healing and empowerment journey with Yoga in 2002. In 2015 she began leading classes, sharing the ancient wisdom, practices and her personal learnings. 
 
+As a part of reclaiming her ancestral lineage and move toward a decolonised identity, Jae began a priestess journey into the arts of indigenous Afro and Celtic spiritual practice.
+
+More recently Jae has trained as Focalizing practitioner, a trauma informed, self-empowered therapy focused on accessing embodied wisdom to heal emotional wounds and guide a more authentic lived experience.
+
+Jae facilities healing spaces for embodied explorations that cultivate self-love and community care for our collective wellbeing and empowerment. As a mixed-black bodied woman, she centres the healing of ethnic race-based and patriarchal trauma, exploring and unravelling how these impressions manifest in our bodies and minds to inhibit our true nature, power and magic.
