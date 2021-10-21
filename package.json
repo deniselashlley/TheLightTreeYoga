@@ -38,7 +38,6 @@
     "react-slick": "^0.28.1",
     "react-transition-group": "^4.4.2",
     "slick-carousel": "^1.8.1",
-    "uikit": "^3.7.6",
     "uuid": "^8.3.2"
   },
   "keywords": [

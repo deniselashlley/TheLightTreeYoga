@@ -1,42 +1,30 @@
-import React, { Component } from "react";
+import React, { useState, useEffect} from "react";
 
 import "./styles.scss";
 import CustomLink from "../CustomLink";
-import AnchorLink from 'react-anchor-link-smooth-scroll';
+import AnchorLink from 'react-anchor-link-smooth-scroll'
+import useSiteMetadata from '../SiteMetadata'
 
-export class NavbarContainer extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      menuState: false,
-      pageUrl: ''
-    }
-  }
+const NavbarContainer = ({data}) => {
+  const [menuOpen, setMenuOpen] = useState(false);
+  const [pageUrl, setPageUrl] = useState(''); 
+  const { siteUrl } = useSiteMetadata()
 
-  componentDidMount(){
+  useEffect(() => {
     if (typeof window !== undefined) {
-      this.setState({
-        pageUrl: window.location.pathname 
-      });
+      setPageUrl(window.location.pathname) 
     }
-  }
+  }, [pageUrl])
 
-  handleShowMenu(event) {
+  const handleShowMenu = (event) => {
     event.preventDefault();
-    this.setState({
-      menuState: this.state.menuState === false,
-    });
+    setMenuOpen((prevState) => !prevState);
   }
 
-  render() {
-    const data = this.props.data;
+  const menuClass = menuOpen ? 'open' : 'close';
+  const activeState = menuClass === 'open' ? 'active' : 'inactive';
 
-    const menuClass = this.state.menuState ? 'open' : 'close';
-    const activeState = menuClass === 'open' ? 'active' : 'inactive';
-
-    
-
-    return (
+  return (
       <header className="site-header">  
         <div className="container navbar-container">
       <nav className="navbar">
@@ -52,7 +40,7 @@ export class NavbarContainer extends Component {
           <a 
           href="/" 
           className={`navbar-btn ${activeState} `}
-          onClick={e => this.handleShowMenu(e)}
+          onClick={e => handleShowMenu(e)}
           >
           <span/>
         </a>
@@ -61,11 +49,9 @@ export class NavbarContainer extends Component {
             <ul className="navbar-menu">
               {data.menuItems.map(menuItem => (
                 <li key={menuItem.linkURL} className="navbar-menuItem">
-                  { 
-                  this.state.pageUrl !== '/' ?
+                  { pageUrl !== '/' ?
                     <CustomLink  
-                      linkURL={menuItem.linkURL} 
-                      linkType="internal"
+                      linkURL={`${siteUrl}/${menuItem.linkURL}`} 
                       className="navbar-menuLink"
                     >
                       {menuItem.label}
@@ -104,4 +90,5 @@ export class NavbarContainer extends Component {
       </header>
     );
   }
-}
+
+  export default NavbarContainer;

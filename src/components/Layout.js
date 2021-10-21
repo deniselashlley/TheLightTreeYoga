@@ -6,17 +6,19 @@ import "../styles";
 import { Navbar } from "../components/Navbar";
 import { Footer } from "../components/Footer";
 
-const TemplateWrapper = ({ footerData = null, navbarData = null, children }) => (
+const TemplateWrapper = ({ footerData = null, navbarData = null, children }) => {
+  return (
   <div>
     <Helmet>
       <html lang="en" />
       <meta name="keywords" content="montreal, javascript, programming, meetup" />
     </Helmet>
-    <Navbar data={navbarData} />
+    <Navbar data={navbarData}/>
     <main>{children}</main>
     <Footer data={footerData} />
   </div>
 );
+  }
 
 export const query = graphql`
   fragment LayoutFragment on Query {

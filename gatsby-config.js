@@ -5,6 +5,7 @@ require("dotenv").config({
 module.exports = {
   siteMetadata: {
     title: "The Light Tree",
+    siteUrl: process.env.NODE_EN === development ?'http://localhost:8000/' : 'https://www.thelighttreeyoga.co.uk/' ,
   },
   plugins: [
     "gatsby-plugin-react-helmet",
