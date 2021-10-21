@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 bannerImage: /img/website-banner-1021.png
-image: /img/website-banner-1021.png
+image: /img/tlt-web-banner-2021.jpg
 seo:
   browserTitle: The Light Tree Yoga
   description: Jae Gibbs founded The Light Tree in 2015. A Yogi, Embodied Mystic
