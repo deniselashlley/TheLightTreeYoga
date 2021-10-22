@@ -14,4 +14,4 @@ As a part of reclaiming her ancestral lineage and move toward a decolonised iden
 
 More recently Jae has trained as Focalizing practitioner, a trauma informed, self-empowered therapy focused on accessing embodied wisdom to heal emotional wounds and guide a more authentic lived experience.
 
-Jae facilities healing spaces for embodied explorations that cultivate self-love and community care for our collective wellbeing and empowerment. As a mixed-black bodied woman, she centres the healing of ethnic race-based and patriarchal trauma, exploring and unravelling how these impressions manifest in our bodies and minds to inhibit our true nature, power and magic. XXXX
+Jae facilities healing spaces for embodied explorations that cultivate self-love and community care for our collective wellbeing and empowerment. As a mixed-black bodied woman, she centres the healing of ethnic race-based and patriarchal trauma, exploring and unravelling how these impressions manifest in our bodies and minds to inhibit our true nature, power and magic.
