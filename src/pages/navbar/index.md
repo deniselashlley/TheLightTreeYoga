@@ -9,7 +9,7 @@ menuItems:
     linkURL: "#offerings"
   - label: about
     linkType: hash
-    linkURL: "#mystory"
+    linkURL: "#about"
   - label: connect with me
     linkType: hash
     linkURL: "#connect"
