@@ -27,7 +27,6 @@ export const HomePageTemplate = ({
 
   const breakpoints = useBreakpoint();
   
- console.log(home.bannerImage);
   return (
     <>
       <section className="hero-banner" style={{
@@ -56,12 +55,11 @@ class HomePage extends React.Component {
     const { data: { footerData, navbarData },} = this.props;
     const { frontmatter: home } = data.homePageData.edges[0].node;
     const {seo: { title: seoTitle, description: seoDescription, browserTitle },} = home;
-    const { frontmatter: introduction } = data.introduction.edges[0].node;
-    const { frontmatter: mystory } = data.mystory.edges[0].node;
     const { frontmatter: contact } = data.contact.edges[0].node;
     const { frontmatter: testimonials } = data.testimonials.edges[0].node;
     const { frontmatter: services } = data.services.edges[0].node;
     const { frontmatter: schedule } = data.schedule.edges[0].node;
+
     return (
       <Layout footerData={footerData} navbarData={navbarData}>
         <Helmet>
@@ -78,8 +76,8 @@ class HomePage extends React.Component {
         </Helmet>
         <HomePageTemplate 
           home={home} 
-          introduction={introduction} 
-          mystory={mystory}
+          introduction={data.introduction.edges[0].node} 
+          mystory={data.mystory.edges[0].node}
           contact={contact}
           testimonials={testimonials}
           services={services}
@@ -107,11 +105,11 @@ export const pageQuery = graphql`
       edges {
         node {
           id
+          html
           frontmatter {
             title
             quote
             image
-            body
             highlightedText
             pageLink {
               label
@@ -125,10 +123,10 @@ export const pageQuery = graphql`
       edges {
         node {
           id
+          html
           frontmatter {
             title
             quote
-            body
             image
             pageLink {
               label
@@ -209,7 +207,7 @@ export const pageQuery = graphql`
         node {
           id
           frontmatter {
-            bannerImage
+            image
             seo {
               browserTitle
               title

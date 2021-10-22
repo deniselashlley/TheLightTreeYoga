@@ -1,7 +1,7 @@
 ---
 templateKey: introduction
 title: "Welcome "
-quote: UBUNTU ~ I am because we are XXXXXX
+quote: UBUNTU ~ I am because we are
 image: null
 highlightedText: Join me for embodied explorations, journeys and events.
 pageLink:
@@ -34,4 +34,4 @@ Backstroke in the joy of beautiful imperfections
 
 A space to explore the whole being we are. 
 
-A space for being as it is. XXXXXX
+A space for being as it is.

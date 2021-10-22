@@ -169,7 +169,7 @@ collections:
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "introduction" }
           - { label: "Title", name: "title", widget: "text"}
-          - { label: "Content", name: "body", widget: "markdown" }
+          - { label: "Body", name: "body", widget: "markdown" }
           - { label: "Quote", name: "quote", widget: "text", required: false }
           - { label: "Image", name: "image", widget: "image", required: false}
           - { label: "Highlighted Text", name: "highlightedText", widget: "text", required: false}
