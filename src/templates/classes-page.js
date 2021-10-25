@@ -4,7 +4,7 @@ import { graphql } from "gatsby";
 import Helmet from "react-helmet";
 
 import Layout from "../components/Layout";
-import HTMLContent from "../components/Content";
+import { HTMLContent } from "../components/Content";
 import "../styles/classes-page.scss";
 
 export const ClassesPageTemplate = props => {
