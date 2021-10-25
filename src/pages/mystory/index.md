@@ -8,7 +8,7 @@ buttons:
   - label: About Yoga
     link: /about
   - label: About Focalizing
-    link: /https://www.theinstitute.org/what-is-focalizing
+    link: https://www.theinstitute.org/what-is-focalizing
   - label: About My Teaching
     link: /teachings
 ---
