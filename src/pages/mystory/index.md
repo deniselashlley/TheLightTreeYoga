@@ -7,10 +7,10 @@ quote: I help curious seekers re-member the forgotten wisdom within your bodies
 buttons:
   - label: About Yoga
     link: /about
+  - label: About Focalizing
+    link: /https://www.theinstitute.org/what-is-focalizing
   - label: About My Teaching
     link: /teachings
-  - label: About Focalizing
-    link: /
 ---
 A Yogini, Embodied Mystic and Focalizing Somatic Therapist, Jae began her own healing and empowerment journey with Yoga in 2002. In 2015 she began leading classes, sharing the ancient wisdom, practices and her personal learnings. 
 
