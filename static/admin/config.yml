@@ -178,12 +178,12 @@ collections:
               name: "pageLink", 
               widget: "object",
               fields: [
-                { label: "Link", name: "link", widget: "string" },
-                { label: "Label", name: "label", widget: "string" },
+                { label: "Link", name: "link", widget: "string", required: false},
+                { label: "Label", name: "label", widget: "string", required: false },
               ]
             }
       - file: "src/pages/mystory/index.md"
-        label: "My Story"
+        label: "My Story"''
         name: "mystory"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "my-story" }
@@ -192,9 +192,9 @@ collections:
           - { label: "Image", name: "image", widget: "image", required: false}
           - { label: "Quote", name: "quote", widget: "string", required: false }
           - { 
-              label: "Page Link", 
-              name: "pageLink", 
-              widget: "object",
+              label: "Buttons", 
+              name: "buttons", 
+              widget: "list",
               fields: [
                 { label: "Link", name: "link", widget: "string" },
                 { label: "Label", name: "label", widget: "string" },
@@ -271,7 +271,7 @@ collections:
               name: "pageLink", 
               widget: "object",
               fields: [
-                { label: "Link", name: "link", widget: "string" },
-                { label: "Label", name: "label", widget: "string" },
+                { label: "Link", name: "link", widget: "string", required: false },
+                { label: "Label", name: "label", widget: "string", required: false },
               ]
             }

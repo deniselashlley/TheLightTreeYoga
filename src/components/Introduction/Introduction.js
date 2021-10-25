@@ -8,10 +8,6 @@ export const IntroductionTemplate = ({
       title,
       quote,
       highlightedText,
-      pageLink: {
-        link,
-        label
-      }
     }, 
     contentComponent,
     content
@@ -27,13 +23,6 @@ export const IntroductionTemplate = ({
               <p>{quote}</p>
             </blockquote>
           <p className="highlightedText">{highlightedText}</p>
-        <CustomLink
-          linkType="internal"
-          linkURL={link}
-          className="link link-btn"
-        >
-        {label}
-      </CustomLink>
         </div>
     </section>
   );

@@ -1,5 +1,4 @@
 import React from "react";
-import ReactMarkdown from "react-markdown";
 import CustomLink from "../CustomLink";
 import Content, { HTMLContent } from '../Content'
 import "./styles.scss";
@@ -9,15 +8,17 @@ export const MyStoryTemplate = ({
     title,
     quote,
     image,
-    pageLink: {
-      link,
-      label,
-    }
+    buttons
   },
   content,
   contentComponent
 }) => {
   const SectionContent = contentComponent || Content
+
+  const getLinkType = (value) => {
+    return value.includes('www') ? 'external' : 'internal';
+  } 
+
   return (
     <section id="mystory" className="section-block section-block--mystory">
         <div className="container">
@@ -33,13 +34,17 @@ export const MyStoryTemplate = ({
               </blockquote>
               </div>
             </div>
-            <CustomLink
-              linkType="internal"
-              linkURL={link}
+            <div className="list-of-btns">
+            {buttons.map(item => (
+              <CustomLink
+              linkType={getLinkType(item.link)}
+              linkURL={item.link}
               className="link link-btn"
             >
-            {label}
-          </CustomLink>
+              {item.label}
+            </CustomLink>
+            ))}
+            </div>
         </div>
       </section>
   );

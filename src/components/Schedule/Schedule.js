@@ -1,6 +1,5 @@
 import React from "react";
 import ReactMarkdown from "react-markdown";
-import CustomLink from "../CustomLink";
 import "./styles.scss";
 
 export const ScheduleTemplate = ({data}) => {
@@ -9,10 +8,6 @@ export const ScheduleTemplate = ({data}) => {
     classHeading,
     eventsHeading,
     scheduleSection,
-    pageLink: {
-      label,
-      link
-    }
   } = data;
 
   const getSectionId = title.replace(/''/g, '-');
@@ -44,13 +39,6 @@ export const ScheduleTemplate = ({data}) => {
           }
           </div>
      </div>
-     <CustomLink
-        linkType="internal"
-        linkURL={link}
-        className="link link-btn"
-       >
-        {label}
-       </CustomLink>
    </div>
    </section>
   );

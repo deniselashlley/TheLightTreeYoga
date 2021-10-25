@@ -41,7 +41,12 @@
         grid-row: 1 / 3;
       }
     }
-  
+    
+    .list-of-btns {
+      display:flex;
+      justify-content:space-between;
+    }
+
     .link.link-btn {
         display: block;
         max-width: 23em;

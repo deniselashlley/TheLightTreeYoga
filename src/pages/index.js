@@ -111,10 +111,6 @@ export const pageQuery = graphql`
             quote
             image
             highlightedText
-            pageLink {
-              label
-              link
-            }
           }
         }
       }
@@ -128,9 +124,9 @@ export const pageQuery = graphql`
             title
             quote
             image
-            pageLink {
-              label
+            buttons {
               link
+              label
             }
           }
         }
@@ -193,10 +189,6 @@ export const pageQuery = graphql`
             scheduleSection {
               title
               body
-            } 
-            pageLink {
-              label
-              link
             }
           }
         }

@@ -4,9 +4,13 @@ title: Jae Gibbs
 image: /img/af19-headshot-crop2.png
 quote: I help curious seekers re-member the forgotten wisdom within your bodies
   and hearts, to explore a more courageous, connected and authentic life
-pageLink:
-  label: About Yoga
-  link: /about
+buttons:
+  - label: About Yoga
+    link: /about
+  - label: About My Teaching
+    link: /teachings
+  - label: About Focalizing
+    link: /
 ---
 A Yogini, Embodied Mystic and Focalizing Somatic Therapist, Jae began her own healing and empowerment journey with Yoga in 2002. In 2015 she began leading classes, sharing the ancient wisdom, practices and her personal learnings. 
 

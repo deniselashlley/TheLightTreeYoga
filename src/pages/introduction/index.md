@@ -4,9 +4,7 @@ title: "Welcome "
 quote: UBUNTU ~ I am because we are
 image: null
 highlightedText: Join me for embodied explorations, journeys and events.
-pageLink:
-  label: About yoga
-  link: /about
+
 ---
 This is an invitation to embark on a journey of re-membering our inter-connectedness to reawaken and explore our Aliveness.
 
