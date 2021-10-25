@@ -6,16 +6,19 @@ mainImage:
   imageAlt: yoga teachings.
 seo:
   browserTitle: The Light Tree | My Teaching
-  description: >-
-    Classes are a blend of Vinyasa and Hatha incorporating traditional practices
-    such as mudra and mantra, Chinese medicine techniques.
+  description: Classes are a blend of Vinyasa and Hatha incorporating traditional
+    practices such as mudra and mantra, Chinese medicine techniques.
   title: teaching
 ---
+Your practice is your personal journey. I am here to guide you safely and mindfully through your explorations, providing options that allow you to create a practice that best serves you in that moment.
+
+I encourage a deeper more soulful connection to your body and mind through intention, movement, breath, focus, sound and in group settings togetherness, to shift energy and raise your vibration.
+
 My teaching is focused on four key principles; connection, courage, creativity, contribution which are encompassed within The Light Tree philosophy.
 
 ![null](/img/the-4-c-s.png)
 
-Through Yoga practice we embark on an inner journey of transformation - a cyclical process of self-enquiry, discovery and evolution that begins, at least initially, on our mats.  
+Through embodiment practices we embark on an inner journey of transformation - a cyclical process of self-enquiry, discovery and evolution that begins, at least initially, on our mats.  
 
 * CONNECTION:  We discover how to connect with ourselves on a deeper level physically, mentally, emotionally and soulfully becoming more aware of and **connected** with the experience we are having, our true inner self and our potential
 * COURAGE:   Through our practice we can find a humility and vulnerability that allows us to approach experiences with more openness, experimentation and curiosity helping us to build trust in ourselves and our capabilities and the **courage** pursue all the possibilities that brings.
