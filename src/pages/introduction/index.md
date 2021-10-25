@@ -4,7 +4,6 @@ title: "Welcome "
 quote: UBUNTU ~ I am because we are
 image: null
 highlightedText: Join me for embodied explorations, journeys and events.
-
 ---
 This is an invitation to embark on a journey of re-membering our inter-connectedness to reawaken and explore our Aliveness.
 
@@ -14,7 +13,9 @@ Us humans are no different to trees, formed from seeds, connected by the roots o
 
 Living in environments where our bodies are marginalised, our minds overloaded and our hearts neglected, the emotional wounds we receive are normalised and not acknowledged so often go unchecked and unhealed. As humans our beliefs, stories and intentions are the seeds of our life, our perception and experience of the outer world a reflection and manifestation of what we are nurturing or neglecting within us. 
 
-We are being called back to the old ways to be re-membered and connected in these modern global times. Embodiment and heart-centred practices invite us to re-member that we are that we are more, to embrace our whole being, to receive valuable healing and empowering information our bodies hold.
+Embodiment and heart-centred practices invite us to re-member that we are that we are more, to embrace our whole being, to receive valuable healing and empowering information our bodies hold.
+
+We are being called back to the old ways to help us navigate our modern lives, collectively, in more harmony, and with less harm to ourselves, each other and our home.
 
 Let's create space for not knowing or needing to know. 
 
