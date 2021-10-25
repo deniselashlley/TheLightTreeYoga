@@ -183,7 +183,7 @@ collections:
               ]
             }
       - file: "src/pages/mystory/index.md"
-        label: "My Story"''
+        label: "My Story"
         name: "mystory"
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "my-story" }
