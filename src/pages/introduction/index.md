@@ -1,11 +1,11 @@
 ---
 templateKey: introduction
 title: "Welcome "
-quote: UBUNTU ~ I am because we are
+quote: Join me for embodied explorations, journeys and events.
 image: null
-highlightedText: Join me for embodied explorations, journeys and events.
+highlightedText: ""
 ---
-This is an invitation to embark on a journey of re-membering our inter-connectedness to reawaken and explore our Aliveness.
+### This is an invitation to embark on a journey of re-membering our inter-connectedness to reawaken and explore our Aliveness.
 
 The tree is the realisation of the seed being loved into existence. The seed is a gift paid forward, an intelligent imprint of nature, uniquely expressed, a miraculous becoming. Intrinsically connected with the elements the seed grows, nourished safely within the earth, hydrated by the rain, energised by the sun and breathed by the air. As the seed sprouts expanding roots, the sapling grows ever towards the light, to become the tree it was designed to become. 
 
@@ -15,22 +15,22 @@ Living in environments where our bodies are marginalised, our minds overloaded a
 
 Embodiment and heart-centred practices invite us to re-member that we are that we are more, to embrace our whole being, to receive valuable healing and empowering information our bodies hold.
 
-We are being called back to the old ways to help us navigate our modern lives, collectively, in more harmony, and with less harm to ourselves, each other and our home.
+> We are being called back to the old ways to help us navigate our modern lives, collectively, in more harmony, and with less harm to ourselves, each other and our home.
 
-Let's create space for not knowing or needing to know. 
+*Let's create space for not knowing or needing to know.* 
 
-To dance to the music of our curiosity. 
+*To dance to the music of our curiosity.* 
 
-Explore the order and disordering of aliveness. 
+*Explore the order and disordering of aliveness.* 
 
-Notice the blips and textures and movements. 
+*Notice the blips and textures and movements.* 
 
-A place to expand into the otherness of our humanness. 
+*A place to expand into the otherness of our humanness.* 
 
-Unwind into the freedom of discomfort or the discomfort of freedom. 
+*Unwind into the freedom of discomfort or the discomfort of freedom.* 
 
-Backstroke in the joy of beautiful imperfections 
+*Backstroke in the joy of beautiful imperfections* 
 
-A space to explore the whole being we are. 
+*A space to explore the whole being we are.* 
 
-A space for being as it is.
+*A space for being as it is.*
