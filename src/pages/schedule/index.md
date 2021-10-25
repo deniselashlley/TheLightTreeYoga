@@ -1,7 +1,7 @@
 ---
 templateKey: schedule
 title: Happenings
-classHeading: Explorations
+classHeading: Weekly Explorations
 eventsHeading: Upcoming Journeys + Events
 scheduleSection:
   - body: No planned happenings this month
