@@ -13,7 +13,7 @@ Your practice is your personal journey. I am here to guide you safely and mindfu
 
 I encourage a deeper more soulful connection to your body and mind through intention, movement, breath, focus, sound and in group settings togetherness, to shift energy and raise your vibration.
 
-My teaching is focused on four key principles; connection, courage, creativity, contribution which are encompassed within The Light Tree philosophy.
+My teaching is focused on four key principles; curiosity, connection, creativity, contribution which are encompassed within The Light Tree philosophy.
 
 ![null](/img/the-4cs-21.jpg)
 
