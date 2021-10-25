@@ -2,7 +2,7 @@
 templateKey: introduction
 title: "Welcome "
 quote: Join me for embodied explorations, journeys and events.
-image: null
+image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
 ### This is an invitation to embark on a journey of re-membering our inter-connectedness to reawaken and explore our Aliveness.
