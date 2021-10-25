@@ -37,9 +37,10 @@ export const MyStoryTemplate = ({
             <div className="list-of-btns">
             {buttons.map(item => (
               <CustomLink
-              linkType={getLinkType(item.link)}
-              linkURL={item.link}
-              className="link link-btn"
+                key={item.link}
+                linkType={getLinkType(item.link)}
+                linkURL={item.link}
+                className="link link-btn"
             >
               {item.label}
             </CustomLink>

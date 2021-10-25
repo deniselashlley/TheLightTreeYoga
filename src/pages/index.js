@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Helmet from "react-helmet";
 import AnchorLink from 'react-anchor-link-smooth-scroll';
-import { useBreakpoint } from 'gatsby-plugin-breakpoints';
 
 import Layout from "../components/Layout";
 import { Introduction } from '../components/Introduction'
@@ -12,7 +11,6 @@ import { MyStory } from '../components/MyStory'
 import { Services } from '../components/Services'
 import { Contact } from '../components/Contact'
 import { Testimonials } from '../components/Testimonials'
-
 import "../styles/home.scss";
 
 export const HomePageTemplate = ({ 
@@ -25,13 +23,10 @@ export const HomePageTemplate = ({
     schedule,
  }) => {
 
-  const breakpoints = useBreakpoint();
-  
   return (
     <>
       <section className="hero-banner" style={{
-        //backgroundImage: url(`${home.bannerImage}`),
-        backgroundPosition: breakpoints.md ? '75% top' :'center',
+        backgroundImage: `url(${home.image})`,
         backgroundSize: 'cover',
       }}>
         <AnchorLink href="#intro" className="down-link">

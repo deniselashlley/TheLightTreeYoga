@@ -1,7 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from 'gatsby'
-import ReactMarkdown from "react-markdown";
 import Helmet from "react-helmet";
 
 import Layout from "../components/Layout";
@@ -19,11 +18,7 @@ export const TeachingPageTemplate = props => {
         <section className="content-block">
           <div className="container">
           <h1>{page.frontmatter.title}</h1>
-          {page.bodyIsMarkdown ? (
-            <ReactMarkdown children={page.html} />
-          ) : (
             <HTMLContent content={page.html} />
-          )}
           </div>
         </section>
     </article>
