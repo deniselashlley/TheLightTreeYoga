@@ -30,6 +30,6 @@ highlightedText: ""
 
 *Backstroke in the joy of beautiful imperfections* 
 
-*A space to explore the whole being we are.* 
+*A space to explore the whole being we are* 
 
 *A space for being as it is.*
