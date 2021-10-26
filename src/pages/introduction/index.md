@@ -1,7 +1,10 @@
 ---
 templateKey: introduction
-title: This is an invitation to embark on a journey of re-membering our
-  inter-connectedness to reawaken and explore our Aliveness.
+title: >-
+  This is an invitation to embark on a journey of re-membering our
+  inter-connectedness,
+
+  to reawaken and explore our Aliveness.
 quote: Join me for embodied explorations, journeys and events.
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
