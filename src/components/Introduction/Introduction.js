@@ -1,5 +1,4 @@
 import React from "react";
-import CustomLink from "../CustomLink";
 import Content, { HTMLContent } from '../Content'
 import "./styles.scss";
 

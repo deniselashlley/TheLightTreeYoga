@@ -11,7 +11,7 @@ export const CustomLink = ({ linkType, linkURL, children, className = "" }) => {
     );
   } else {
     return (
-      <a className={className} href={linkURL}>
+      <a className={className} href={linkURL} target="_blank">
         {children}
       </a>
     );

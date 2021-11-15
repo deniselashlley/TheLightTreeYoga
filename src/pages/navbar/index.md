@@ -3,13 +3,13 @@ templateKey: navbar
 menuItems:
   - label: happenings
     linkType: hash
-    linkURL: "#happenings"
+    linkURL: "/#happenings"
   - label: offerings
     linkType: hash
-    linkURL: "#offerings"
+    linkURL: "/#offerings"
   - label: about
     linkType: hash
-    linkURL: "#mystory"
+    linkURL: "/#mystory"
   - label: connect with me
     linkType: hash
     linkURL: "#connect"

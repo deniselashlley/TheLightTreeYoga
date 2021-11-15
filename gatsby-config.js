@@ -66,6 +66,12 @@ module.exports = {
           queries: customQueries,
       },
     },
+    {
+      resolve: 'gatsby-plugin-anchor-links',
+      options: {
+        offset: -100,
+      },
+    },
     "gatsby-plugin-netlify",
   ],
 };

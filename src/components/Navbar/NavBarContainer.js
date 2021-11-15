@@ -1,14 +1,12 @@
 import React, { useState, useEffect} from "react";
+import { Link } from 'gatsby';
+import { AnchorLink } from 'gatsby-plugin-anchor-links';
 
 import "./styles.scss";
-import CustomLink from "../CustomLink";
-import AnchorLink from 'react-anchor-link-smooth-scroll'
-import useSiteMetadata from '../SiteMetadata'
 
 const NavbarContainer = ({data}) => {
   const [menuOpen, setMenuOpen] = useState(false);
   const [pageUrl, setPageUrl] = useState(''); 
-  const { siteUrl } = useSiteMetadata()
 
   useEffect(() => {
     if (typeof window !== undefined) {
@@ -29,13 +27,11 @@ const NavbarContainer = ({data}) => {
         <div className="container navbar-container">
       <nav className="navbar">
         <div className="site-brand">
-        <CustomLink 
-          linkURL="/" 
-          linkType="internal" 
+        <Link to="/"
           className="site-logo"
         >
           <span>The Light Tree</span>
-        </CustomLink>
+        </Link>
         </div>
           <a 
           href="/" 
@@ -47,19 +43,13 @@ const NavbarContainer = ({data}) => {
         <div className={`navbar-wrapper ${menuClass}`}>
           {data.menuItems.length > 0 && (
             <ul className="navbar-menu">
-              {data.menuItems.map(menuItem => (
-                <li key={menuItem.linkURL} className="navbar-menuItem">
-                  { pageUrl !== '/' ?
-                    <CustomLink  
-                      linkURL={`${siteUrl}/${menuItem.linkURL}`} 
-                      className="navbar-menuLink"
-                    >
-                      {menuItem.label}
-                    </CustomLink>
-                    :
-                    <AnchorLink href={menuItem.linkURL} className="navbar-menuLink">
-                      {menuItem.label}
-                    </AnchorLink>
+              {data.menuItems.map(({linkURL,label}) => (
+                <li key={linkURL} className="navbar-menuItem">
+                  { pageUrl !== '/' ? (                    
+                  <AnchorLink to={linkURL} title={label} label={label} className="navbar-menuLink"/>
+                  ) : (
+                    <Link to={linkURL} className="navbar-menuLink">{label}</Link>
+                  )
                   }   
                 </li>
               ))}
