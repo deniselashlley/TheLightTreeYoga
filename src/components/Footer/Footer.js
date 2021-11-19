@@ -2,28 +2,13 @@ import React from "react";
 import "./styles.scss";
 
 export const FooterTemplate = ({ data }) => {
-  const { logoImage, copyrightText} = data;
+  const { copyrightText} = data;
   let year = new Date().getFullYear();
 
   return (
     <footer role="contentinfo" className="footer">
       <div className="container">
         <p className="copy-text">Copyright &copy; {year} {copyrightText}</p>
-        {/* <p className="member-logo">
-          <span>{logoImage.imageAlt}</span>
-            <a 
-              href={logoImage.imageLink}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={logoImage.image}
-                alt={logoImage.imageAlt}
-                title={logoImage.imageAlt}
-              />
-              
-            </a> 
-  </p> */}
         </div>
     </footer>
   );

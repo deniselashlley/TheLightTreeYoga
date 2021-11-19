@@ -28,10 +28,6 @@ export const query = graphql`
           id
           frontmatter {
             copyrightText
-            logoImage {
-              image
-              imageAlt
-            }
           }
         }
       }

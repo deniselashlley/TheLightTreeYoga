@@ -7,23 +7,6 @@ import Layout from "../components/Layout";
 import { HTMLContent } from "../components/Content";
 import "../styles/about-page.scss";
 
-export const AboutPageTemplate = props => {
-  const { page } = props;
-
-  return (
-    <article className="about">
-        <header className="banner">
-          <img src={page.frontmatter.mainImage.image} alt={page.frontmatter.mainImage.imageAlt} />
-        </header>
-        <section className="content-block">
-          <div className="container">
-            <h1>{page.frontmatter.title}</h1>
-              <HTMLContent content={page.html} />
-          </div>
-        </section>
-    </article>
-  );
-};
 
 const AboutPage = ({ data }) => {
   const { markdownRemark: page, footerData, navbarData } = data;
@@ -40,7 +23,17 @@ const AboutPage = ({ data }) => {
         <meta name="description" content={seoDescription} />
         <title>{browserTitle}</title>
       </Helmet>
-      <AboutPageTemplate page={{ ...page, bodyIsMarkdown: false }} />
+      <article className="about">
+        <header className="banner">
+          <img src={page.frontmatter.mainImage.image} alt={page.frontmatter.mainImage.imageAlt} />
+        </header>
+        <section className="content-block">
+          <div className="container">
+            <h1>{page.frontmatter.title}</h1>
+              <HTMLContent content={page.html} />
+          </div>
+        </section>
+    </article>
     </Layout>
   );
 };

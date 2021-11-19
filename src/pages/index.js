@@ -13,41 +13,9 @@ import { Contact } from '../components/Contact'
 import { Testimonials } from '../components/Testimonials'
 import "../styles/home.scss";
 
-export const HomePageTemplate = ({ 
-    home,  
-    introduction, 
-    mystory, 
-    contact,
-    testimonials,
-    services,
-    schedule,
- }) => {
-
-  return (
-    <>
-      <section className="hero-banner" style={{
-        backgroundImage: `url(${home.image})`,
-        backgroundSize: 'cover',
-      }}>
-        <AnchorLink href="#intro" className="down-link">
-          <span>Introduction</span>
-        </AnchorLink>
-      </section>
-      <Introduction data={introduction} />
-      <Schedule data={schedule} />
-      <MyStory data={mystory} />
-      <Services data={services} />
-      <Contact data={contact} />
-      <Testimonials data={testimonials} />
-    </>
-  );
-};
-
-class HomePage extends React.Component {
+const HomePage = ({ data }) => {
   
-  render() {
-    const { data } = this.props;
-    const { data: { footerData, navbarData },} = this.props;
+    const { footerData, navbarData } = data;
     const { frontmatter: home } = data.homePageData.edges[0].node;
     const {seo: { title: seoTitle, description: seoDescription, browserTitle },} = home;
     const { frontmatter: contact } = data.contact.edges[0].node;
@@ -69,19 +37,25 @@ class HomePage extends React.Component {
             src="https://public.tockify.com/browser/embed.js"
           />
         </Helmet>
-        <HomePageTemplate 
-          home={home} 
-          introduction={data.introduction.edges[0].node} 
-          mystory={data.mystory.edges[0].node}
-          contact={contact}
-          testimonials={testimonials}
-          services={services}
-          schedule={schedule}
-        />
+        <>
+          <section className="hero-banner" style={{
+          backgroundImage: `url(${home.image})`,
+          backgroundSize: 'cover',
+        }}>
+          <AnchorLink href="#intro" className="down-link">
+            <span>Introduction</span>
+          </AnchorLink>
+        </section>
+          <Introduction data={data.introduction.edges[0].node} />
+          <Schedule data={schedule} />
+          <MyStory data={data.mystory.edges[0].node} />
+          <Services data={services} />
+          <Contact data={contact} />
+          <Testimonials data={testimonials} />
+        </>
       </Layout>
     );
   }
-}
 
 HomePage.propTypes = {
   data: PropTypes.shape({

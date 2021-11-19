@@ -1,11 +1,11 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { HomePageTemplate } from "../../pages/index";
+import HomePage from "../../pages/index";
 
 const HomePagePreview = ({ entry }) => {
   const home = entry.getIn(["data"]).toJS();
-  return <HomePageTemplate home={home} />;
+  return <HomePage home={home} />;
 };
 
 HomePagePreview.propTypes = {

@@ -36,7 +36,6 @@
 
       &-wrapper {
         position: absolute;
-        background-color: $white;
         top:90px;
         left: 0;
         width: 100%;
@@ -88,9 +87,24 @@
             display: block;
             height: 100%;
             position: absolute;
-            transition: all .2s ease-out;
+            transition: all ease-in-out .2s;
             width: 100%;
           }
+
+          /* .different::after{
+            content: '';
+            position: absolute;
+            width: 0px;
+            height: 5px;
+            left: 50%;
+            bottom:0;
+            background-color: white;
+            transition: all ease-in-out .2s;
+          }
+          .different:hover::after{
+            width: 100%;
+            left: 0;
+          }*/
 
           &:before {
             top: 8px;
@@ -136,7 +150,7 @@
         }
       }
 
-      &-menuItem {
+      &-menu-item {
         width: 100%;
         line-height: 2.8;
         padding: 0 20px;
@@ -153,7 +167,8 @@
         }
       }
 
-      &-menuLink {
+      &-menu-link {
+        position:relative;
         color: $abbey;
         font-size: 1.4rem;
         line-height: 2.5;
@@ -161,19 +176,38 @@
         text-decoration: none;
         font-weight: 600;
         letter-spacing: 0.4px;
-        // transition: all $transition-duration ease-in-out;
         transition: color 0.2s ease;
+        transition: color 0.2s;
         border-bottom: 2px solid transparent;
         text-transform: uppercase;
 
-        &:hover,
+        &:hover:after {
+          width: 100%;
+        }
+      
+        &:after {
+          background-color: $yellow;
+          bottom: 0;
+          content: '';
+          display: block;
+          height: 2px;
+          left: 0;
+          position: absolute;
+          transition: width 1s;
+          width: 0;
+          left: -1px
+        }
+      
+      
+
+        /*&:hover,
         &--active {
           transition: transform .3s ease-out,border-color .3s ease-out;
           border-bottom: 2px solid $yellow;
           color: $light-grey;
           backface-visibility: hidden;
           transform: scaleX(1);
-        }
+        }*/
       }
 
 

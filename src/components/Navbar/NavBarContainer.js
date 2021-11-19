@@ -44,11 +44,11 @@ const NavbarContainer = ({data}) => {
           {data.menuItems.length > 0 && (
             <ul className="navbar-menu">
               {data.menuItems.map(({linkURL,label}) => (
-                <li key={linkURL} className="navbar-menuItem">
+                <li key={linkURL} className="navbar-menu-item">
                   { pageUrl !== '/' ? (                    
-                  <AnchorLink to={linkURL} title={label} label={label} className="navbar-menuLink"/>
+                  <AnchorLink to={linkURL} title={label} label={label} className="navbar-menu-link"/>
                   ) : (
-                    <Link to={linkURL} className="navbar-menuLink">{label}</Link>
+                    <Link to={linkURL} className="navbar-menu-link">{label}</Link>
                   )
                   }   
                 </li>

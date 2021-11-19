@@ -7,24 +7,6 @@ import Layout from "../components/Layout";
 import { HTMLContent } from"../components/Content";
 import "../styles/teaching-page.scss";
 
-export const TeachingPageTemplate = props => {
-  const { page } = props;
-
-  return (
-    <article className="teachings">
-        <header className="banner">
-          <img src={page.frontmatter.mainImage.image} alt={page.frontmatter.mainImage.imageAlt} />
-        </header>
-        <section className="content-block">
-          <div className="container">
-          <h1>{page.frontmatter.title}</h1>
-            <HTMLContent content={page.html} />
-          </div>
-        </section>
-    </article>
-  );
-};
-
 const TeachingPage = ({ data }) => {
   const { markdownRemark: page, footerData, navbarData } = data;
   const {
@@ -40,7 +22,17 @@ const TeachingPage = ({ data }) => {
         <meta name="description" content={seoDescription} />
         <title>{browserTitle}</title>
       </Helmet>
-      <TeachingPageTemplate page={{ ...page, bodyIsMarkdown: false }} />
+      <article className="teachings">
+        <header className="banner">
+          <img src={page.frontmatter.mainImage.image} alt={page.frontmatter.mainImage.imageAlt} />
+        </header>
+        <section className="content-block">
+          <div className="container">
+          <h1>{page.frontmatter.title}</h1>
+            <HTMLContent content={page.html} />
+          </div>
+        </section>
+    </article>
     </Layout>
   );
 };

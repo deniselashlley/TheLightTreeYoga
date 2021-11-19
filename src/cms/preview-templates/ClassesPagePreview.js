@@ -1,9 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { ClassesPageTemplate } from "../../templates/classes-page";
+import ClassesPage from "../../templates/classes-page";
 
 const ClassesPagePreview = ({ entry, widgetFor }) => (
-  <ClassesPageTemplate
+  <ClassesPage
     page={{
       frontmatter: entry.getIn(["data"]).toJS(),
       html: entry.getIn(["data", "body"]),

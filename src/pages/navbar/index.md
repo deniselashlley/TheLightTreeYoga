@@ -12,7 +12,7 @@ menuItems:
     linkURL: "/#mystory"
   - label: connect with me
     linkType: hash
-    linkURL: "#connect"
+    linkURL: "/#connect"
 socialLinks:
   - hiddenText: "@we_the_light_tree_wellness"
     label: follow
