@@ -5,9 +5,7 @@ quote: Join me for embodied explorations, journeys and events.
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
-### of re-membering our inter-connectedness, to reawaken and explore our Aliveness
-
-
+## to re-member our inter-connectedness, to reawaken and explore our Aliveness
 
 **The** tree is the realisation of the seed being loved into existence. The seed is a gift paid forward, an intelligent imprint of nature, uniquely expressed, a miraculous becoming. Intrinsically connected with the elements the seed grows, nourished safely within the earth, hydrated by the rain, energised by the sun and breathed by the air. As the seed sprouts expanding roots, the sapling grows ever towards the light, to become the tree it was designed to become. 
 
