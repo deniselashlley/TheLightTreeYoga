@@ -13,9 +13,9 @@ buttons:
   - label: About My Teaching
     link: /teachings
 ---
-A Yogini, Embodied Mystic and Focalizing Somatic Therapist, I began my own healing and empowerment journey with Yoga in 2002. In 2015 I started leading Yoga classes, sharing the ancient wisdom, practices and my personal learnings. 
+A Yogini, Embodied Mystic and Focalizing Somatic Therapist, I began my own healing and empowerment journey with Yoga in 2002. In 2015 I started leading Yoga classes, sharing the ancient spiritual principles and practices along with my personal learnings. 
 
-As a part of reclaiming my ancestral lineage and as move toward a decolonised identity, I embarked on a priestess journey into the arts of indigenous Afro and Celtic spiritual practice.
+As a part of reclaiming my ancestral lineage and moving toward a decolonised identity, I embarked on a priestess journey into the arts of indigenous Afro and Celtic spiritual practice.
 
 More recently I have trained as Focalizing practitioner, a trauma informed, self-empowered therapy focused on accessing embodied wisdom to heal emotional wounds and guide a more authentic lived experience.
 
