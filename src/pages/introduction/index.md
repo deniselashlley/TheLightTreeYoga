@@ -1,15 +1,11 @@
 ---
 templateKey: introduction
-title: >-
-  This is an invitation to embark on a journey of re-membering our
-  inter-connectedness,
-
-  to reawaken and explore our Aliveness.
+title: "This is an invitation "
 quote: Join me for embodied explorations, journeys and events.
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
-
+### to embark on a journey of re-membering our inter-connectedness, to reawaken and explore our Aliveness.
 
 **The** tree is the realisation of the seed being loved into existence. The seed is a gift paid forward, an intelligent imprint of nature, uniquely expressed, a miraculous becoming. Intrinsically connected with the elements the seed grows, nourished safely within the earth, hydrated by the rain, energised by the sun and breathed by the air. As the seed sprouts expanding roots, the sapling grows ever towards the light, to become the tree it was designed to become. 
 
@@ -19,11 +15,7 @@ highlightedText: ""
 
 **Embodiment** and heart-centred practices invite us to re-member that we are that we are more, to embrace our whole being, to receive valuable healing and empowering information our bodies hold.
 
-
-
 ### We are being called back to the old ways to help us navigate our modern lives, collectively, in more harmony, and with less harm to ourselves, each other and our home.
-
-
 
 *Let's create space for not knowing or needing to know.* 
 
