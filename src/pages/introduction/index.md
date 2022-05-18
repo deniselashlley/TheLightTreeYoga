@@ -1,7 +1,7 @@
 ---
 templateKey: introduction
 title: "You are invited to embark on a journey "
-quote: Join me for embodied explorations, journeys and events.....
+quote: Join me for embodied explorations, journeys and events.
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
