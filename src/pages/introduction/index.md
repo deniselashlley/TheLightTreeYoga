@@ -1,8 +1,8 @@
 ---
 templateKey: introduction
 title: Let's go on a journey to re-member our inter-connectedness
-quote: Join me for embodied explorations, journeys and events to reawaken and
-  explore our sense of Aliveness!
+quote: I invite you to join me for embodied explorations, journeys and events to
+  reawaken and explore our sense of Aliveness!
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
