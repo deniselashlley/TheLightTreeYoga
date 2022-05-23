@@ -12,9 +12,9 @@ Intrinsically connected with the elements the seed grows, nourished safely withi
 
 As the seed sprouts, expanding roots, the sapling grows ever towards the light, to simply become the tree it was designed to become. The seed never questions or doubts that it will become the tree.
 
-
-
-### **What if we could become more like the trees?**
+>
+>
+> ### **What if we could become more like the trees?**
 
 We too are loved into existence. Formed from seeds, connected by the roots of before and ever expanding towards the beyond. Intrinsically connected to one another. 
 
