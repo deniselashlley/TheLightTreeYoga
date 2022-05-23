@@ -11,7 +11,7 @@ scheduleSection:
       #### For Black Women and Women of Colour
 
 
-      Join me in this exploration of BE:coming. We gather at the Supermoon before Summer Solstice, a time when nature comes into full bloom, a flourish of BE:coming. You will be held in a supportive community as I guide you on a journey inwards through personal and collective inquiry, movement, breathwork and soundscape.
+      Curious Ones, join me in this exploration of your BE:coming. We gather at the Supermoon before Summer Solstice, a time when nature comes into full bloom, a flourish of BE:coming. You will be held in a supportive community as I guide you on a journey inwards, through personal and collective inquiry, movement, breathwork and soundscape.
 
 
       #### When: 12:30-2:30 ~ Sunday 12th June
@@ -20,7 +20,7 @@ scheduleSection:
       #### Where: Blithe Yoga, Stratford
 
 
-      ###### **[Tell me more](https://www.blitheyoga.com/events#be:coming-jump)**
+      ###### **[Sign me up](https://www.blitheyoga.com/events#be:coming-jump)**
 
 
       - - -
