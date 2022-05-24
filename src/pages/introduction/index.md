@@ -6,8 +6,11 @@ quote: I invite you to join me for embodied explorations, journeys and events to
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
-**The** **tree is the realisation of the seed being loved into existence.** The seed is a gift paid forward, an intelligent imprint of nature, uniquely expressed, a miraculous becoming. 
-
+**The** **tree is the realisation of the seed being loved into existence.** The seed is a gift paid forward, an intelligent imprint of nature, uniquely expressed, a miraculous becoming.
+<br/> 
+<br/>
+<br/> 
+<br/> 
 Intrinsically connected with the elements the seed grows, nourished safely within the earth, hydrated by the rain, energised by the sun and breathed by the air. 
 
 As the seed sprouts, expanding roots, the sapling grows ever towards the light, to simply become the tree it was designed to become. The seed never questions or doubts that it will become the tree.
