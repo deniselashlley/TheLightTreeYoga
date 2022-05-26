@@ -1,14 +1,13 @@
 ---
 templateKey: about-page
-title: About yoga
+title: about yoga
 mainImage:
   image: /img/group_yoga_01.jpg
   imageAlt: group of yoga
 seo:
   browserTitle: The Light Tree | About yoga
-  description: >-
-    Yoga refers to both the state of connection and the techniques and practices
-    used to connect.
+  description: Yoga refers to both the state of connection and the techniques and
+    practices used to connect.
   title: About yoga
 ---
 Yoga translates as Yoke or Union in ancient Sanskrit meaning to connect. This refers to both the state of connection and the techniques and practices used to connect. The practice of Yoga dates back thousands of years and is known to originate from ancient India but has also been found in ancient Africa and the far-east. The system of Yoga is founded in ancient wisdom that forms a guide of practices to help you access a deeper level of awareness and connection leading to a healthier and happier, more balanced and fulfilled life. 
