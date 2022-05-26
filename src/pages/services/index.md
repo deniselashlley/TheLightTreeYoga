@@ -1,6 +1,6 @@
 ---
 templateKey: services
-title: Offerings
+title: offerings
 serviceList:
   - description: |
       All public explorations are listed in the schedule section. 
