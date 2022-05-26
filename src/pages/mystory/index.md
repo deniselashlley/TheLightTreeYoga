@@ -1,6 +1,6 @@
 ---
 templateKey: my-story
-title: Jae Gibbs
+title: jae gibbs
 image: /img/af19-headshot-crop2.png
 quote: I help curious seekers courageously re-member the forgotten wisdom within
   your bodies and hearts, to explore a more connected, creative and authentic
