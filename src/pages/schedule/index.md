@@ -1,6 +1,6 @@
 ---
 templateKey: schedule
-title: Happenings
+title: happenings
 classHeading: Weekly Explorations
 eventsHeading: Upcoming Journeys + Events
 scheduleSection:
