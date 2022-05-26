@@ -6,11 +6,15 @@ quote: I invite you to join me for embodied explorations, journeys and events to
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
+**<br/>**
+
 **The** **tree is the realisation of the seed being loved into existence.** The seed is a gift paid forward, an intelligent imprint of nature, uniquely expressed, a miraculous becoming.
 
 Intrinsically connected with the elements the seed grows, nourished safely within the earth, hydrated by the rain, energised by the sun and breathed by the air. 
 
 As the seed sprouts, expanding roots, the sapling grows ever towards the light, to simply become the tree it was designed to become. The seed never questions or doubts that it will become the tree.
+
+**<br/>**
 
 > ### **What can we learn from the trees?**
 
@@ -23,6 +27,8 @@ We too are loved into existence. Formed from seeds, connected by the roots of be
 **Science is now starting to catch up with what ancient wisdom always knew**, that these emotional wounds and stressors begin to manifest physically if not attended to. 
 
 **Embodiment** **and heart-centred practices invite us to re-member** that we are that we are more, not just our perception, beliefs and stories, to embrace all our facets and experiences as a whole being, and in doing so receive valuable healing and empowering information held within our bodies.
+
+**<br/>**
 
 ### We are being called back to the old ways to help us navigate our modern lives, collectively, in more harmony, and with less harm to ourselves, each other and our home.
 
@@ -43,3 +49,5 @@ We too are loved into existence. Formed from seeds, connected by the roots of be
 *A space to explore the whole being we are* 
 
 *A space for being as it is.*
+
+**<br/>**
