@@ -20,13 +20,13 @@ As the seed sprouts, expanding roots, the sapling grows ever towards the light, 
 
 We too are loved into existence. Formed from seeds, connected by the roots of before and ever expanding towards the beyond. Intrinsically connected to one another. 
 
-**The thing is as humans we can get stuck in our heads.** Attaching to beliefs, stories and intentions which become the emotional seeds of our life. Our perception and experience of the outer world is often a reflection and manifestation of what we are nurturing or neglecting within us. 
+**The thing is, as humans, we can get stuck in our heads.** Attaching to beliefs, stories and intentions which become the emotional seeds of our life. Our perception and experience of the outer world is often a reflection and manifestation of what we are nurturing or neglecting within us. 
 
 **Living in environments** where our minds are prioritised and overloaded with continual streams of information, our bodies can be easily marginalised towards 'other'. Our hearts become neglected, the emotional wounds we receive normalised and the stressors we experience not acknowledged, so often go unchecked and unhealed. 
 
-**Science is now starting to catch up with what ancient wisdom always knew**, that these emotional wounds and stressors begin to manifest physically if not attended to. 
+**Western science is now starting to catch up with what ancient wisdom intuitively knew**, that these emotional wounds and stressors begin to manifest physically if not attended to. 
 
-**Embodiment** **and heart-centred practices invite us to re-member** that we are that we are more, not just our perception, beliefs and stories, to embrace all our facets and experiences as a whole being, and in doing so receive valuable healing and empowering information held within our bodies.
+**Embodiment** **and heart-centred practices invite us to re-member** that we are that we are more, not just our perception, beliefs and stories. We have the potential to embrace all our facets and experiences as a whole being, and in doing so receive valuable healing and empowering information held within our bodies.
 
 **<br/>**
 
@@ -49,5 +49,3 @@ We too are loved into existence. Formed from seeds, connected by the roots of be
 *A space to explore the whole being we are* 
 
 *A space for being as it is.*
-
-**<br/>**
