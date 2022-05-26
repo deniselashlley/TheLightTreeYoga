@@ -1,6 +1,6 @@
 ---
 templateKey: teaching-page
-title: My Teaching
+title: my teaching
 mainImage:
   image: /img/books_about_yoga.jpg
   imageAlt: yoga teachings.
