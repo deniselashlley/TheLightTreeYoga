@@ -1,6 +1,6 @@
 ---
 templateKey: introduction
-title: Let's go on a journey to re-member our inter-connectedness
+title: let's go on a journey to re-member our inter-connectedness
 quote: I invite you to join me for embodied explorations, journeys and events to
   reawaken and restore our sense of Aliveness!
 image: /img/tlt-intro-21.jpg
@@ -16,7 +16,7 @@ As the seed sprouts, expanding roots, the sapling grows ever towards the light, 
 
 **<br/>**
 
-> ### **What can we learn from the trees?**
+> ### **what can we learn from the trees?**
 
 We too are loved into existence. Formed from seeds, connected by the roots of before and ever expanding towards the beyond. Intrinsically connected to one another. 
 
@@ -30,7 +30,7 @@ We too are loved into existence. Formed from seeds, connected by the roots of be
 
 **<br/>**
 
-### We are being called back to the old ways to help us navigate our modern lives, collectively, in more harmony, and with less harm to ourselves, each other and our home.
+### we are being called back to the old ways to help us navigate our modern lives, collectively, in more harmony, and with less harm to ourselves, each other and our home.
 
 *Let's create space for not knowing or needing to know.* 
 
