@@ -10,15 +10,17 @@ buttons:
     link: /about
   - label: About Focalizing
     link: https://www.theinstitute.org/what-is-focalizing
-  - label: About My Teaching
+  - label: About My Approach
     link: /teachings
 ---
-A Yogini, Focalizing Somatic Practitioner and Embodied Mystic I began my own healing and empowerment journey with Yoga in 2002. In 2015 I began leading Yoga classes, sharing the ancient spiritual principles and practices along with my personal learnings. 
+A Yogini, Focalizing Somatic Practitioner and Embodied Mystic I began my personal healing and empowerment journey with Yoga back in 2002. 
 
-As a part of reclaiming my ancestral lineage and moving toward a decolonised identity, I have embarked on a priestess journey into the arts of indigenous Afro and Celtic spiritual practice.
-
-I am a certified Focalizing Practitioner, a trauma informed, self-empowered therapy focused on accessing embodied wisdom to heal emotional wounds and guide a more authentic lived experience.
-
-I facilitate person-centred, trauma-sensitive and nature-aligned healing spaces for embodied explorations that cultivate self-love and community care for our collective wellbeing and empowerment. 
+This journey led me to begin teaching Yoga in 2015, originally training in Ashtanga and then Yin, Restorative and Non-Dual Tantra Yoga, as well as Somatic and Embodiment Practices. I am also an Indigenous African Spirituality and Celtic Earth-Based Practitioner. 
 
 As a mixed-Black bodied woman, I centre the healing of race-based and patriarchal trauma, exploring and unravelling how these impressions manifest in our bodies and minds to inhibit our true nature, power and magic.
+
+All of my offerings are guided by intuitive, holistic self and/or collective inquiry and expression, through the practices informed by my own journey. 
+
+Focalizing is abody based, holistic way of helping people work through emotions, trauma and experiences that doesn’t require analysing the story of what happened. As the Practitioner I hold a space free of judgement or fixing that empowers You, the Focalizer, to access your intuitive embodied wisdom to heal emotional wounds and guide you towards an authentic lived experience.
+
+I am devoted to facilitating person-centred, trauma-sensitive and nature-aligned healing spaces, for embodied explorations that cultivate self-love and community care for our collective wellbeing and empowerment.
