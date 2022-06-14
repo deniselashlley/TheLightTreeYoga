@@ -2,25 +2,42 @@
 templateKey: schedule
 title: happenings
 classHeading: Weekly Explorations
-eventsHeading: Upcoming Journeys + Events
+eventsHeading: Upcoming Events + Journeys
 scheduleSection:
   - body: >-
-      ### BE:coming Community Ritual
+      ### Tend To Your Fire
 
 
-      #### For Black Women and Women of Colour
+      #### Day Retreat For Black Women and Women of Colour
 
 
-      Curious Ones, join me in this exploration of your BE:coming. We gather at the Supermoon before Summer Solstice, a time when nature comes into full bloom, a flourish of BE:coming. You will be held in a supportive community as I guide you on a journey inwards, through personal and collective inquiry, movement, breathwork and soundscape.
+      ##### Calling the Curious + Courageous willing to dance in the flames
 
 
-      #### When: 12:30-2:30 ~ Sunday 12th June
+      Join me + Oya Retreats to Release, Resource and Rise as we explore the element of F I R E ~ The heat of pleasure, pain, desire, change, loss, transformation...
 
 
-      #### Where: Blithe Yoga, Stratford
+      Over the last 2+ years, what fires have burned for you?
 
 
-      ###### **[Sign me up](https://www.blitheyoga.com/events#be:coming-jump)**
+      What happens when the heat rises?
+
+
+      How can we tend to the fires of our lives to embrace more of our wholeness?
+
+
+      You will be held in a supportive community as we guide you on a journey inwards, through personal and collective inquiry, movement, breathwork and soundscape.
+
+
+
+
+      #### When: 12:30-2:30 ~ Saturday 30th July
+
+
+      #### Where: London Venue tbc
+
+
+      ###### **[Sign me up](https://www.oyaretreats.com/retreats/tend-your-fire)**
 
 
       - - -
