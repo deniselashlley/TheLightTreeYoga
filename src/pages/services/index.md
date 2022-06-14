@@ -10,23 +10,30 @@ serviceList:
     title: GROUP EXPLORATIONS | JOURNEYS | EVENTS
     label: Contact me to book private group or workplace explorations.
   - description: >-
-      I offer private 1-2-1 explorations at your home, at my home studio or
-      online.
+      Holistic Individual Explorations to support and guide your wellbeing and
+      empowerment. Including 
 
 
-      ~ Yoga including asana (postures), pranayama (breathwork), meditation, nidra (deep rest) and restorative
+      ~ Yoga asana (postures), pranayama (breathwork), meditation, nidra + restorative (deep rest) 
 
-      ~ Embodied Movement
+      ~ Intuitive Movement
 
-      ~ Focalizing
+      ~ Focalizing + Somatic practices
+
+      ~ Sonic Massage + Journeying. 
+
+
+      Held at your home, studio or online
     image: /img/adult-daylight-exercise-1533886.jpg
     link: mailto:thelighttreeyoga@gmail.com
-    title: PRIVATE PRACTICE
-    label: Book a free consultation
+    title: EMBODIED HEALING (1-2-1)
+    label: Book a free orientation to discover how Embodied Healing can support your
+      wellbeing and growth
   - description: >-
       Health is “a state of complete physical, mental, and social well-being and
-      not merely the absence of disease or infirmity (illness) and wellness is
-      “the optimal state of health of individuals and groups, as defined by WHO.
+      not merely the absence of disease or infirmity (illness)" and wellness is
+      “the optimal state of health of individuals and groups", as defined by
+      WHO.
 
 
       I offer a reduced rate or FOC regular class to one change-making group or charitable organisation for their service users and staff. 
