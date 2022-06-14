@@ -14,7 +14,7 @@ scheduleSection:
       ##### Calling the Curious + Courageous willing to dance in the flames
 
 
-      `<br/>`
+      ``
 
 
       Join me + Oya Retreats to Release, Resource and Rise as we explore the element of F I R E ~ The heat of pleasure, pain, desire, change, loss, transformation...
@@ -32,7 +32,6 @@ scheduleSection:
       You will be held in a supportive community as we guide you on a journey inwards, through personal and collective inquiry, movement, breathwork and soundscape.
 
 
-      <br/>
 
 
       #### When: 12:30-2:30 ~ Saturday 30th July
