@@ -6,27 +6,7 @@ quote: I invite you to join me for embodied explorations, journeys and events to
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
-**<br/>**
 
-**The** **tree is the realisation of the seed being loved into existence.** The seed is a gift paid forward, an intelligent imprint of nature, uniquely expressed, a miraculous becoming.
-
-Intrinsically connected with the elements the seed grows, nourished safely within the earth, hydrated by the rain, energised by the sun and breathed by the air. 
-
-As the seed sprouts, expanding roots, the sapling grows ever towards the light, to simply become the tree it was designed to become. The seed never questions or doubts that it will become the tree.
-
-**<br/>**
-
-> ### **what can we learn from the trees?**
-
-We too are loved into existence. Formed from seeds, connected by the roots of before and ever expanding towards the beyond. Intrinsically connected to one another. 
-
-**The thing is, as humans, we can get stuck in our heads.** Attaching to beliefs, stories and intentions which become the emotional seeds of our life. Our perception and experience of the outer world is often a reflection and manifestation of what we are nurturing or neglecting within us. 
-
-**Living in environments** where our minds are prioritised and overloaded with continual streams of information, our bodies can be easily marginalised towards 'other'. Our hearts become neglected, the emotional wounds we receive normalised and the stressors we experience not acknowledged, so often go unchecked and unhealed. 
-
-**Western science is now starting to catch up with what ancient wisdom intuitively knew**, that these emotional wounds and stressors begin to manifest physically if not attended to. 
-
-**Embodiment** **and heart-centred practices invite us to re-member** that we are that we are more, not just our perception, beliefs and stories. We have the potential to embrace all our facets and experiences as a whole being, and in doing so receive valuable healing and empowering information held within our bodies.
 
 **<br/>**
 
@@ -49,3 +29,5 @@ We too are loved into existence. Formed from seeds, connected by the roots of be
 *A space to explore the whole being we are* 
 
 *A space for being as it is.*
+
+**<br/>**
