@@ -21,6 +21,6 @@ As a mixed-Black bodied woman, I centre the healing of race-based and patriarcha
 
 My offerings include private 1:1 and group sessions which are guided by intuitive, holistic self or collective inquiry and expression, through practices informed by my own journey. 
 
-Focalizing is abody based, holistic way of helping people work through emotions, trauma and experiences that doesn’t require analysing the story of what happened. As the Practitioner I hold a space free of judgement or fixing that empowers You, the Focalizer, to access your intuitive, embodied wisdom to heal from trauma, let go of emotional baggage, and restore equilibrium to your system.
+Focalizing is a body based, holistic way of helping people work through emotions, trauma and experiences that doesn’t require analysing the story of what happened. As the Practitioner I hold a space free of judgement or fixing that empowers You, the Focalizer, to access your intuitive, embodied wisdom to heal from trauma, let go of emotional baggage and conditioned thinking, restoring your natural equilibrium.
 
 I am devoted to facilitating person-centred, trauma-sensitive and nature-aligned healing spaces, for embodied explorations that cultivate self-love and community care for our collective wellbeing and empowerment.
