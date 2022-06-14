@@ -5,13 +5,13 @@ classHeading: Weekly Explorations
 eventsHeading: Upcoming Events + Journeys
 scheduleSection:
   - body: >-
-      ### Tend To Your Fire
+      ## Tend To Your Fire
 
 
-      #### Day Retreat For Black Women and Women of Colour
+      ### Day Retreat For Black Women and Women of Colour
 
 
-      ##### Calling the Curious + Courageous willing to dance in the flames
+      #### Calling the Curious + Courageous willing to dance in the flames
 
 
       ``
@@ -32,9 +32,7 @@ scheduleSection:
       You will be held in a supportive community as we guide you on a journey inwards, through personal and collective inquiry, movement, breathwork and soundscape.
 
 
-
-
-      #### When: 12:30-2:30 ~ Saturday 30th July
+      #### When: 09:00-17:00 ~ Saturday 30th July
 
 
       #### Where: London Venue tbc
