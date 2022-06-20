@@ -178,3 +178,9 @@ section {
     }
   }
 }
+
+.html-editor { 
+  .jodit-ui-spacer {
+    display: none ! important;
+  }
+}
