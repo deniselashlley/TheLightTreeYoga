@@ -82,7 +82,7 @@ collections:
                   { label: "Image Description", name: "imageAlt", widget: "string" },
                 ],
             }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Body", name: "body", widget: "htmlEditor" }
           - {
               label: "SEO & Meta",
               name: "seo",
@@ -110,7 +110,7 @@ collections:
                   { label: "Image Description", name: "imageAlt", widget: "string" },
                 ],
             }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Body", name: "body", widget: "htmlEditor" }
           - {
               label: "SEO & Meta",
               name: "seo",
@@ -176,7 +176,7 @@ collections:
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "introduction" }
           - { label: "Title", name: "title", widget: "text"}
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Body", name: "body", widget: "htmlEditor" }
           - { label: "Quote", name: "quote", widget: "text", required: false }
           - { label: "Image", name: "image", widget: "image", required: false}
           - { label: "Highlighted Text", name: "highlightedText", widget: "text", required: false}
@@ -195,7 +195,7 @@ collections:
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "my-story" }
           - { label: "Title", name: "title", widget: "string"}
-          - { label: "Content", name: "body", widget: "markdown" }
+          - { label: "Content", name: "body", widget: "htmlEditor" }
           - { label: "Image", name: "image", widget: "image", required: false}
           - { label: "Quote", name: "quote", widget: "string", required: false }
           - { 
@@ -270,7 +270,7 @@ collections:
               widget: "list",
               fields: [
                 { label: "Title", name: "title", widget: "string"},
-                { label: "Body", name: "body", widget: "markdown" }
+                { label: "Body", name: "body", widget: "htmlEditor" }
               ]
             }
           - { 
@@ -294,5 +294,5 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
       - {label: "Featured Image", name: "featuredimage", widget: image}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "htmlEditor"}
       - {label: "Tags", name: "tags", widget: "list"}
