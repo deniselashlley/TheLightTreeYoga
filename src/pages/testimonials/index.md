@@ -1,6 +1,6 @@
 ---
 templateKey: testimonials
-title: Testimonials
+title: testimonials
 testimonialList:
   - author: "Stacey - Group classes "
     description: '"I was apprehensive being a novice to yoga. However, from my very

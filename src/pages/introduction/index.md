@@ -1,21 +1,16 @@
 ---
 templateKey: introduction
-title: "You are invited to embark on a journey "
-quote: Join me for embodied explorations, journeys and events.
+title: let's go on a journey to re-member our inter-connectedness
+quote: I invite you to join me for embodied explorations, journeys and events to
+  reawaken and restore our sense of Aliveness!
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
-### to re-member our inter-connectedness, to reawaken and explore our Aliveness
 
-**The** tree is the realisation of the seed being loved into existence. The seed is a gift paid forward, an intelligent imprint of nature, uniquely expressed, a miraculous becoming. Intrinsically connected with the elements the seed grows, nourished safely within the earth, hydrated by the rain, energised by the sun and breathed by the air. As the seed sprouts expanding roots, the sapling grows ever towards the light, to become the tree it was designed to become. 
 
-**Us** humans are no different to trees, formed from seeds, connected by the roots of before and ever expanding towards the beyond. We are loved into existence. Intrinsically connected to one another. 
+**<br/>**
 
-**Living** in environments where our bodies are marginalised, our minds overloaded and our hearts neglected, the emotional wounds we receive are normalised and not acknowledged so often go unchecked and unhealed. As humans our beliefs, stories and intentions are the seeds of our life, our perception and experience of the outer world a reflection and manifestation of what we are nurturing or neglecting within us. 
-
-**Embodiment** and heart-centred practices invite us to re-member that we are that we are more, to embrace our whole being, to receive valuable healing and empowering information our bodies hold.
-
-### We are being called back to the old ways to help us navigate our modern lives, collectively, in more harmony, and with less harm to ourselves, each other and our home.
+### we are being called back to the old ways to help us navigate our modern lives, collectively, in more harmony, and with less harm to ourselves, each other and our home.
 
 *Let's create space for not knowing or needing to know.* 
 
@@ -34,3 +29,5 @@ highlightedText: ""
 *A space to explore the whole being we are* 
 
 *A space for being as it is.*
+
+**<br/>**
