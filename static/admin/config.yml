@@ -33,7 +33,7 @@ collections:
               widget: "object",
               fields:
                 [
-                  { label: "Image", name: "image", widget: "image" },
+                  { label: "Image", name: "image", widget: "image" },git 
                   { label: "Image Description", name: "imageAlt", widget: "string" },
                 ],
             }
