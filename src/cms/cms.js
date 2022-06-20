@@ -14,6 +14,8 @@ import ContactPreview from "./preview-templates/ContactPreview";
 import TestimonialsPreview from "./preview-templates/TestimonialsPreview";
 import ServicesPreview from "./preview-templates/ServicesPreview";
 import SchedulePreview from "./preview-templates/SchedulePreview";
+import HtmlEditor  from '../components/HtmlEditor';
+import HtmlEditorPreview  from '../components/HtmlEditorPreview';
 // import BlogPostPreview from './preview-templates/BlogPostPreview'
 
 CMS.registerMediaLibrary(uploadcare)
@@ -32,3 +34,4 @@ CMS.registerPreviewTemplate("testimonials", TestimonialsPreview);
 CMS.registerPreviewTemplate("services", ServicesPreview);
 CMS.registerPreviewTemplate("schedule", SchedulePreview);
 // CMS.registerPreviewTemplate('blog', BlogPostPreview)
+CMS.registerWidget('htmlEditor', HtmlEditor, HtmlEditorPreview);
