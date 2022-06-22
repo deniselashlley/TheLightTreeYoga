@@ -38,7 +38,7 @@ const AboutPage = ({ data }) => {
   );
 };
 
-AboutPage.propTypes = {
+AboutPage.propTypes  = {
   data: PropTypes.object.isRequired,
 };
 
