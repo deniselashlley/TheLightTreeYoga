@@ -6,7 +6,7 @@ const AboutPagePreview = ({ entry }) => (
    <AboutPage page={{
     frontmatter: entry.getIn(["data"]).toJS(),
     html: entry.getIn(["data", "body"]),
-    bodyIsMarkdown: true,
+    bodyIsMarkdown: false,
   }} 
   />
 );

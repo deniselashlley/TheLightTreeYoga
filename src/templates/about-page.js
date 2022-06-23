@@ -7,9 +7,14 @@ import Layout from "../components/Layout";
 import { HTMLContent } from "../components/Content";
 import "../styles/about-page.scss";
 
-
 const AboutPage = ({ data }) => {
+  
+  if (!data) {
+    return null;
+  }
+  
   const { markdownRemark: page, footerData, navbarData } = data;
+
   const {
     frontmatter: {
       seo: { title: seoTitle, description: seoDescription, browserTitle },

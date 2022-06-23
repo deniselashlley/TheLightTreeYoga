@@ -16,6 +16,9 @@ module.exports = {
     siteUrl: 'https://www.thelighttreeyoga.co.uk/' ,
     basePath: '/',
   },
+  flags: {
+    THE_FLAG: false
+  },
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",

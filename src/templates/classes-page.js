@@ -9,6 +9,11 @@ import "../styles/classes-page.scss";
 
 
 const ClassesPage = ({ data }) => {
+  
+  if (!data) {
+    return null;
+  }
+  
   const { markdownRemark: page, footerData, navbarData } = data;
   const {
     frontmatter: {
