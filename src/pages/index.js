@@ -14,6 +14,9 @@ import { Testimonials } from '../components/Testimonials'
 import "../styles/home.scss";
 
 const HomePage = ({ data }) => {
+  if (!data) {
+    return null;
+  }
   
     const { footerData, navbarData } = data;
     const { frontmatter: home } = data.homePageData.edges[0].node;
