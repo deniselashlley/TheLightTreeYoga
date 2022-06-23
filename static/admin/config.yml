@@ -38,6 +38,7 @@ collections:
                 ],
             }
           - { label: "Body", name: "body", widget: "htmlEditor" }
+          - { label: "Body", name: "body", widget: "markdown" }
           - {
               label: "SEO & Meta",
               name: "seo",
