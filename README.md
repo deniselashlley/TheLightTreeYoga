@@ -3,15 +3,15 @@
 ### Run the project
 
 ```
-$ yarn
-$ yarn develop
+$ npm
+$ npm develop
 ```
 
 To test the CMS locally, you'll to need run a production build of the site:
 
 ```
-$ yarn build
-$ yarn serve
+$ npm build
+$ npm serve
 ```
 
 ### Setting up the CMS
