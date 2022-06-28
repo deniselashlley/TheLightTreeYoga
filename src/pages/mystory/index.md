@@ -7,7 +7,7 @@ quote: I help curious seekers courageously re-member the forgotten wisdom within
   life
 buttons:
   - label: About Yoga
-    link: /about
+    link: /about-yoga
   - label: About Focalizing
     link: https://www.theinstitute.org/what-is-focalizing
   - label: About My Approach
