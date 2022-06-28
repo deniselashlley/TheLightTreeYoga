@@ -25,30 +25,66 @@ collections:
         label: "About"
         name: "about"
         fields:
-          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page" }
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: about-page",
+            }
           - { label: "Title", name: "title", widget: "string" }
           - {
-              label: "Main Image",
-              name: "mainImage",
+              label: "Hero",
+              name: "heroImage",
               widget: "object",
               fields:
                 [
                   { label: "Image", name: "image", widget: "image" },
-                  { label: "Image Description", name: "imageAlt", widget: "string" },
+                  { label: "Image Title", name: "imageAlt", widget: "string" },
                 ],
             }
-          - { label: "Body", name: "body", widget: "htmlEditor"}
+          - { label: "Body", name: "body", widget: "richText"}
           - {
-              label: "SEO & Meta",
-              name: "seo",
+              label: "Page Meta",
+              name: "meta",
               widget: "object",
               fields:
                 [
-                  { label: "Browser Tab Title", name: "browserTitle", widget: "string"},
                   { label: "Title", name: "title", widget: "string" },
                   { label: "Description", name: "description", widget: "string" },
                 ],
+              }
+      - file: "src/pages/about-yoga/index.md"
+        label: "About Yoga"
+        name: "about-yoga"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: about-yoga",
             }
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Hero",
+              name: "heroImage",
+              widget: "object",
+              fields:
+                [
+                  { label: "Image", name: "image", widget: "image" },
+                  { label: "Image Title", name: "imageAlt", widget: "string" },
+                ],
+            }
+          - { label: "Body", name: "body", widget: "richText"}
+          - {
+                label: "Page Meta",
+                name: "meta",
+                widget: "object",
+                fields:
+                  [
+                    { label: "Title", name: "title", widget: "string" },
+                    { label: "Description", name: "description", widget: "string" },
+                  ],
+              }
       - file: "src/pages/home/index.md"
         label: "Home"
         name: "home"
@@ -82,7 +118,7 @@ collections:
                   { label: "Image Description", name: "imageAlt", widget: "string" },
                 ],
             }
-          - { label: "Body", name: "body", widget: "htmlEditor" }
+          - { label: "Body", name: "body", widget: "richText" }
           - {
               label: "SEO & Meta",
               name: "seo",
@@ -110,7 +146,7 @@ collections:
                   { label: "Image Description", name: "imageAlt", widget: "string" },
                 ],
             }
-          - { label: "Body", name: "body", widget: "htmlEditor" }
+          - { label: "Body", name: "body", widget: "richText" }
           - {
               label: "SEO & Meta",
               name: "seo",
@@ -176,7 +212,7 @@ collections:
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "introduction" }
           - { label: "Title", name: "title", widget: "text"}
-          - { label: "Body", name: "body", widget: "htmlEditor" }
+          - { label: "Body", name: "body", widget: "richText" }
           - { label: "Quote", name: "quote", widget: "text", required: false }
           - { label: "Image", name: "image", widget: "image", required: false}
           - { label: "Highlighted Text", name: "highlightedText", widget: "text", required: false}
@@ -195,7 +231,7 @@ collections:
         fields:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "my-story" }
           - { label: "Title", name: "title", widget: "string"}
-          - { label: "Content", name: "body", widget: "htmlEditor" }
+          - { label: "Content", name: "body", widget: "richText" }
           - { label: "Image", name: "image", widget: "image", required: false}
           - { label: "Quote", name: "quote", widget: "string", required: false }
           - { 
@@ -270,7 +306,7 @@ collections:
               widget: "list",
               fields: [
                 { label: "Title", name: "title", widget: "string"},
-                { label: "Body", name: "body", widget: "htmlEditor" }
+                { label: "Body", name: "body", widget: "richText" }
               ]
             }
           - { 
@@ -290,9 +326,5 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
       - {label: "Featured Image", name: "featuredimage", widget: image}
-      - {label: "Body", name: "body", widget: "htmlEditor"}
-      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "richText"}

@@ -1,20 +1,20 @@
 import React from "react";
 import PropTypes from "prop-types";
-import AboutPage from "../../templates/main-page";
+import AboutYoga from "../../templates/main-page";
 
-const AboutPagePreview = ({ entry, widgetFor }) => (
-  <AboutPage
+const AboutYogaPreview = ({ entry, widgetFor }) => (
+  <AboutYoga
         title={entry.getIn(['data', 'title'])}
         content={widgetFor('body')}
   />
 );
 
-AboutPagePreview.propTypes = {
+AboutYogaPreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
   widgetFor: PropTypes.func,
 };
 
-export default AboutPagePreview;
+export default AboutYogaPreview;
 

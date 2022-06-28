@@ -1,9 +1,9 @@
 import React from 'react';
 
-const HtmlEditorPreview = (props) => {
+const RichTextWidgetPreview = (props) => {
   return (
     <div dangerouslySetInnerHTML={{ __html: props.value}} />
   );
 }
 
-export default HtmlEditorPreview;
+export default RichTextWidgetPreview;

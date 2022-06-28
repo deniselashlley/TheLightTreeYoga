@@ -2,6 +2,7 @@ import CMS from 'netlify-cms-app'
 import uploadcare from 'netlify-cms-media-library-uploadcare'
 import cloudinary from 'netlify-cms-media-library-cloudinary'
 
+import AboutYogaPreview from "./preview-templates/AboutYogaPreview";
 import AboutPagePreview from "./preview-templates/AboutPagePreview";
 import ClassesPagePreview from "./preview-templates/ClassesPagePreview";
 import TeachingPagePreview from "./preview-templates/TeachingPagePreview";
@@ -14,15 +15,17 @@ import ContactPreview from "./preview-templates/ContactPreview";
 import TestimonialsPreview from "./preview-templates/TestimonialsPreview";
 import ServicesPreview from "./preview-templates/ServicesPreview";
 import SchedulePreview from "./preview-templates/SchedulePreview";
-import HtmlEditor  from '../components/HtmlEditor';
-import HtmlEditorPreview  from '../components/HtmlEditorPreview';
-// import BlogPostPreview from './preview-templates/BlogPostPreview'
+import RichTextWidgetPreview from '../components/RichTextWidgetPreview';
+import RichTextWidget from '../components/RichTextWidget'
+import BlogPostPreview from './preview-templates/BlogPostPreview'
 
 CMS.registerMediaLibrary(uploadcare)
 CMS.registerMediaLibrary(cloudinary)
+CMS.registerWidget('richText', RichTextWidget, RichTextWidgetPreview);
 
 CMS.registerPreviewTemplate("footer", FooterPreview);
 CMS.registerPreviewTemplate("navbar", NavbarPreview);
+CMS.registerPreviewTemplate("about", AboutYogaPreview);
 CMS.registerPreviewTemplate("about", AboutPagePreview);
 CMS.registerPreviewTemplate("classes", ClassesPagePreview);
 CMS.registerPreviewTemplate("teaching", TeachingPagePreview);
@@ -33,5 +36,4 @@ CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.registerPreviewTemplate("testimonials", TestimonialsPreview);
 CMS.registerPreviewTemplate("services", ServicesPreview);
 CMS.registerPreviewTemplate("schedule", SchedulePreview);
-// CMS.registerPreviewTemplate('blog', BlogPostPreview)
-CMS.registerWidget('htmlEditor', HtmlEditor, HtmlEditorPreview);
+CMS.registerPreviewTemplate('blog', BlogPostPreview)

@@ -6,7 +6,7 @@ import Content, { HTMLContent } from "../components/Content";
 import "../styles/about-page.scss";
 
 // eslint-disable-next-line
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
+export const AboutYogaTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
@@ -27,18 +27,18 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   );
 };
 
-AboutPageTemplate.propTypes = {
+AboutYogaTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
 };
 
-const AboutPage = ({ data }) => {
+const AboutYoga = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
     <Layout>
-      <AboutPageTemplate
+      <AboutYogaTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
@@ -47,14 +47,14 @@ const AboutPage = ({ data }) => {
   );
 };
 
-AboutPage.propTypes = {
+AboutYoga.propTypes = {
   data: PropTypes.object.isRequired,
 };
 
-export default AboutPage;
+export default AboutYoga;
 
 export const mainPageQuery = graphql`
-  query AboutPage($id: String!) {
+  query AboutYoga($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
