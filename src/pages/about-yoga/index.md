@@ -19,10 +19,9 @@ meta:
 <li><img src="../img/alone-balance-beautiful-1574647.jpg" alt="" width="288" height="192">Improves mind-body connection and emotional balance, encourages self-acceptance, self-control and a more positive outlook to life.</li>
 </ul>
 <p>If you are interested in finding out more about Yoga here are some useful sources</p>
-<br>
+<p>&nbsp;</p>
 <p>Follow: <a href="https://www.yogajournal.com/">https://www.yogajournal.com/</a></p>
-<br>
+<p>&nbsp;</p>
 <p>Read: Light on Yoga by B.K.S Iyengar, The Untethered Soul by Michael A. Singer</p>
-<br>
+<p>&nbsp;</p>
 <p>Watch: <a href="https://www.netflix.com/title/80187188">On Yoga on Netflix</a></p>
-
