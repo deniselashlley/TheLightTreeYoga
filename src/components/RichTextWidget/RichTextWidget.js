@@ -38,7 +38,7 @@ class RichTextWidget extends Component {
       <Editor
         init={format}
         apiKey={apiKey}
-        initialValue={value || ""}
+        value={value || ""}
         onEditorChange={this.handleOnChange}
       />
     );
