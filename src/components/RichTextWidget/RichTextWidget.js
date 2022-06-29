@@ -20,9 +20,8 @@ class RichTextWidget extends Component {
         "table",
         "image",
       ],
-      toolbar:
-        "undo redo | formatselect | bold italic backcolor | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image | code",
-    },
+      toolbar: 'bold italic underline | h1 h2 h3 | forecolor | blockquote image link | alignleft aligncenter alignright alignjustify |bullist numlist outdent indent| undo redo ',
+    }
   };
 
   handleOnChange = (content) => {
