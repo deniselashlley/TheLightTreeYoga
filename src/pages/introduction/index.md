@@ -1,33 +1,30 @@
 ---
 templateKey: introduction
 title: let's go on a journey to re-member our inter-connectedness
-quote: I invite you to join me for embodied explorations, journeys and events to
-  reawaken and restore our sense of Aliveness!
+quote: ""
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
 
+<h3>we are being called back to the old ways to help us navigate our modern lives, collectively, in more harmony, and with less harm to ourselves, each other and our home.</h3>
 
-**<br/>**
+<p>Let's create space for not knowing or needing to know.</p> 
 
-### we are being called back to the old ways to help us navigate our modern lives, collectively, in more harmony, and with less harm to ourselves, each other and our home.
+<p>To dance to the music of our curiosity.</p> 
 
-*Let's create space for not knowing or needing to know.* 
+<p>Explore the order and disordering of aliveness.</p> 
 
-*To dance to the music of our curiosity.* 
+<p>Notice the blips and textures and movements.</p> 
 
-*Explore the order and disordering of aliveness.* 
+<p>A place to expand into the otherness of our humanness.</p> 
 
-*Notice the blips and textures and movements.* 
+<p>Unwind into the freedom of discomfort or the discomfort of freedom.</p> 
 
-*A place to expand into the otherness of our humanness.* 
+<p>Backstroke in the joy of beautiful imperfections</p> 
 
-*Unwind into the freedom of discomfort or the discomfort of freedom.* 
+<p>A space to explore the whole being we are</p> 
 
-*Backstroke in the joy of beautiful imperfections* 
+<p>A space for being as it is.</p>
 
-*A space to explore the whole being we are* 
-
-*A space for being as it is.*
-
-**<br/>**
+<p style="align-center">I invite you to join me for embodied explorations, journeys and events to
+  reawaken and restore our sense of Aliveness!</p>
