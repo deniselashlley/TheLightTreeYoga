@@ -123,10 +123,10 @@ section {
 
 .link {
   &.link-btn {
-    border: 2px solid #6d466b;
+    border: 2px solid $purple;
     border-radius: 3px;
     min-width: 18em;
-    color: #6d466b;
+    color: $purple;
     text-transform: uppercase;
     font-weight: 600;
     margin: 1em 0 0 0;
@@ -176,11 +176,5 @@ section {
     @include respond-to("medium") {
       height: 500px;
     }
-  }
-}
-
-.html-editor { 
-  .jodit-ui-spacer {
-    display: none ! important;
   }
 }
