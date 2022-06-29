@@ -1,11 +1,11 @@
 import React from "react";
 import PropTypes from "prop-types";
-import AboutYoga from "../../templates/main-page";
+import AboutYoga from "../../templates/about-yoga";
 
 const AboutYogaPreview = ({ entry, widgetFor }) => (
   <AboutYoga
-        title={entry.getIn(['data', 'title'])}
-        content={widgetFor('body')}
+      title={entry.getIn(['data', 'title'])}
+      content={widgetFor('body')}
   />
 );
 

@@ -1,23 +1,22 @@
 ---
 templateKey: classes-page
 title: What can you expect from my classes?
-mainImage:
+heroImage:
   image: /img/peopledoingyogainaparkatsunset.jpg
   imageAlt: yoga classes.
-seo:
-  browserTitle: 'The Light Tree | What can you expect from my classes? '
+meta:
   description: >-
     Classes are a blend of Vinyasa and Hatha incorporating traditional practices
     such as mudra and mantra, TCM methods.
-  title: Classes
+  title: What can you expect from my classes? 
 ---
-Your Yoga practice is your personal journey. As the teacher I’m here to guide you safely and mindfully through the class providing options that allow you to create a practice that best serves you in that moment.
+<p>Your Yoga practice is your personal journey. As the teacher I’m here to guide you safely and mindfully through the class providing options that allow you to create a practice that best serves you in that moment.</p>
 
-Classes are a blend of Hatha and Vinyasa incorporating traditional practices such as mudra and mantra, Traditional Chinese Medicine, Western restorative postures and African spirituality wisdom and practices. I encourage a deeper more soulful connection to your body and mind through intention, movement, breath, focus, sound and in group settings togetherness, to shift energy and raise your vibration.
+<p>Classes are a blend of Hatha and Vinyasa incorporating traditional practices such as mudra and mantra, Traditional Chinese Medicine, Western restorative postures and African spirituality wisdom and practices. I encourage a deeper more soulful connection to your body and mind through intention, movement, breath, focus, sound and in group settings togetherness, to shift energy and raise your vibration.</p>
 
-My intention is that you leave class having connected with your body and breath, feeling more present, rooted and taller than when you came in. With regular practice my intention is that you encounter the transformation you are seeking.
+<p>My intention is that you leave class having connected with your body and breath, feeling more present, rooted and taller than when you came in. With regular practice my intention is that you encounter the transformation you are seeking.</p>
 
-## Class styles
+<h2>Class styles</h2>
 
 <table>
 <tr>

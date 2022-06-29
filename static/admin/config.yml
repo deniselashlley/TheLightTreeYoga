@@ -77,8 +77,8 @@ collections:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "classes-page" }
           - { label: "Title", name: "title", widget: "string" }
           - {
-              label: "Main Image",
-              name: "mainImage",
+              label: "Hero Image",
+              name: "heroImage",
               widget: "object",
               fields:
                 [
@@ -88,12 +88,11 @@ collections:
             }
           - { label: "Body", name: "body", widget: "richText" }
           - {
-              label: "SEO & Meta",
-              name: "seo",
+              label: "Page Meta",
+              name: "meta",
               widget: "object",
               fields:
                 [
-                  { label: "Browser Tab Title", name: "browserTitle", widget: "string"},
                   { label: "Title", name: "title", widget: "string" },
                   { label: "Description", name: "description", widget: "string" },
                 ],

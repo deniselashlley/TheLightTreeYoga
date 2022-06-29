@@ -4,11 +4,8 @@ import TeachingPage from "../../templates/teaching-page";
 
 const TeachingPagePreview = ({ entry, widgetFor }) => (
   <TeachingPage
-    page={{
-      frontmatter: entry.getIn(["data"]).toJS(),
-      html: entry.getIn(["data", "body"]),
-      bodyIsMarkdown: true,
-    }}
+    title={entry.getIn(['data', 'title'])}
+    content={widgetFor('body')}
   />
 );
 
