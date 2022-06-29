@@ -5,7 +5,7 @@ import HomePage from "../../pages/index";
 
 const HomePagePreview = ({ entry }) => {
   const content = entry.getIn(["data"]).toJS();
-  return <HomePage home={home} />;
+  return <HomePage home={content} />;
 };
 
 HomePagePreview.propTypes = {

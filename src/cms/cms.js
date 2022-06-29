@@ -25,7 +25,7 @@ CMS.registerWidget('richText', RichTextWidget, RichTextWidgetPreview);
 CMS.registerPreviewTemplate("footer", FooterPreview);
 CMS.registerPreviewTemplate("navbar", NavbarPreview);
 CMS.registerPreviewTemplate("about", AboutYogaPreview);
-CMS.registerPreviewTemplate("classes", ClassesPagePreview);
+CMS.registerPreviewTemplate("my-classes", ClassesPagePreview);
 CMS.registerPreviewTemplate("teaching", TeachingPagePreview);
 CMS.registerPreviewTemplate("home", HomePagePreview);
 CMS.registerPreviewTemplate("introduction", IntroductionPreview);
