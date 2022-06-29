@@ -2,11 +2,12 @@ import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Helmet from "react-helmet";
+
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+
 import "../styles/about-page.scss";
 
-// eslint-disable-next-line
 export const AboutYogaTemplate = ({
   title,
   content,
@@ -45,6 +46,7 @@ const AboutYoga = ({ data }) => {
   const {
     frontmatter: {
       meta: { title, description },
+      heroImage
     },
   } = post
   return (
@@ -57,7 +59,7 @@ const AboutYoga = ({ data }) => {
       <AboutYogaTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
-        featureImage={post.frontmatter.heroImage}
+        featureImage={heroImage}
         content={post.html}
       />
     </Layout>

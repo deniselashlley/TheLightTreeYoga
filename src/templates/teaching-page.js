@@ -4,32 +4,37 @@ import { graphql } from 'gatsby'
 import Helmet from "react-helmet";
 
 import Layout from "../components/Layout";
-import { HTMLContent } from"../components/Content";
+import Content, { HTMLContent } from "../components/Content";
+
 import "../styles/teaching-page.scss";
 
 const TeachingPage = ({ data }) => {
-  const { markdownRemark: page, footerData, navbarData } = data;
+  const { markdownRemark: post, footerData, navbarData } = data;
   const {
     frontmatter: {
-      seo: { title: seoTitle, description: seoDescription, browserTitle },
+      title,
+      meta: { title: metaTitle , description },
+      heroImage: { image, imageAlt }
     },
-  } = page;
+  } = post;
+
+  const PageContent = HTMLContent || Content;
 
   return (
     <Layout footerData={footerData} navbarData={navbarData}>
       <Helmet>
-        <meta name="title" content={seoTitle} />
-        <meta name="description" content={seoDescription} />
-        <title>{browserTitle}</title>
+        <meta name="title" content={metaTitle} />
+        <meta name="description" content={description} />
+        <title>The Light Tree | {metaTitle}</title>
       </Helmet>
       <article className="teachings">
         <header className="banner">
-          <img src={page.frontmatter.mainImage.image} alt={page.frontmatter.mainImage.imageAlt} />
+          <img src={image} alt={imageAlt} />
         </header>
         <section className="content-block">
           <div className="container">
-          <h1>{page.frontmatter.title}</h1>
-            <HTMLContent content={page.html} />
+          <h1>{title}</h1>
+            <PageContent className="content editor-content" content={post.html} />
           </div>
         </section>
     </article>
@@ -49,12 +54,11 @@ export const teachingPageQuery = graphql`
       html
       frontmatter {
         title
-        mainImage {
+        heroImage {
           image
           imageAlt
         }
-        seo {
-          browserTitle
+        meta {
           title
           description
         }
