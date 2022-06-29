@@ -60,12 +60,11 @@ collections:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page" }
           - { label: "Image", name: "image", widget: "image", requires: false}
           - {
-              label: "SEO & Meta",
-              name: "seo",
+              label: "Page Meta",
+              name: "meta",
               widget: "object",
               fields:
                 [
-                  { label: "Browser Tab Title", name: "browserTitle", widget: "string"},
                   { label: "Title", name: "title", widget: "string" },
                   { label: "Description", name: "description", widget: "string" },
                 ],
@@ -104,7 +103,7 @@ collections:
           - { label: "Template Key", name: "templateKey", widget: "hidden", default: "teaching-page" }
           - { label: "Title", name: "title", widget: "string" }
           - {
-              label: Hero",
+              label: "Hero",
               name: "heroImage",
               widget: "object",
               fields:

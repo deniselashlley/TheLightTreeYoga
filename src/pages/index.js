@@ -14,13 +14,9 @@ import { Testimonials } from '../components/Testimonials'
 import "../styles/home.scss";
 
 const HomePage = ({ data }) => {
-  if (!data) {
-    return null;
-  }
-  
     const { footerData, navbarData } = data;
     const { frontmatter: home } = data.homePageData.edges[0].node;
-    const {seo: { title: seoTitle, description: seoDescription, browserTitle },} = home;
+    const {meta: { title, description: metaDescription },} = home;
     const { frontmatter: contact } = data.contact.edges[0].node;
     const { frontmatter: testimonials } = data.testimonials.edges[0].node;
     const { frontmatter: services } = data.services.edges[0].node;
@@ -29,9 +25,9 @@ const HomePage = ({ data }) => {
     return (
       <Layout footerData={footerData} navbarData={navbarData}>
         <Helmet>
-          <meta name="title" content={seoTitle} />
-          <meta name="description" content={seoDescription} />
-          <title>{browserTitle}</title>
+          <meta name="title" content={title} />
+          <meta name="description" content={metaDescription} />
+          <title>The Light Tree | {title}</title>
           <script 
             defer
             async
@@ -172,8 +168,7 @@ export const pageQuery = graphql`
           id
           frontmatter {
             image
-            seo {
-              browserTitle
+            meta {
               title
               description
             }

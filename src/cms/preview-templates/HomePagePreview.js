@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import HomePage from "../../pages/index";
 
 const HomePagePreview = ({ entry }) => {
-  const home = entry.getIn(["data"]).toJS();
+  const content = entry.getIn(["data"]).toJS();
   return <HomePage home={home} />;
 };
 
