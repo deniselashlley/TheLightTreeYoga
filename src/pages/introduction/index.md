@@ -20,4 +20,5 @@ highlightedText: ""
 <p><span style="color: rgb(23, 58, 46);">A space to explore the whole being we are</span></p>
 <p><span style="color: rgb(23, 58, 46);">A space for being as it is.</span></p>
 <p>&nbsp;</p>
-<h3 style="text-align: center;"><span style="color: rgb(176, 70, 100);"><strong>I invite you to join me for embodied explorations, journeys and events to reawaken and restore our sense of Aliveness!</strong></span></h3>
+<h3 style="text-align: center;"><span style="color: rgb(176, 70, 100);"><strong>I invite you to join me for embodied explorations, journeys and events </strong></span></h3>
+<h3 style="text-align: center;"><span style="color: rgb(176, 70, 100);"><strong>to reawaken and restore our sense of Aliveness!</strong></span></h3>
