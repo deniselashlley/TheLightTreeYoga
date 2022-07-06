@@ -1,6 +1,8 @@
 ---
 templateKey: introduction
-title: let's go on a journey to re-member our inter-connectedness
+title: |-
+  let's go on a journey to 
+  re-member our inter-connectedness
 quote: ""
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
