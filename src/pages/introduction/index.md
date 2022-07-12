@@ -1,16 +1,15 @@
 ---
 templateKey: introduction
 title: |-
-  let's go on a journey to 
+  let's go on a journey to
   re-member our inter-connectedness
 quote: ""
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
-<h1 style="text-align: center;"><span style="color: rgb(176, 70, 100);">let's go on a journey to&nbsp;</span><br><span style="color: rgb(176, 70, 100);">re-member our inter-connectedness</span></h1>
 <p>&nbsp;</p>
 <h3><span style="color: rgb(23, 58, 46);">we are being called back to the old ways to help us navigate our modern lives</span></h3>
-<p><strong><span style="color: rgb(23, 58, 46);">... to be in community, in more harmony, with less harm to ourselves, each other and our home.</span></strong></p>
+<p><span style="color: rgb(23, 58, 46);"><strong>... to be in community, in more harmony, with less harm to ourselves, each other and our home.</strong></span></p>
 <p>&nbsp;</p>
 <p><span style="color: rgb(23, 58, 46);">Let's create space for not knowing or needing to know</span></p>
 <p><span style="color: rgb(23, 58, 46);">To dance to the music of our curiosity</span></p>
