@@ -10,7 +10,7 @@ scheduleSection:
 
       <h3><span style="color: rgb(23, 58, 46);">Day Retreat For Black Women and Women of Colour&nbsp;</span></h3>
 
-      <p><strong><span style="color: rgb(23, 58, 46);"> Calling the Curious + Courageous willing to dance in the flames </span></strong></p>
+      <p><em><strong><span style="color: rgb(23, 58, 46);"> Calling the Curious + Courageous willing to dance in the flames </span></strong></em></p>
 
       <p><span style="color: rgb(23, 58, 46);">Join me + Oya Retreats to Release, Resource and Rise as we explore the element of F I R E ~ The heat of pleasure, pain, desire, change, loss, transformation... </span></p>
 
