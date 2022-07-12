@@ -9,7 +9,7 @@ highlightedText: ""
 ---
 <h3>&nbsp;</h3>
 <h3><span style="color: rgb(23, 58, 46);">we are being called back to the old ways to help us navigate our modern lives</span></h3>
-<h3><span style="color: rgb(23, 58, 46);">we are being called to come together, in more harmony, and with less harm to ourselves, each other and our home.</span></h3>
+<p><strong><span style="color: rgb(23, 58, 46);">... to be in community, in more harmony, with less harm to ourselves, each other and our home.</span></strong></p>
 <p>&nbsp;</p>
 <p><span style="color: rgb(23, 58, 46);">Let's create space for not knowing or needing to know</span></p>
 <p><span style="color: rgb(23, 58, 46);">To dance to the music of our curiosity</span></p>
