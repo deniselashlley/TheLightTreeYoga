@@ -26,4 +26,6 @@ highlightedText: ""
 <p><span style="color: rgb(23, 58, 46);">Let's create a home for you, as you are, here, now</span></p>
 <p><span style="color: rgb(23, 58, 46);">Welcome home</span></p>
 <p>&nbsp;</p>
-<h3 style="text-align: center;"><span style="color: rgb(176, 70, 100);"><strong>I invite you to join me for embodied explorations, journeys and events </strong></span><span style="color: rgb(176, 70, 100);"><strong>to reawaken and restore your sense of Aliveness!</strong></span></h3>
+<blockquote>
+<h3 style="text-align: center;"><span style="color: rgb(176, 70, 100);"><strong>You're invited to join me for embodied explorations, journeys and events </strong></span><span style="color: rgb(176, 70, 100);"><strong>to reawaken and restore your sense of Aliveness!</strong></span></h3>
+</blockquote>
