@@ -1,5 +1,6 @@
 import React from "react";
-import ReactMarkdown from "react-markdown";
+
+import Content, { HTMLContent } from '../Content'
 import "./styles.scss";
 
 export const ScheduleTemplate = ({data}) => {
@@ -9,6 +10,8 @@ export const ScheduleTemplate = ({data}) => {
     eventsHeading,
     scheduleSection,
   } = data;
+
+  const BodyContent = HTMLContent || Content
 
   const getSectionId = title.replace(/''/g, '-');
   return (
@@ -33,7 +36,7 @@ export const ScheduleTemplate = ({data}) => {
             scheduleSection.map(section => (
             <div key={section.title} className="block--events">
               <h4>{section.title}</h4>
-              <ReactMarkdown children={section.body} />
+              <BodyContent content={section.body} />
             </div>
             ))
           }
