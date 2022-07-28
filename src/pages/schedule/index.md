@@ -24,8 +24,8 @@ scheduleSection:
 
       <p><span style="color: rgb(23, 58, 46);">Where:<strong> East London Venue tbc </strong></span></p>
 
-      <p><span style="color: rgb(176, 70, 100);"><strong><a style="color: rgb(176, 70, 100);" href="A%20week%20long%20wellness%20pop%20up%20space%20in%20an%20accessible%20London%20location">Sign me up</a></strong></span></p>
-    title: THIS SUMMER
+      <p><span style="color: rgb(176, 70, 100);"><strong><a style="color: rgb(176, 70, 100);" href="https://www.oyaretreats.com/retreats/tend-your-fire">Sign me up</a></strong></span></p>
+    title: THIS MONTH
   - body: >-
       <h2><span style="color: rgb(176, 70, 100);">&nbsp;Embodying
       Aliveness</span>&nbsp;</h2>
