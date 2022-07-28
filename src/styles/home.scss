@@ -84,9 +84,6 @@
   padding-bottom: 80px;
   scroll-behavior: smooth;
 
-  &:nth-child(odd) {
-    background-color: $section-background-color;
-  }
   .quote {
     color: $green;
     font-size: 1.3rem;

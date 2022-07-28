@@ -3,6 +3,8 @@
 
 .section-block {
     &.section-block--services {
+      background-color: #f9f7f1;
+
         .services-list {
     
           @include respond-to("medium") {
