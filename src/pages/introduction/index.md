@@ -6,8 +6,8 @@ image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
 <p>&nbsp;</p>
-<h3><span style="color: rgb(23, 58, 46);">we are being called to re-member the old ways to help us navigate our modern lives</span></h3>
-<p><span style="color: rgb(23, 58, 46);"><strong>... to be in community, find more harmony, while honouring our authentic selves, each other and our home.</strong></span></p>
+<h3 style="text-align: center;"><span style="color: rgb(23, 58, 46);">we are being called to re-member the old ways to help us navigate our modern lives</span></h3>
+<p style="text-align: center;"><span style="color: rgb(23, 58, 46);"><strong>... to be in community, find more harmony, while honouring our authentic selves, each other and our home.</strong></span></p>
 <p>&nbsp;</p>
 <p><span style="color: rgb(23, 58, 46);">Let's create space for not knowing or needing to know</span></p>
 <p><span style="color: rgb(23, 58, 46);">To dance to the music of our curiosity</span></p>
