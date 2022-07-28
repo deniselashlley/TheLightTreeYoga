@@ -22,7 +22,7 @@ scheduleSection:
 
       <p><span style="color: rgb(23, 58, 46);">When:<strong> 09:00-17:00 ~ Saturday 30th July </strong></span></p>
 
-      <p><span style="color: rgb(23, 58, 46);">Where:<strong> East London Venue tbc </strong></span></p>
+      <p><span style="color: rgb(23, 58, 46);">Where:<strong> East London Venue&nbsp;&nbsp;</strong></span></p>
 
       <p><span style="color: rgb(176, 70, 100);"><strong><a style="color: rgb(176, 70, 100);" href="https://www.oyaretreats.com/retreats/tend-your-fire">Sign me up</a></strong></span></p>
     title: THIS MONTH
