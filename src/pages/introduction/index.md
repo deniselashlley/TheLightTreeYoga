@@ -1,14 +1,12 @@
 ---
 templateKey: introduction
-title: |-
-  let's go on a journey to
-  re-member our inter-connectedness
+title: let's go on a journey together
 quote: ""
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
 <p>&nbsp;</p>
-<h3><span style="color: rgb(23, 58, 46);">we are being called back to the old ways to help us navigate our modern lives</span></h3>
+<h3><span style="color: rgb(23, 58, 46);">we are being called to re-member the old ways to help us navigate our modern lives</span></h3>
 <p><span style="color: rgb(23, 58, 46);"><strong>... to be in community, in more harmony, with less harm to ourselves, each other and our home.</strong></span></p>
 <p>&nbsp;</p>
 <p><span style="color: rgb(23, 58, 46);">Let's create space for not knowing or needing to know</span></p>
@@ -27,5 +25,5 @@ highlightedText: ""
 <p><span style="color: rgb(23, 58, 46);">Welcome home</span></p>
 <p>&nbsp;</p>
 <blockquote>
-<h3 style="text-align: center;"><span style="color: rgb(176, 70, 100);"><strong>Join me for embodied explorations, journeys and events </strong></span><span style="color: rgb(176, 70, 100);"><strong>to reawaken and restore your sense of Aliveness!</strong></span></h3>
+<h3 style="text-align: center;"><span style="color: rgb(176, 70, 100);"><strong>Join me for embodied explorations, journeys and events </strong></span><span style="color: rgb(176, 70, 100);"><strong>to reawaken and restore your sense of&nbsp; Aliveness!</strong></span></h3>
 </blockquote>
