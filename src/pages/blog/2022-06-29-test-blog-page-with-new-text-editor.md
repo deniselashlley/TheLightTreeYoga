@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-slug: test.paddd
+slug: test
 title: Test Blog Page with new text editor
 featuredimage: /img/AdobeStock_95680960.jpg
 ---
