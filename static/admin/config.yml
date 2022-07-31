@@ -290,6 +290,5 @@ collections:
     slug: "{{fields.slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-      - { name: slug, label: Slug, required: true, widget: string }
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "richText"}
