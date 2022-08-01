@@ -1,6 +1,6 @@
 ---
 templateKey: testimonials
-title: testimonials
+title: client experience
 testimonialList:
   - author: "Stacey - Group classes "
     description: '"I was apprehensive being a novice to yoga. However, from my very
@@ -27,4 +27,23 @@ testimonialList:
       asking our bodies to do, and of healthy anatomical alignment. Jae is also
       totally approachable and genuinely giving with her great knowledge and
       experience”
+  - author: "SL - Focalizing "
+    description: ' "Although I was new to this practice and didn’t know what to
+      expect, Jae gave me lots of information and made me feel comfortable with
+      the whole process. She lead me through with compassion, curiosity and
+      acceptance of what came up. She guided me intuitively and helped me
+      formulate a foundation upon which to explore, understand and have a
+      context for everything that came. I felt held and cared for by Jae and
+      felt she had more than enough capacity to guide me through the powerful
+      revelations that came up during our sessions. Thank you so much for your
+      offering and guidance. It has helped give me a new layer of
+      self-understanding and opportunity for healing."'
+  - author: Vance - Sound Bath
+    description: “Lately, it feels as if I've been trying to keep my head above
+      water but treading water takes effort and energy. In those 30 minutes of
+      sound bathing there were times where I felt I was either floating
+      effortlessly or being gently pulled into the ground as I dipped in and out
+      of consciousness. Afterwards, I felt relaxed, peace, freedom, relief,
+      reassurance, gratitude and appreciation. It felt like an escape from
+      'reality' but it actually brought me back to my reality (or my truth).”
 ---
