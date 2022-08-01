@@ -1,6 +1,6 @@
 ---
 templateKey: contact
-title: connect with me
+title: "connect "
 contactList:
   - link: https://jaegibbs.ck.page/jointltcommunity
     subHeading: community updates
