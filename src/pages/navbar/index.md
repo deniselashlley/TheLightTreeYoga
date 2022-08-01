@@ -3,16 +3,16 @@ templateKey: navbar
 menuItems:
   - label: happenings
     linkType: hash
-    linkURL: "/#happenings"
+    linkURL: /#happenings
   - label: offerings
     linkType: hash
-    linkURL: "/#offerings"
+    linkURL: /#offerings
   - label: about
     linkType: hash
-    linkURL: "/#mystory"
-  - label: connect with me
+    linkURL: /#mystory
+  - label: "connect "
     linkType: hash
-    linkURL: "/#connect"
+    linkURL: /#connect
 socialLinks:
   - hiddenText: "@we_the_light_tree_wellness"
     label: follow
