@@ -5,9 +5,12 @@ classHeading: Weekly Explorations
 eventsHeading: Upcoming Events + Journeys
 scheduleSection:
   - body: >-
-      <h2><span style="color: rgb(176, 70, 100);"> YiELD</span>&nbsp;</h2>
+      <h2><span style="font-family: impact, sans-serif;"><span style="color:
+      rgb(176, 70, 100);"> YiELD</span>&nbsp;</span></h2>
 
-      <h3><span style="color: rgb(23, 58, 46);">A Community Ritual for Black Women + Women of Colour&nbsp;</span></h3>
+      <h3 style="text-align: center;">&nbsp;</h3>
+
+      <h3 style="text-align: center;"><span style="color: rgb(23, 58, 46);">A Community Ritual for Black Women + Women of Colour&nbsp;</span></h3>
 
       <p><span style="color: #173a2e;"><strong><em>Celebrating Autumn Exquinox and Libra New Moon</em></strong></span></p>
 
@@ -22,12 +25,14 @@ scheduleSection:
       <p><span style="color: rgb(23, 58, 46);">Where:<strong> tbc&nbsp;&nbsp;</strong></span></p>
 
       <p>&nbsp;</p>
-    title: UPCOMING
+    title: NEXT UP
   - body: >-
-      <h2><span style="color: rgb(176, 70, 100);">&nbsp;Embodying
-      Aliveness</span>&nbsp;</h2>
+      <h2><span style="font-family: impact, sans-serif;"><span style="color:
+      rgb(176, 70, 100);">&nbsp;Embodying Aliveness</span>&nbsp;</span></h2>
 
-      <p><strong> </strong><span style="color: rgb(23, 58, 46);"><strong>A Collective Self-Care &amp; Empowerment Journey </strong></span></p>
+      <p>&nbsp;</p>
+
+      <p><span style="color: rgb(23, 58, 46);"><strong>A Collective Self-Care &amp; Empowerment Journey </strong></span></p>
 
       <p>&nbsp;</p>
 
