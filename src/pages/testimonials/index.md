@@ -1,6 +1,6 @@
 ---
 templateKey: testimonials
-title: client experience
+title: reflections
 testimonialList:
   - author: "Stacey - Group classes "
     description: '"I was apprehensive being a novice to yoga. However, from my very
