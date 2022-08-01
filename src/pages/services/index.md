@@ -11,24 +11,14 @@ serviceList:
     label: Contact me to book private group or workplace explorations.
   - description: >-
       Holistic Individual Explorations to support and guide your wellbeing and
-      empowerment. Including 
+      empowerment.
 
 
-      ~ Yoga asana (postures), pranayama (breathwork), meditation, nidra + restorative (deep rest) 
-
-      ~ Intuitive Movement
-
-      ~ Focalizing + Somatic practices
-
-      ~ Sonic Massage + Journeying. 
-
-
-      Held at your home, studio or online
+      Held at your home or in studio
     image: /img/adult-daylight-exercise-1533886.jpg
-    link: mailto:thelighttreeyoga@gmail.com
+    link: https://calendly.com/thelighttree/1-1-embodied-healing-exploration-22
     title: EMBODIED HEALING (1-2-1)
-    label: Book a free orientation to discover how Embodied Healing can support your
-      wellbeing and growth
+    label: Book a free orientation here
   - description: >-
       Health is “a state of complete physical, mental, and social well-being and
       not merely the absence of disease or infirmity (illness)" and wellness is
