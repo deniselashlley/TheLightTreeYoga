@@ -14,15 +14,17 @@ scheduleSection:
 
       <p><span style="color: #173a2e;"><strong><em>Celebrating Autumn Exquinox and Libra New Moon</em></strong></span></p>
 
-      <p>&nbsp;</p>
+      <p>Both the Libra in New Moon and the Autumn Equinox beckon us to cultivate balance; gathering the fruits yielded from the Summer months, whilst also yielding to the shift that invites you to something new.</p>
 
-      <p>more info coming soon</p>
+      <p>Join me for this community ritual, as I guide you on a journey inwards through personal and collective inquiry, sacred movement, balancing breath and healing soundscape.&nbsp;</p>
 
-      <p>&nbsp;</p>
+      <p>Read more and book through the link below</p>
 
       <p><span style="color: rgb(23, 58, 46);">When:<strong> 12:30-2:30 ~ Sunday 25 September</strong></span></p>
 
-      <p><span style="color: rgb(23, 58, 46);">Where:<strong> tbc&nbsp;&nbsp;</strong></span></p>
+      <p><span style="color: rgb(23, 58, 46);">Where:<strong> Blithe Yoga, Stratford</strong></span></p>
+
+      <p><strong><span style="color: rgb(176, 70, 100);"><a style="color: rgb(176, 70, 100);" href="https://www.blitheyoga.com/events#yield-jump" target="_blank" rel="noopener">Join the Circle&nbsp;</a></span></strong></p>
 
       <p>&nbsp;</p>
     title: NEXT UP
