@@ -13,6 +13,9 @@ menuItems:
   - label: "connect "
     linkType: hash
     linkURL: /#connect
+  - label: what people say
+    linkType: hash
+    linkURL: "#testimonials"
 socialLinks:
   - hiddenText: "@we_the_light_tree_wellness"
     label: follow
