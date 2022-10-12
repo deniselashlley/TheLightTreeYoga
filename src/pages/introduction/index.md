@@ -25,5 +25,5 @@ highlightedText: ""
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Welcome home</span></p>
 <p>&nbsp;</p>
 <blockquote>
-<h3 style="text-align: center;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><span style="color: rgb(176, 70, 100);"><strong>Join me for embodied explorations, journeys and events </strong></span><span style="color: rgb(176, 70, 100);"><strong>to reawaken and restore your sense of&nbsp; Aliveness!</strong></span></span></h3>
+<h3 style="text-align: center;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><span style="color: rgb(176, 70, 100);"><strong>Join me for embodied explorations, journeys and events </strong></span><span style="color: rgb(176, 70, 100);"><strong>to reawaken and restore your sense of Aliveness!</strong></span></span></h3>
 </blockquote>
