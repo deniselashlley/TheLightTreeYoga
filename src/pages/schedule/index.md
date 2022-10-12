@@ -31,15 +31,23 @@ scheduleSection:
 
       <p style="text-align: left;">&nbsp;</p>
 
+      <p style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);"><strong><em>Moving into a New Season. Stepping out with Intention.</em></strong></span></p>
+
       <p style="text-align: left;">&nbsp;</p>
+
+      <p style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);">Pisces season marks the end of the zodiac cycle and invites us to pause and reflect inward, before moving into the expansive newness of Spring.</span></p>
+
+      <p style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);">Join me and Oya Retreats to orient to what is present for you at this transition. You are invited to share in the transformational magic of Sisterhood. There will be space for intuiting and attun</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">ing</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;"> with your</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;"> heart-centred values, to anchor you in alignment with your life's vision.&nbsp;</span></p>
+
+      <p style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a href="https://www.oyaretreats.com/retreats/moving-into-a-new-season" target="_blank" rel="noopener"><strong><span style="color: rgb(176, 70, 100);">Read more and book here</span></strong></a></span></p>
+
+      <p>&nbsp;</p>
 
       <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">When:<strong>&nbsp; Friday 10th - Sunday 12th March 2023</strong></span></p>
 
       <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Where:<strong> Fair Oak Farm, East Sussex</strong></span></p>
 
-      <p style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">This is a collaboration with Oya Retreats.</span></p>
-
-      <p style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a href="https://www.oyaretreats.com/retreats/moving-into-a-new-season" target="_blank" rel="noopener"><strong><span style="color: rgb(176, 70, 100);">Read more and book here</span></strong></a></span></p>
+      <p style="text-align: left;"><em><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);">This is a collaboration with Oya Retreats.</span></em></p>
     title: NEXT UP
   - body: >-
       <h2><span style="font-family: impact, sans-serif;"><span style="color:
