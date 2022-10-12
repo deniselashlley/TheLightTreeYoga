@@ -19,7 +19,7 @@ scheduleSection:
 
       <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Where:<strong> London location tbc</strong></span></p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong><span style="color: rgb(176, 70, 100);"><a style="color: rgb(176, 70, 100);" href="https://jaegibbs.ck.page/003d435d47">Join the Community</a> </span></strong>to stay updated</span></p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong><span style="color: rgb(176, 70, 100);"><a style="color: rgb(176, 70, 100);" href="https://jaegibbs.ck.page/003d435d47" target="_blank" rel="noopener">Join the Community</a> </span></strong>to stay updated</span></p>
 
       <p>&nbsp;</p>
 
