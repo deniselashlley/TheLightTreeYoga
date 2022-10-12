@@ -4,18 +4,18 @@ menuItems:
   - label: happenings
     linkType: hash
     linkURL: /#happenings
-  - label: offerings
-    linkType: hash
-    linkURL: /#offerings
-  - label: about
-    linkType: hash
-    linkURL: /#mystory
-  - label: "connect "
-    linkType: hash
-    linkURL: /#connect
   - label: what people say
     linkType: hash
     linkURL: "#testimonials"
+  - label: offerings
+    linkType: hash
+    linkURL: /#offerings
+  - label: "connect "
+    linkType: hash
+    linkURL: /#connect
+  - label: about
+    linkType: hash
+    linkURL: /#mystory
 socialLinks:
   - hiddenText: "@we_the_light_tree_wellness"
     label: follow
