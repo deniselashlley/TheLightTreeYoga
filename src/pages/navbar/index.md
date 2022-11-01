@@ -13,7 +13,7 @@ menuItems:
   - label: "connect "
     linkType: hash
     linkURL: /#connect
-  - label: about
+  - label: about jae
     linkType: hash
     linkURL: /#mystory
 socialLinks:
