@@ -6,7 +6,8 @@ image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
 <h3 style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Let us go on a journey together</span></h3>
-<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">We are being called to re-member the old ways to help us navigate these new times. What are the ways that we can&nbsp;</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">be together, in community, with more harmony, while celebrating our authentic selves, witnessing each other and honouring our home?</span></p>
+<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">We are being called to re-member the old ways to help us navigate these new times. </span></p>
+<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">What are the ways that we can </span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">be together, in community, with more harmony, while celebrating our authentic selves, witnessing each other and honouring our home?</span></p>
 <p>&nbsp;</p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Let's create space for not knowing or needing to know</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">To dance to the music of our curiosity</span></p>
@@ -15,7 +16,7 @@ highlightedText: ""
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">To be with the blips and textures and movements and patterns as they arise&nbsp;</span></p>
 <p>&nbsp;</p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Vision it, a place to expand into the otherness of your humanness</span></p>
-<p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Carefully unravel the binds of judgement and fixing</span></p>
+<p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">To carefully unravel the binds of judgement and fixing</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Gently unwind into the freedom of discomfort, or is it the discomfort of freedom?</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Lovingly invite back the pieces of you that were denied, abandoned, hidden and slighted</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">And joyfully backstroke in the beautiful messiness of it all</span></p>
