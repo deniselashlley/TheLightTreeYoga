@@ -11,15 +11,31 @@ scheduleSection:
 
       <h3 style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">A Community Ritual for Black Women + Women of Colour&nbsp;</span></h3>
 
+      <p><strong>Re:store</strong> is the focus of our Winter season gathering.</p>
+
+      <p>Join the next circle to explore what radical rest and resource feels like for you and how you can integrate simple everyday practices to protect and restore your energy.</p>
+
       <p>&nbsp;</p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><span style="color: #173a2e;"><strong><em>Next circle: Celebrating Winter Solstice&nbsp; - </em></strong></span><em>More info coming soon</em></span></p>
+      <p>Come and enjoy</p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">When:<strong>&nbsp; Early December 2022 tbc</strong></span></p>
+      <p>✨Individual + Collective Inquiry⁠</p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Where:<strong> London location tbc</strong></span></p>
+      <p>✨Guided + Intuitive Movement⁠</p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong><span style="color: rgb(176, 70, 100);"><a style="color: rgb(176, 70, 100);" href="https://jaegibbs.ck.page/003d435d47" target="_blank" rel="noopener">Join the Community</a> </span></strong>to stay updated</span></p>
+      <p>✨Resourcing Meditation</p>
+
+      <p>✨Radical Rest⁠</p>
+
+      <p>✨Healing Soundscapes</p>
+
+      <p>&nbsp;</p>
+
+      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">When:<strong>&nbsp; Sunday, 11th December 2022&nbsp;</strong></span></p>
+
+      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Where:<strong> Dalston, London</strong></span></p>
+
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong><span style="color: rgb(176, 70, 100);"><a style="color: rgb(176, 70, 100);" href="https://www.eventbrite.co.uk/e/restore-community-ritual-for-black-women-women-of-colour-tickets-461827938797" target="_blank" rel="noopener">Join the Circle</a>&nbsp;</span></strong></span></p>
 
       <p>&nbsp;</p>
 
@@ -37,7 +53,7 @@ scheduleSection:
 
       <p style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);">Pisces season marks the end of the zodiac cycle and invites us to pause and reflect inward, before moving into the expansive newness of Spring.</span></p>
 
-      <p style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);">Join me and Oya Retreats to orient to what is present for you at this transition. You are invited to share in the transformational magic of Sisterhood. There will be space for intuiting and attun</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">ing</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;"> with your</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;"> heart-centred values, to anchor you in alignment with your life's vision.&nbsp;</span></p>
+      <p style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);">Join me and OYA Retreats to orient to what is present for you at this transition. You are invited to share in the transformational magic of Sisterhood. There will be space for intuiting and attun</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">ing</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;"> with your</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;"> heart-centred values, to anchor you in alignment with your life's vision.&nbsp;</span></p>
 
       <p style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a href="https://www.oyaretreats.com/retreats/moving-into-a-new-season" target="_blank" rel="noopener"><strong><span style="color: rgb(176, 70, 100);">Read more and book here</span></strong></a></span></p>
 
@@ -47,7 +63,7 @@ scheduleSection:
 
       <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Where:<strong> Fair Oak Farm, East Sussex</strong></span></p>
 
-      <p style="text-align: left;"><em><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);">This is a collaboration with Oya Retreats.</span></em></p>
+      <p style="text-align: left;"><em><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);">This is a collaboration with OYA Retreats.</span></em></p>
     title: NEXT UP
   - body: >-
       <h2><span style="font-family: impact, sans-serif;"><span style="color:
