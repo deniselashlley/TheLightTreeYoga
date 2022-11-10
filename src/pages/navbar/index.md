@@ -16,6 +16,9 @@ menuItems:
   - label: "about "
     linkType: hash
     linkURL: /#mystory
+  - label: musings
+    linkType: hash
+    linkURL: /#blog
 socialLinks:
   - hiddenText: "@we_the_light_tree_wellness"
     label: follow
