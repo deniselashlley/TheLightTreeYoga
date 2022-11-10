@@ -5,14 +5,15 @@ classHeading: Weekly Explorations
 eventsHeading: Upcoming Events + Journeys
 scheduleSection:
   - body: >-
-      <h2><span style="font-family: helvetica, arial, sans-serif; color:
-      rgb(237, 112, 74);">&nbsp;Community Women's Circles&nbsp;</span></h2>
+      <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(237,
+      112, 74);">&nbsp;<span style="font-size: 24pt;">Community Women's
+      Circles</span>&nbsp;</span></p>
 
       <h3 style="text-align: center;">&nbsp;</h3>
 
-      <h3 style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif; font-size: 24pt;">Re:store&nbsp;</span></h3>
+      <p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif; font-size: 18pt;">Re:store&nbsp;</span></p>
 
-      <h3 style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">A Community Ritual for Black Women + Women of Colour&nbsp;</span></h3>
+      <p style="text-align: center;"><strong><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;">A Community Ritual for Black Women + Women of Colour&nbsp;</span></strong></p>
 
       <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Re:storative and nourishing practices are&nbsp;the focus of our Winter season gathering, the last of this year.</span></p>
 
@@ -46,11 +47,11 @@ scheduleSection:
 
       <p style="text-align: left;">&nbsp;</p>
 
-      <h2 style="text-align: left;"><span style="font-family: helvetica, arial, sans-serif; color: rgb(237, 112, 74);"><strong>Spring Weekend Retreat</strong></span></h2>
+      <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(237, 112, 74); font-size: 24pt;">Spring Weekend Retreat</span></p>
 
       <p style="text-align: left;">&nbsp;</p>
 
-      <p style="text-align: center;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46); font-size: 18pt;"><strong><em>Moving into a New Season.&nbsp;</em></strong></span></p>
+      <p style="text-align: center;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46); font-size: 18pt;"><strong><em>Moving into a New Season</em></strong></span></p>
 
       <p style="text-align: center;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);"><strong><em>Stepping out with Intention.</em></strong></span></p>
 
@@ -71,9 +72,9 @@ scheduleSection:
       <p style="text-align: left;"><em><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);">This is a collaboration with OYA Retreats.</span></em></p>
     title: NEXT UP
   - body: >-
-      <h2><span style="font-family: helvetica, arial, sans-serif; color:
-      rgb(237, 112, 74); font-size: 24pt;">&nbsp;Embodying
-      Aliveness&nbsp;</span></h2>
+      <p style="text-align: center;"><span style="font-family: helvetica, arial,
+      sans-serif; color: rgb(237, 112, 74); font-size: 18pt;">&nbsp;Embodying
+      Aliveness&nbsp;</span></p>
 
       <p>&nbsp;</p>
 
