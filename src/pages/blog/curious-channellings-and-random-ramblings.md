@@ -6,6 +6,7 @@ title: "curious channellings and random ramblings "
 <p>&nbsp;</p>
 <p><span style="font-size: 14pt;"><strong><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Welcome to my home for creative expression and musings...</span></strong></span></p>
 <p>&nbsp;</p>
+<hr>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div><strong><span style="text-decoration: underline;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;">Elemental Prayer&nbsp;</span></span></strong></div>
