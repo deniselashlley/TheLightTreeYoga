@@ -2,6 +2,8 @@
 templateKey: blog-post
 title: "curious channellings and random ramblings "
 ---
+<h1 style="text-align: center;"><span style="font-family: helvetica, arial, sans-serif; font-size: 36pt; color: rgb(237, 112, 74);">curious channellings and random ramblings&nbsp;</span></h1>
+<p>&nbsp;</p>
 <p><span style="font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;">Welcome to a home for my creative expression and musings...</span></p>
 <p>&nbsp;</p>
 <div>&nbsp;</div>
