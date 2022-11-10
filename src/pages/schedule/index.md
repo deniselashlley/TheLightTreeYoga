@@ -46,11 +46,13 @@ scheduleSection:
 
       <p style="text-align: left;">&nbsp;</p>
 
-      <h2 style="text-align: left;"><span style="font-family: impact, sans-serif; color: rgb(176, 70, 100);"><strong>Spring Weekend Retreat</strong></span></h2>
+      <h2 style="text-align: left;"><span style="font-family: helvetica, arial, sans-serif; color: rgb(237, 112, 74);"><strong>Spring Weekend Retreat</strong></span></h2>
 
       <p style="text-align: left;">&nbsp;</p>
 
-      <p style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);"><strong><em>Moving into a New Season. Stepping out with Intention.</em></strong></span></p>
+      <p style="text-align: center;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46); font-size: 18pt;"><strong><em>Moving into a New Season.&nbsp;</em></strong></span></p>
+
+      <p style="text-align: center;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);"><strong><em>Stepping out with Intention.</em></strong></span></p>
 
       <p style="text-align: left;">&nbsp;</p>
 
@@ -69,12 +71,13 @@ scheduleSection:
       <p style="text-align: left;"><em><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);">This is a collaboration with OYA Retreats.</span></em></p>
     title: NEXT UP
   - body: >-
-      <h2><span style="font-family: impact, sans-serif;"><span style="color:
-      rgb(176, 70, 100);">&nbsp;Embodying Aliveness</span>&nbsp;</span></h2>
+      <h2><span style="font-family: helvetica, arial, sans-serif; color:
+      rgb(237, 112, 74); font-size: 24pt;">&nbsp;Embodying
+      Aliveness&nbsp;</span></h2>
 
       <p>&nbsp;</p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;"><strong>A Collective Self-Care &amp; Empowerment Journey </strong></span></p>
+      <p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;"><strong>A Collective Self-Care &amp; Empowerment Journey </strong></span></p>
 
       <p>&nbsp;</p>
 
