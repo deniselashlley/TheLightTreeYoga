@@ -18,7 +18,8 @@ menuItems:
     linkURL: /#mystory
   - label: musings
     linkType: hash
-    linkURL: "/#curiouschannellingsandrandomramblings "
+    linkURL: "https://www.thelighttree.co.uk/blog/curious-channeling-and-random-ram\
+      blings "
 socialLinks:
   - hiddenText: "@we_the_light_tree_wellness"
     label: follow
