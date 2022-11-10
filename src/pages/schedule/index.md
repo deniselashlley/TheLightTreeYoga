@@ -5,29 +5,32 @@ classHeading: Weekly Explorations
 eventsHeading: Upcoming Events + Journeys
 scheduleSection:
   - body: >-
-      <h2><span style="font-family: impact, sans-serif;"><span style="color:
-      rgb(176, 70, 100);">&nbsp;Community Women's
-      Circles</span>&nbsp;</span></h2>
+      <h2><span style="font-family: helvetica, arial, sans-serif; color:
+      rgb(237, 112, 74);">&nbsp;Community Women's Circles&nbsp;</span></h2>
+
+      <h3 style="text-align: center;">&nbsp;</h3>
+
+      <h3 style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif; font-size: 24pt;">Re:store&nbsp;</span></h3>
 
       <h3 style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">A Community Ritual for Black Women + Women of Colour&nbsp;</span></h3>
 
-      <p><strong>Re:store</strong> is the focus of our Winter season gathering.</p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Re:storative and nourishing practices are&nbsp;the focus of our Winter season gathering, the last of this year.</span></p>
 
-      <p>Join the next circle to explore what radical rest and resource feels like for you and how you can integrate simple everyday practices to protect and restore your energy.</p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Join the next circle to explore what radical rest and resource feels like for you and how you can integrate simple everyday practices to protect and restore your energy through the winter months.</span></p>
 
       <p>&nbsp;</p>
 
-      <p>Come and enjoy</p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Come and enjoy</span></p>
 
-      <p>✨Individual + Collective Inquiry⁠</p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Individual + Collective Inquiry⁠</span></p>
 
-      <p>✨Guided + Intuitive Movement⁠</p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Guided + Intuitive Movement⁠</span></p>
 
-      <p>✨Resourcing Meditation</p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Resourcing Meditation</span></p>
 
-      <p>✨Radical Rest⁠</p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Radical Rest⁠</span></p>
 
-      <p>✨Healing Soundscapes</p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Healing Soundscapes</span></p>
 
       <p>&nbsp;</p>
 
