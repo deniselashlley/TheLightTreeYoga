@@ -5,9 +5,12 @@ classHeading: Weekly Explorations
 eventsHeading: Upcoming Events + Journeys
 scheduleSection:
   - body: >-
-      <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(237,
-      112, 74);">&nbsp;<span style="font-size: 24pt;">Community Women's
-      Circles</span>&nbsp;</span></p>
+      <h1 style="text-align: left;"><span style="color: rgb(186, 55, 42);"><span
+      style="font-family: helvetica, arial, sans-serif;">&nbsp;</span><span
+      style="font-family: helvetica, arial, sans-serif;"><span style="font-size:
+      24pt;">Community Women's Circles</span></span><strong><span
+      style="font-family: helvetica, arial,
+      sans-serif;">&nbsp;</span></strong></span></h1>
 
       <h3 style="text-align: center;">&nbsp;</h3>
 
@@ -49,7 +52,7 @@ scheduleSection:
 
       <p style="text-align: left;">&nbsp;</p>
 
-      <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(237, 112, 74); font-size: 24pt;">Spring Weekend Retreat</span></p>
+      <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186, 55, 42); font-size: 24pt;">Spring Weekend Retreat</span></p>
 
       <p style="text-align: left;">&nbsp;</p>
 
@@ -74,13 +77,12 @@ scheduleSection:
       <p style="text-align: left;"><em><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);">This is a collaboration with OYA Retreats.</span></em></p>
     title: NEXT UP
   - body: >-
-      <p style="text-align: center;"><span style="font-family: helvetica, arial,
-      sans-serif; color: rgb(237, 112, 74); font-size: 18pt;">&nbsp;Embodying
-      Aliveness&nbsp;</span></p>
+      <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186,
+      55, 42); font-size: 24pt;">&nbsp;Embodying Aliveness&nbsp;</span></p>
 
       <p>&nbsp;</p>
 
-      <p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;"><strong>A Collective Self-Care &amp; Empowerment Journey </strong></span></p>
+      <p style="text-align: left;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;"><strong>A Collective Self-Care &amp; Empowerment Journey </strong></span></p>
 
       <p>&nbsp;</p>
 
