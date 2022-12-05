@@ -35,11 +35,13 @@ scheduleSection:
 
       <p>&nbsp;</p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">When:<strong>&nbsp; Sunday, 11th December 2022&nbsp;</strong></span></p>
+      <p><em><span style="color: rgb(186, 55, 42);"><strong>Update: this event will now take place online</strong></span></em></p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Where:<strong> Dalston, London</strong></span></p>
+      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">When:<strong>&nbsp; Sunday, 11th December 2022 | 12:30- 13:45</strong></span></p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong><span style="color: rgb(176, 70, 100);"><a style="color: rgb(176, 70, 100);" href="https://www.eventbrite.co.uk/e/restore-community-ritual-for-black-women-women-of-colour-tickets-461827938797" target="_blank" rel="noopener">Join the Circle</a>&nbsp;</span></strong></span></p>
+      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Where:<strong> Online</strong></span></p>
+
+      <h3><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong><span style="color: rgb(176, 70, 100);"><a style="color: rgb(176, 70, 100);" href="https://book.stripe.com/4gw8z19Oa3dA6769AD" target="_blank" rel="noopener">Join the Circle</a>&nbsp;</span></strong></span></h3>
 
       <p>&nbsp;</p>
 
