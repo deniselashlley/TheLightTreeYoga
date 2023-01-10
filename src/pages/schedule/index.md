@@ -20,7 +20,7 @@ scheduleSection:
 
       <p>&nbsp;</p>
 
-      <p>You are invited to come together for the Pisces New Moon, a divine time to re-energise your 2023 comittments.</p>
+      <p>You are invited to come together for the Pisces New Moon, a divine time to revitalise your 2023 comittments.</p>
 
       <p>In numerology this year is the number 7, the soul search and following the last few years, Pisces New Moon offers us the perfect opportunity to go deep into the ocean of our soul, to reclaim the treasures that lay dormant, waiting for us to bring them to the light.&nbsp;</p>
 
