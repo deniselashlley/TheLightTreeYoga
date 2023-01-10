@@ -14,13 +14,9 @@ scheduleSection:
 
       <h3 style="text-align: center;">&nbsp;</h3>
 
-      <p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif; font-size: 18pt;">Re:store&nbsp;</span></p>
+      <p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif; font-size: 18pt;">BE:ing</span></p>
 
       <p style="text-align: center;"><strong><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;">A Community Ritual for Black Women + Women of Colour&nbsp;</span></strong></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Re:storative and nourishing practices are&nbsp;the focus of our Winter season gathering, the last of this year.</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Join the next circle to explore what radical rest and resource feels like for you and how you can integrate simple everyday practices to protect and restore your energy through the winter months.</span></p>
 
       <p>&nbsp;</p>
 
@@ -38,13 +34,11 @@ scheduleSection:
 
       <p>&nbsp;</p>
 
-      <p><em><span style="color: rgb(186, 55, 42);"><strong>Update: this event will now take place online</strong></span></em></p>
+      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">When:<strong>&nbsp; Sunday, 19th January | 12:30- 14:30</strong></span></p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">When:<strong>&nbsp; Sunday, 11th December 2022 | 12:30- 13:45</strong></span></p>
+      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Where:<strong> Yoga Reclaimed</strong></span></p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Where:<strong> Online</strong></span></p>
-
-      <h3><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong><span style="color: rgb(176, 70, 100);"><a style="color: rgb(176, 70, 100);" href="https://book.stripe.com/4gw8z19Oa3dA6769AD" target="_blank" rel="noopener">Join the Circle</a>&nbsp;</span></strong></span></h3>
+      <h3><span style="color: #b04664; font-family: trebuchet ms, geneva, sans-serif;">Booking coming soon</span></h3>
 
       <p>&nbsp;</p>
 
