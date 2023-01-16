@@ -20,17 +20,19 @@ scheduleSection:
 
       <p>&nbsp;</p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">You are invited to come together for the Pisces New Moon, a divine time to revitalise your 2023 comittments.</span></p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">You are invited to come together for the Pisces New Moon, a divine time to sprinkle some magic on your 2023 comittments.</span></p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">In numerology this year is the number 7, the soul search and following the last few years, Pisces New Moon offers us the perfect opportunity to go deep into the ocean of our soul, to reclaim the treasures that lay dormant, waiting for us to bring them to the light.</span></p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">In numerology this year is the number 7, the soul search which is deep in Pisces terrain. Especially following the last few years, Pisces which corresponds with the Orisha Olokun, offers us the perfect moment to go deep into the ocean of our soul, to reclaim the treasures that lay dormant, waiting for us to bring them to the light.&nbsp;</span></p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp;</span></p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Olokun is the owner of the ocean and the bottom most water that holds all the secrets, wisdom, dreams of the world.&nbsp; You will be guided to tune into your intuition, dreams, imagination to access the healing energies that are within and around you.</span></p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">What treasures you have forgotten, hidden or lost along the way?</span></p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Surrender to the deepest part of you that knows you're connected to all life everywhere.&nbsp;</span><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Cultivate trust to forgive and release the fears that are getting in the way of love, joy, grace. Emerge with&nbsp; compassion, </span><span style="font-family: 'trebuchet ms', geneva, sans-serif;">gratitude.&nbsp;</span></p>
+
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">What treasures have been forgotten, hidden or lost along the way? What is ready to emerge for you?</span></p>
 
       <p>&nbsp;</p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Come, reclaim and resurface your deepest desires</span></p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Come, reclaim and resurface your deepest desires in this ritual&nbsp;&nbsp;</span></p>
 
       <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Sacred Ceremony</span></p>
 
@@ -45,6 +47,8 @@ scheduleSection:
       <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Radical Rest⁠&nbsp;</span></p>
 
       <p>&nbsp;</p>
+
+      <p><strong id="docs-internal-guid-17dddf8f-7fff-c8e2-45b6-f9f72d7dd752">Come as you are. No experience necessary.</strong></p>
 
       <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">When:<strong>&nbsp; Sunday, 19th February | 12:30- 14:30</strong></span></p>
 
