@@ -20,29 +20,35 @@ scheduleSection:
 
       <p>&nbsp;</p>
 
-      <p>You are invited to come together for the Pisces New Moon, a divine time to revitalise your 2023 comittments.</p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">You are invited to come together for the Pisces New Moon, a divine time to revitalise your 2023 comittments.</span></p>
 
-      <p>In numerology this year is the number 7, the soul search and following the last few years, Pisces New Moon offers us the perfect opportunity to go deep into the ocean of our soul, to reclaim the treasures that lay dormant, waiting for us to bring them to the light.&nbsp;</p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">In numerology this year is the number 7, the soul search and following the last few years, Pisces New Moon offers us the perfect opportunity to go deep into the ocean of our soul, to reclaim the treasures that lay dormant, waiting for us to bring them to the light.</span></p>
 
-      <p>What treasures you have forgotten, hidden or lost along the way?</p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp;</span></p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Come, reclaim and resurface your unique gifts</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Individual + Collective Inquiry⁠</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Guided + Intuitive Movement⁠</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Resourcing Meditation</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Radical Rest⁠</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Healing Soundscapes</span></p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">What treasures you have forgotten, hidden or lost along the way?</span></p>
 
       <p>&nbsp;</p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">When:<strong>&nbsp; Sunday, 19th January | 12:30- 14:30</strong></span></p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Come, reclaim and resurface your deepest desires</span></p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Where:<strong> Yoga Reclaimed</strong></span></p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Sacred Ceremony</span></p>
+
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Individual + Collective Inquiry⁠</span></p>
+
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Embodied practice for dignitity + presence</span></p>
+
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Heart-Womb Activation</span></p>
+
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Sonic Journeying</span></p>
+
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Radical Rest⁠&nbsp;</span></p>
+
+      <p>&nbsp;</p>
+
+      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">When:<strong>&nbsp; Sunday, 19th February | 12:30- 14:30</strong></span></p>
+
+      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Where:<strong> Yoga Reclaimed, Dalston</strong></span></p>
 
       <h3><span style="color: #b04664; font-family: trebuchet ms, geneva, sans-serif;">Booking coming soon</span></h3>
 
