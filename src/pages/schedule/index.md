@@ -22,17 +22,19 @@ scheduleSection:
 
       <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">You are invited to come together for the Pisces New Moon, a divine time to sprinkle some magic on your 2023 comittments.</span></p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">In numerology this year is the number 7, the soul search which is deep in Pisces terrain. Especially following the last few years, Pisces which corresponds with the Orisha Olokun, offers us the perfect moment to go deep into the ocean of our soul, to reclaim the treasures that lay dormant, waiting for us to bring them to the light.&nbsp;</span></p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">This year is 7 in numerology, the soul search, which is deep in Pisces terrain. Especially following the last few years Pisces, which corresponds with the Orisha Olokun, offers us the perfect moment to go deep into the ocean of our soul, to reclaim the treasures that lay dormant, waiting for us to bring them to the light.&nbsp;</span></p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Olokun is the owner of the ocean and the bottom most water that holds all the secrets, wisdom, dreams of the world.&nbsp; You will be guided to tune into your intuition, dreams, imagination to access the healing energies that are within and around you.</span></p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Olokun is the owner of the ocean and the bottom most water that holds all the secrets, wisdom, dreams of the world.&nbsp; You will be guided to tune into your intuition, imagination, dreams and supported by vibrational sound medicine to access the healing energies that are within and around you.</span></p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Surrender to the deepest part of you that knows you're connected to all life everywhere.&nbsp;</span><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Cultivate trust to forgive and release the fears that are getting in the way of love, joy, grace. Emerge with&nbsp; compassion, </span><span style="font-family: 'trebuchet ms', geneva, sans-serif;">gratitude.&nbsp;</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">What treasures have been forgotten, hidden or lost along the way? What is ready to emerge for you?</span></p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">You are invited to surrender to the deepest part of you that knows you're connected to all life everywhere. </span><span style="font-family: 'trebuchet ms', geneva, sans-serif;">To cultivate trust to forgive and release the fears that are getting in the way of love, joy, grace. To emerge with&nbsp; compassion, </span><span style="font-family: 'trebuchet ms', geneva, sans-serif;">gratitude.&nbsp;</span></p>
 
       <p>&nbsp;</p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Come, reclaim and resurface your deepest desires in this ritual&nbsp;&nbsp;</span></p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">What treasures have been lost, forgotten, hidden along your way? What is ready to emerge for you?</span></p>
+
+      <p>&nbsp;</p>
+
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Come, reclaim your deepest desires.&nbsp;&nbsp;</span></p>
 
       <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Sacred Ceremony</span></p>
 
