@@ -40,7 +40,7 @@ scheduleSection:
 
       <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Individual + Collective Inquiry⁠</span></p>
 
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Embodied practice for dignitity + presence</span></p>
+      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Embodied practice for dignity + presence</span></p>
 
       <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Heart-Womb Activation</span></p>
 
