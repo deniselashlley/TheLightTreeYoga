@@ -56,7 +56,7 @@ scheduleSection:
 
       <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Where:<strong> Yoga Reclaimed, Dalston</strong></span></p>
 
-      <h3><span style="color: #b04664; font-family: trebuchet ms, geneva, sans-serif;">Booking coming soon</span></h3>
+      <h3><span style="color: #b04664; font-family: trebuchet ms, geneva, sans-serif;"><a href="https://www.eventbrite.co.uk/e/being-new-moon-community-ritual-for-black-women-women-of-colour-tickets-519016060007" target="_blank" rel="noopener">Join the circle</a></span></h3>
 
       <p>&nbsp;</p>
 
