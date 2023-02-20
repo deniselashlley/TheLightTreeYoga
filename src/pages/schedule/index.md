@@ -5,66 +5,8 @@ classHeading: Weekly Explorations
 eventsHeading: Upcoming Events + Journeys
 scheduleSection:
   - body: >-
-      <h1 style="text-align: left;"><span style="color: rgb(186, 55, 42);"><span
-      style="font-family: helvetica, arial, sans-serif;">&nbsp;</span><span
-      style="font-family: helvetica, arial, sans-serif;"><span style="font-size:
-      24pt;">Community Women's Circles</span></span><strong><span
-      style="font-family: helvetica, arial,
-      sans-serif;">&nbsp;</span></strong></span></h1>
-
-      <h3 style="text-align: center;">&nbsp;</h3>
-
-      <p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif; font-size: 18pt;">BE:ing</span></p>
-
-      <p style="text-align: center;"><strong><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;">A Community Ritual for Black Women + Women of Colour&nbsp;</span></strong></p>
-
-      <p>&nbsp;</p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">You are invited to come together for the Pisces New Moon, a divine time to sprinkle some magic on your 2023 comittments.</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">This year is 7 in numerology, the soul search, which is deep in Pisces terrain. Especially following the last few years Pisces, which corresponds with the Orisha Olokun, offers us the perfect moment to go deep into the ocean of our soul, to reclaim the treasures that lay dormant, waiting for us to bring them to the light in support of our commitments.&nbsp;</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Olokun is the owner of the ocean and the bottom most water that holds all the secrets, wisdom, dreams of the world.&nbsp; You will be guided to tune into your intuition, imagination, dreams and supported by vibrational sound medicine to access the healing energies that are within and around you.</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">You are invited to surrender to the deepest part of you that knows you're connected to all life everywhere. </span><span style="font-family: 'trebuchet ms', geneva, sans-serif;">To cultivate trust, forgive and release the fears may be getting in the way of living your desires. To emerge with compassion, </span><span style="font-family: 'trebuchet ms', geneva, sans-serif;">gratitude and&nbsp;</span></p>
-
-      <p>&nbsp;</p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">What treasures have been lost, forgotten, hidden along your way? What is ready to emerge for you?</span></p>
-
-      <p>&nbsp;</p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Come, reclaim your deepest desires.&nbsp;&nbsp;</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Sacred Ceremony</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Individual + Collective Inquiry⁠</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Embodied practice for dignity + presence</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Heart-Womb Activation</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Sonic Journeying</span></p>
-
-      <p><span style="font-family: 'trebuchet ms', geneva, sans-serif;">✨Radical Rest⁠&nbsp;</span></p>
-
-      <p>&nbsp;</p>
-
-      <p><strong id="docs-internal-guid-17dddf8f-7fff-c8e2-45b6-f9f72d7dd752">Come as you are. No experience necessary.</strong></p>
-
-      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">When:<strong>&nbsp; Sunday, 19th February | 12:30- 14:30</strong></span></p>
-
-      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Where:<strong> Yoga Reclaimed, Dalston</strong></span></p>
-
-      <h3><span style="color: #b04664; font-family: trebuchet ms, geneva, sans-serif;"><a href="https://www.eventbrite.co.uk/e/being-new-moon-community-ritual-for-black-women-women-of-colour-tickets-519016060007" target="_blank" rel="noopener">Join the circle</a></span></h3>
-
-      <p>&nbsp;</p>
-
-      <p style="text-align: center;">~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~</p>
-
-      <p style="text-align: left;">&nbsp;</p>
-
-      <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186, 55, 42); font-size: 24pt;">Spring Weekend Retreat</span></p>
+      <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186,
+      55, 42); font-size: 24pt;">Spring Weekend Retreat</span></p>
 
       <p style="text-align: left;">&nbsp;</p>
 
