@@ -24,6 +24,7 @@ highlightedText: ""
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp; &nbsp; &nbsp;Lovingly invite back the pieces of you that were denied, abandoned, hidden and slighted</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp; &nbsp; &nbsp;And playfully backstroke in the beautiful messiness of it all</span></p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">What would it be like to receive yourself as full and whole and enough, just as you are?&nbsp;</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Is there a sense of it calling you?</span></p>
 <p>&nbsp;</p>
