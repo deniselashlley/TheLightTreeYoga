@@ -13,9 +13,13 @@ scheduleSection:
 
       <h3><span style="color: rgb(23, 58, 46);">Next circle: BE:ing Self Love</span></h3>
 
+      <p><strong><span style="color: rgb(23, 58, 46);">A Community Ritual for Black Women and Women of Colour</span></strong></p>
+
       <p><span style="color: rgb(23, 58, 46);">Date: Sunday 16th April 2023</span></p>
 
       <p><span style="color: rgb(23, 58, 46);">Astrological attunment: New Moon in Taurus&nbsp;</span></p>
+
+      <p><span style="color: rgb(23, 58, 46);">Location: Dalston, East London</span></p>
 
       <p><span style="color: rgb(176, 70, 100);"><strong>More info and booking coming soon</strong></span></p>
     title: NEXT UP
