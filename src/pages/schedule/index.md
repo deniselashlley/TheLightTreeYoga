@@ -5,30 +5,19 @@ classHeading: Weekly Explorations
 eventsHeading: Upcoming Events + Journeys
 scheduleSection:
   - body: >-
-      <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186,
-      55, 42); font-size: 24pt;">Spring Weekend Retreat</span></p>
-
-      <p style="text-align: left;">&nbsp;</p>
-
-      <p style="text-align: center;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46); font-size: 18pt;"><strong><em>Moving into a New Season</em></strong></span></p>
-
-      <p style="text-align: center;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);"><strong><em>Stepping out with Intention.</em></strong></span></p>
-
-      <p style="text-align: left;">&nbsp;</p>
-
-      <p style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);">Pisces season marks the end of the zodiac cycle and invites us to pause and reflect inward, before moving into the expansive newness of Spring.</span></p>
-
-      <p style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);">Join me and OYA Retreats to orient to what is present for you at this transition. You are invited to share in the transformational magic of Sisterhood. There will be space for intuiting and attun</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">ing</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;"> with your</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;"> heart-centred values, to anchor you in alignment with your life's vision.&nbsp;</span></p>
-
-      <p style="text-align: left;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><a href="https://www.oyaretreats.com/retreats/moving-into-a-new-season" target="_blank" rel="noopener"><strong><span style="color: rgb(176, 70, 100);">Read more and book here</span></strong></a></span></p>
+      <p><span style="color: #ba372a; font-family: helvetica, arial,
+      sans-serif;"><span style="font-size: 32px;">Women's Wellbeing
+      Circles&nbsp;</span></span></p>
 
       <p>&nbsp;</p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">When:<strong>&nbsp; Friday 10th - Sunday 12th March 2023</strong></span></p>
+      <h3><span style="color: rgb(23, 58, 46);">Next circle: BE:ing Self Love</span></h3>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Where:<strong> Fair Oak Farm, East Sussex</strong></span></p>
+      <p><span style="color: rgb(23, 58, 46);">Date: Sunday 16th April 2023</span></p>
 
-      <p style="text-align: left;"><em><span style="font-family: 'trebuchet ms', geneva, sans-serif; color: rgb(23, 58, 46);">This is a collaboration with OYA Retreats.</span></em></p>
+      <p><span style="color: rgb(23, 58, 46);">Astrological attunment: New Moon in Taurus&nbsp;</span></p>
+
+      <p><span style="color: rgb(176, 70, 100);"><strong>More info and booking coming soon</strong></span></p>
     title: NEXT UP
   - body: >-
       <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186,
