@@ -9,19 +9,27 @@ scheduleSection:
       sans-serif;"><span style="font-size: 32px;">Women's Wellbeing
       Circles&nbsp;</span></span></p>
 
+      <p>These circles take place before or during the new moon, a divine time to reflect, rest and reset intentions for what you&rsquo;d like to manifest in your life.</p>
+
+      <p>Each month we will explore a different aspect of your be:ing like being transformation, being whole, being abundant with the intention to bring these aspects of our being into focus and authentically embody their meaning to us.</p>
+
       <p>&nbsp;</p>
 
-      <h3><span style="color: rgb(23, 58, 46);">Next circle: BE:ing Self Love</span></h3>
+      <h3><span style="color: rgb(23, 58, 46);">Next circle: Be:ing Self Love</span></h3>
 
       <p><strong><span style="color: rgb(23, 58, 46);">A Community Ritual for Black Women and Women of Colour</span></strong></p>
+
+      <p><span style="color: rgb(23, 58, 46);">You are invited to explore practices that open us to more compassionate, accepting and loving ways of authentically connecting and being with ourselves.</span></p>
+
+      <p>&nbsp;</p>
 
       <p><span style="color: rgb(23, 58, 46);">Date: Sunday 16th April 2023</span></p>
 
       <p><span style="color: rgb(23, 58, 46);">Astrological attunment: New Moon in Taurus&nbsp;</span></p>
 
-      <p><span style="color: rgb(23, 58, 46);">Location: Dalston, East London</span></p>
+      <p><span style="color: rgb(23, 58, 46);">Location: Yoga Reclaimied, Dalston, East London.</span></p>
 
-      <p><span style="color: rgb(176, 70, 100);"><strong>More info and booking coming soon</strong></span></p>
+      <p><a href="https://www.eventbrite.co.uk/e/being-self-love-tickets-599678373157" target="_blank" rel="noopener"><span style="color: rgb(176, 70, 100);"><strong>More info and booking&nbsp;</strong></span></a></p>
     title: NEXT UP
   - body: >-
       <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186,
