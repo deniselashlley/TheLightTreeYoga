@@ -11,7 +11,7 @@ scheduleSection:
 
       <p>These circles take place before or during the new moon, a divine time to reflect, rest and reset intentions for what you&rsquo;d like to manifest in your life.</p>
 
-      <p>Each month we will explore a different aspect of your be:ing like being transformation, being whole, being abundant with the intention to bring these aspects of our being into focus and authentically embody their meaning to us. xxx</p>
+      <p>Each month we will explore a different aspect of your be:ing like being transformation, being whole, being abundant with the intention to bring these aspects of our being into focus and authentically embody their meaning to us.&nbsp;</p>
 
       <p>&nbsp;</p>
 
