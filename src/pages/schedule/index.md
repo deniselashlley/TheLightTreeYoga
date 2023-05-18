@@ -23,13 +23,13 @@ scheduleSection:
 
       <p>&nbsp;</p>
 
-      <p><span style="color: rgb(23, 58, 46);">Date: Sunday 21st AMay 2023</span></p>
+      <p><span style="color: rgb(23, 58, 46);">Date: Sunday 21st May 2023</span></p>
 
       <p><span style="color: rgb(23, 58, 46);">Cosmic attunment: New Moon in Gemini</span></p>
 
       <p><span style="color: rgb(23, 58, 46);">Location: Yoga Reclaimied, Dalston, East London.</span></p>
 
-      <p><a href="https://www.eventbrite.co.uk/e/being-self-love-tickets-599678373157" target="_blank" rel="noopener"><span style="color: rgb(176, 70, 100);"><strong>More info and booking&nbsp;</strong></span></a></p>
+      <p><a href="https://www.eventbrite.co.uk/e/being-collective-tickets-630099924837" target="_blank" rel="noopener"><span style="color: rgb(176, 70, 100);"><strong>More info and booking&nbsp;</strong></span></a></p>
     title: NEXT UP
   - body: >-
       <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186,
