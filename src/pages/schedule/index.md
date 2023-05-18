@@ -15,17 +15,17 @@ scheduleSection:
 
       <p>&nbsp;</p>
 
-      <h3><span style="color: rgb(23, 58, 46);">Next circle: Be:ing Self Love</span></h3>
+      <h3><span style="color: rgb(23, 58, 46);">Next circle: Be:ing Collective</span></h3>
 
-      <p><strong><span style="color: rgb(23, 58, 46);">A Community Ritual for Black Women and Women of Colour</span></strong></p>
+      <p><strong><span style="color: rgb(23, 58, 46);">A Community Wellbeing Circle for all Women</span></strong></p>
 
       <p><span style="color: rgb(23, 58, 46);">You are invited to explore practices that open us to more compassionate, accepting and loving ways of authentically connecting and being with ourselves.</span></p>
 
       <p>&nbsp;</p>
 
-      <p><span style="color: rgb(23, 58, 46);">Date: Sunday 16th April 2023</span></p>
+      <p><span style="color: rgb(23, 58, 46);">Date: Sunday 21st AMay 2023</span></p>
 
-      <p><span style="color: rgb(23, 58, 46);">Astrological attunment: New Moon in Taurus&nbsp;</span></p>
+      <p><span style="color: rgb(23, 58, 46);">Cosmic attunment: New Moon in Gemini</span></p>
 
       <p><span style="color: rgb(23, 58, 46);">Location: Yoga Reclaimied, Dalston, East London.</span></p>
 
