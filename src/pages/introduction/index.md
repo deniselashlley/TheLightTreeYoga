@@ -20,7 +20,7 @@ highlightedText: ""
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp; &nbsp; &nbsp;Is it possible to vision? </span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp; &nbsp; &nbsp;a place</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp;to expand into the otherness of your humanness</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp; &nbsp; &nbsp;To carefully unravel the binds of judgement and fixing</span></p>
-<p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp; &nbsp; &nbsp;Gently unwind into the freedom of discomfort, or is it the discomfort of freedom?</span></p>
+<p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp; &nbsp; &nbsp;Gently unwind into the freedom of the unknown</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp; &nbsp; &nbsp;Lovingly invite back the pieces of you that were denied, abandoned, hidden and slighted</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp; &nbsp; &nbsp;And playfully backstroke in the beautiful messiness of it all</span></p>
 <p>&nbsp;</p>
@@ -28,7 +28,7 @@ highlightedText: ""
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">What would it be like to receive yourself as full and whole and enough, just as you are?&nbsp;</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Is there a sense of it calling you?</span></p>
 <p>&nbsp;</p>
-<p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Let's create a home for You, to be, with whatever you are bringing, as you are, here, now.</span></p>
+<p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Let's nurture a space for You, to be, with whatever you are bringing, as you are, here, now.</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Welcome home</span></p>
 <p>&nbsp;</p>
 <blockquote>
