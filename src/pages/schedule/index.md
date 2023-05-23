@@ -35,7 +35,7 @@ scheduleSection:
 
       <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Location: Yoga Reclaimied, Dalston, East London.</span></p>
 
-      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><a href="https://www.eventbrite.co.uk/e/being-collective-tickets-630099924837" target="_blank" rel="noopener"><span style="color: rgb(176, 70, 100);"><strong>More info and booking&nbsp;</strong></span></a></span></p>
+      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><a href="https://www.eventbrite.co.uk/e/being-nurtured-tickets-641373223577" target="_blank" rel="noopener"><span style="color: rgb(176, 70, 100);"><strong>More info and booking&nbsp;</strong></span></a></span></p>
     title: NEXT UP
   - body: >-
       <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186,
