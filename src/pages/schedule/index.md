@@ -15,9 +15,9 @@ scheduleSection:
 
       <p>&nbsp;</p>
 
-      <h3><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Next circle: Be:ing Nurtured</span></h3>
+      <h3><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Next circle: Be:ing Abundant</span></h3>
 
-      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="color: rgb(23, 58, 46);">A Community Circle for Black Women &amp; Women of Colour</span></strong></span></p>
+      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="color: rgb(23, 58, 46);">A Community Women's Circle&nbsp;</span></strong></span></p>
 
       <p data-key="120"><span style="font-family: tahoma, arial, helvetica, sans-serif;" data-key="121"><span data-offset-key="121:1">You are invited to explore practices that open us to compassionate, accepting and loving ways of being with ourselves and explore the potential of</span></span></p>
 
@@ -29,13 +29,13 @@ scheduleSection:
 
       </ul>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Date: Sunday 18th June 2023</span></p>
+      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Date: Sunday 16th July 2023</span></p>
 
       <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Cosmic attunment: New Moon in cancer</span></p>
 
       <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Location: Yoga Reclaimied, Dalston, East London.</span></p>
 
-      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><a href="https://www.eventbrite.co.uk/e/being-nurtured-tickets-641373223577" target="_blank" rel="noopener"><span style="color: rgb(176, 70, 100);"><strong>More info and booking&nbsp;</strong></span></a></span></p>
+      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><a title="being abundant" href="https://www.eventbrite.co.uk/e/being-abundant-tickets-662488128827" target="_blank" rel="noopener"><span style="color: rgb(176, 70, 100);"><strong>More info and booking&nbsp;</strong></span></a></span></p>
     title: NEXT UP
   - body: >-
       <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186,
