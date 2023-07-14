@@ -15,27 +15,21 @@ scheduleSection:
 
       <p>&nbsp;</p>
 
-      <h3><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Next circle: Be:ing Abundant</span></h3>
+      <h3><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Next circle: Be:ing possibility</span></h3>
 
       <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="color: rgb(23, 58, 46);">A Community Women's Circle&nbsp;</span></strong></span></p>
 
-      <p data-key="120"><span style="font-family: tahoma, arial, helvetica, sans-serif;" data-key="121"><span data-offset-key="121:1">You are invited to explore practices that open us to compassionate, accepting and loving ways of being with ourselves and explore the potential of</span></span></p>
+      <p data-key="120"><span style="font-family: tahoma, arial, helvetica, sans-serif;" data-key="121"><span data-offset-key="121:1">You are invited to explore practices that open us to compassionate, accepting and loving ways of being with ourselves and eachother.</span></span></p>
 
-      <ul data-key="123" data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIyY2xhc3NOYW1lJTIyJTNBbnVsbCU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyV2UlMjB3aWxsJTIwbW92ZSUyMHRocm91Z2glMjBwcmFjdGljZXMlMjB0aGF0JTIwb3BlbiUyMHVzJTIwdG8lMjBjb21wYXNzaW9uYXRlJTJDJTIwYWNjZXB0aW5nJTIwYW5kJTIwbG92aW5nJTIwd2F5cyUyMG9mJTIwYmVpbmclMjB3aXRoJTIwb3Vyc2VsdmVzJTIwYW5kJTIwZXhwbG9yZSUyMHRoZSUyMHBvdGVudGlhbCUyMG9mJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJidWxsZXRlZC1saXN0JTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmxpc3QtaXRlbSUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJjbGFzc05hbWUlMjIlM0FudWxsJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJXaGF0JTIwaXQlMjBsb29rcyUyMGxpa2UlMjB0byUyMGNyZWF0ZSUyMGFuJTIwaW50ZW50aW9uYWwlMjBzcGFjZSUyMGluJTIwd2hpY2glMjB3ZSUyMGFyZSUyMG51cnR1cmVkJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaXN0LWl0ZW0lMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIyY2xhc3NOYW1lJTIyJTNBbnVsbCU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyV2hhdCUyMGl0JTIwbWVhbnMlMjB0byUyMGJlJTIwbnVydHVyZWQlMkMlMjBjaGVyaXNoZWQlMjBhbmQlMjBnZW50bHklMjBoZWxkJTIwanVzdCUyMGFzJTIwd2UlMjBhcmUlMjAlMjAlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCU1RCU3RCU1RCU3RA==">
+      <p data-key="120">&nbsp;</p>
 
-      <li style="font-family: tahoma, arial, helvetica, sans-serif;" data-key="124"><span style="font-family: tahoma, arial, helvetica, sans-serif;" data-key="125"><span data-offset-key="125:0">What it looks like to create an intentional space in which we are nurtured</span></span></li>
+      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Date: Sunday 13th August 2023</span></p>
 
-      <li style="font-family: tahoma, arial, helvetica, sans-serif;" data-key="126"><span style="font-family: tahoma, arial, helvetica, sans-serif;" data-key="127"><span data-offset-key="127:0">What it means to be nurtured, cherished and gently held just as we are </span></span></li>
-
-      </ul>
-
-      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Date: Sunday 16th July 2023</span></p>
-
-      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Cosmic attunment: New Moon in cancer</span></p>
+      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Cosmic attunment: New Moon in Leo</span></p>
 
       <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Location: Yoga Reclaimied, Dalston, East London.</span></p>
 
-      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><a title="being abundant" href="https://www.eventbrite.co.uk/e/being-abundant-tickets-662488128827" target="_blank" rel="noopener"><span style="color: rgb(176, 70, 100);"><strong>More info and booking&nbsp;</strong></span></a></span></p>
+      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: rgb(176, 70, 100);"><strong>info and booking coming soon&nbsp;</strong></span></span></p>
     title: NEXT UP
   - body: >-
       <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186,
