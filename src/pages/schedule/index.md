@@ -29,7 +29,7 @@ scheduleSection:
 
       <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Location: Yoga Reclaimied, Dalston, East London.</span></p>
 
-      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: rgb(176, 70, 100);"><strong>info and booking coming soon&nbsp;</strong></span></span></p>
+      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: rgb(176, 70, 100);"><strong><a href="https://www.eventbrite.co.uk/e/being-possibility-new-moon-ritual-for-black-women-and-women-of-colour-tickets-685894227097?aff=oddtdtcreator" target="_blank" rel="noopener"><span style="color: rgb(176, 70, 100);">info and booking</span></a>&nbsp;</strong></span></span></p>
     title: NEXT UP
   - body: >-
       <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186,
