@@ -1,6 +1,6 @@
 ---
 templateKey: my-story
-title: an unfolding journey of embodied revolution and liberation
+title: an unfolding journey of embodied revolution and freedom
 image: /img/af19-headshot-crop2.png
 quote: ""
 buttons:
