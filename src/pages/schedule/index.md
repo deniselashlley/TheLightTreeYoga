@@ -6,8 +6,8 @@ eventsHeading: Upcoming Events + Journeys
 scheduleSection:
   - body: >-
       <p><span style="color: #ba372a; font-family: helvetica, arial,
-      sans-serif;"><span style="font-size: 32px;">Women's Wellbeing
-      Circles&nbsp;</span></span></p>
+      sans-serif;"><span style="font-size: 32px;">women's wellbeing
+      circles&nbsp;</span></span></p>
 
       <p><span style="font-family: tahoma, arial, helvetica, sans-serif;">These circles take place before or during the new moon, a divine time to reflect, rest and reset intentions for what you&rsquo;d like to manifest in your life.</span></p>
 
@@ -15,21 +15,21 @@ scheduleSection:
 
       <p>&nbsp;</p>
 
-      <h3><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Next circle: Be:ing possibility</span></h3>
+      <h3><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">next circle: be:ing balance</span></h3>
 
-      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="color: rgb(23, 58, 46);">A Community Women's Circle&nbsp;</span></strong></span></p>
+      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="color: rgb(23, 58, 46);">a community ritual for black women and women of colour</span></strong></span></p>
 
       <p data-key="120"><span style="font-family: tahoma, arial, helvetica, sans-serif;" data-key="121"><span data-offset-key="121:1">You are invited to explore practices that open us to compassionate, accepting and loving ways of being with ourselves and eachother.</span></span></p>
 
       <p data-key="120">&nbsp;</p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Date: Sunday 13th August 2023</span></p>
+      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Date: Sunday 15th October 2023</span></p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Cosmic attunment: New Moon in Leo</span></p>
+      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Cosmic attunment: New Moon in Libra</span></p>
 
       <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Location: Yoga Reclaimied, Dalston, East London.</span></p>
 
-      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: rgb(176, 70, 100);"><strong><a href="https://www.eventbrite.co.uk/e/being-possibility-new-moon-ritual-for-black-women-and-women-of-colour-tickets-685894227097?aff=oddtdtcreator" target="_blank" rel="noopener"><span style="color: rgb(176, 70, 100);">info and booking</span></a>&nbsp;</strong></span></span></p>
+      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: rgb(176, 70, 100);"><strong><span style="color: rgb(176, 70, 100);">more info and booking</span> coming soon</strong></span></span></p>
     title: NEXT UP
   - body: >-
       <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186,
