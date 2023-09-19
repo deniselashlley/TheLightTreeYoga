@@ -19,7 +19,7 @@ scheduleSection:
 
       <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="color: rgb(23, 58, 46);">a community ritual for black women and women of colour</span></strong></span></p>
 
-      <p data-key="120"><span style="font-family: tahoma, arial, helvetica, sans-serif;" data-key="121"><span data-offset-key="121:1">You are invited to explore practices that open us to compassionate, accepting and loving ways of being with ourselves and eachother.</span></span></p>
+      <p data-key="120"><span style="font-family: tahoma, arial, helvetica, sans-serif;" data-key="121"><span data-offset-key="121:1">You are invited to explore practices that open us to compassionate, accepting and generative ways of being with ourselves and eachother.</span></span></p>
 
       <p data-key="120">&nbsp;</p>
 
@@ -29,7 +29,7 @@ scheduleSection:
 
       <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Location: Yoga Reclaimied, Dalston, East London.</span></p>
 
-      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: rgb(176, 70, 100);"><strong><span style="color: rgb(176, 70, 100);">more info and booking</span> coming soon</strong></span></span></p>
+      <p><a href="https://www.eventbrite.co.uk/e/being-balance-new-moon-ritual-for-black-women-and-women-of-colour-tickets-722144111477" target="_blank" rel="noopener"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: rgb(176, 70, 100);"><strong><span style="color: rgb(176, 70, 100);">more info and booking</span></strong></span></span></a></p>
     title: NEXT UP
   - body: >-
       <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186,
