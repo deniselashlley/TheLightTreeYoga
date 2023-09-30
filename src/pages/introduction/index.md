@@ -5,11 +5,11 @@ quote: ""
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
-<h3 style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Let us go on a journey together</span></h3>
-<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">We are being called to re-member the old ways to help us navigate these new times. </span></p>
+<h3 style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">could we go on a journey together?</span></h3>
+<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">what might we be called to re-member to help us navigate these times?&nbsp;</span></p>
 <p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">What are the ways that we can </span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">be together, in community, with more harmony, while celebrating our authentic selves, witnessing each other and honouring our home?</span></p>
 <p>&nbsp;</p>
-<p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Let's create space for not knowing or needing to know</span></p>
+<p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">How might it be to create space for not knowing or needing to know</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">To dance to the music of our curiosity</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Explore the order and disordering of aliveness</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Ride the waves, the currents and the cycles of change</span></p>
