@@ -22,7 +22,7 @@ menuItems:
 socialLinks:
   - hiddenText: "@our_living_tree"
     label: follow
-    linkURL: https://www.instagram.com/our_living_tree
+    linkURL: https://www.instagram.com/our_livng_tree/
     type: instagram
   - hiddenText: thelighttreeyoga@gmail.com
     label: "email "
