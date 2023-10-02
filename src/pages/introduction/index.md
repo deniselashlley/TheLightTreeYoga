@@ -6,10 +6,12 @@ image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
 <h3 style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">could we go on a journey together?</span></h3>
-<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">what might be called into re-memberance to help us navigate these times?&nbsp;</span></p>
-<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">What are the ways that we can </span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">be together, in community, with more harmony, while celebrating our authentic selves, witnessing each other and honouring our home?</span></p>
+<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">what is longing to emerge through you?</span></p>
+<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">what are the ways that you may </span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">be with yourself, authentic and alive?&nbsp;</span></p>
+<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">what might be called into re:memberance to help navigate your journey?</span></p>
+<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">how might it be for us to be witnessed, connected, together?</span></p>
 <p>&nbsp;</p>
-<p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">How might it be to create space for not knowing or needing to know</span></p>
+<p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Could we create space for not knowing or needing to know</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">To dance to the music of our curiosity</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Explore the order and disordering of aliveness</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Ride the waves, currents and the cycles of change</span></p>
@@ -25,7 +27,7 @@ highlightedText: ""
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp; &nbsp; &nbsp;And playfully backstroke in the beautiful messiness of it all</span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">What could it be like to receive yourself as full and whole and enough, just as you are?&nbsp;</span></p>
+<p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">How might it be to receive yourself as full and whole and enough, just as you are?&nbsp;</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Is there a sense of it calling you?</span></p>
 <p>&nbsp;</p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Let's nurture a space for You, to be, with whatever you are bringing, as you are, here, now.</span></p>
