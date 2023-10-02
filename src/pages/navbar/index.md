@@ -20,9 +20,9 @@ menuItems:
     linkType: hash
     linkURL: https://www.thelighttree.co.uk/blog/curious-channellings-and-random-ramblings
 socialLinks:
-  - hiddenText: "@we_the_light_tree_wellness"
+  - hiddenText: "@our_living_tree"
     label: follow
-    linkURL: https://www.instagram.com/we_the_light_tree_wellness/
+    linkURL: https://www.instagram.com/our_living_tree
     type: instagram
   - hiddenText: thelighttreeyoga@gmail.com
     label: "email "
