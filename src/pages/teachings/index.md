@@ -10,7 +10,7 @@ meta:
 ---
 <p>Your practice is your personal journey. I am here to be alongside you to safely support your explorations, providing options that allow you to create a practice that best serves you in each moment.</p>
 <p>I encourage a deeper more soulful connection to your body and mind through intention, movement, breath, focus, sound and in group settings togetherness, to shift energy and raise your vibration.</p>
-<p>My teaching is focused on four key principles; curiosity, connection, creativity, contribution which are encompassed within The Light Tree philosophy.</p>
+<p>My approach is focused on four core principles; curiosity, connection, creativity, contribution.</p>
 <p><img src="../img/the-4cs-21.jpg" alt=""></p>
 <p>Through embodiment practices we embark on an inner journey of transformation - a cyclical process of self-enquiry, discovery and evolution that begins where you are.</p>
 <ul>
