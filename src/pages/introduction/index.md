@@ -31,8 +31,9 @@ highlightedText: ""
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp; To tenderly invite back the pieces of you that were denied, abandoned, hidden and slighted</span></p>
 <p><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">And playfully backstroke in the beautiful messiness of it all</span></p>
 <p>&nbsp;</p>
-<h3 style="text-align: center;"><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">How might it be to&nbsp;</span><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">receive yourself as full and </span></h3>
-<h3 style="text-align: center;"><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">whole and enough,&nbsp;</span><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">just as you are? </span></h3>
+<h3 style="text-align: center;">&nbsp;</h3>
+<h3 style="text-align: center;"><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">How might it be to </span><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">receive yourself as </span></h3>
+<h3 style="text-align: center;"><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">full and </span><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">whole and enough,&nbsp;</span><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">just as you are? </span></h3>
 <h3 style="text-align: center;"><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">to come home to yourself?</span></h3>
 <p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Is there a sense of it calling you?</span></p>
 <p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">What is being called into re:memberance&nbsp;</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">to help navigate your journey home?</span></p>
