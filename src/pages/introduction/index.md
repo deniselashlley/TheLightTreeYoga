@@ -1,16 +1,15 @@
 ---
 templateKey: introduction
-title: welcome
+title: |
+  welcome
 quote: ""
 image: /img/tlt-intro-21.jpg
 highlightedText: ""
 ---
-<h3 style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">glad you found this corner of the interweb</span></h3>
+<h2 style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif; font-size: 24pt;">good to have you here</span></h2>
 <p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">As you arrive here and settle in, i invite you to gently consider</span></p>
-<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">what is it that's led you here?</span></p>
+<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">what is it that led you here?</span></p>
 <p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">is there something longing to emerge through you?</span></p>
-<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">when do you feel most</span> alive?&nbsp;</span></p>
-<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">what is it to be alive, connected, witnessed, together?</span></p>
 <h2 style="text-align: center;">&nbsp;</h2>
 <h2 style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Could we go on a </span></h2>
 <h2 style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">journey together?...</span></h2>
@@ -34,11 +33,13 @@ highlightedText: ""
 <p>&nbsp;</p>
 <h3 style="text-align: center;">&nbsp;</h3>
 <h3 style="text-align: center;"><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">How might it be to </span><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">receive yourself as </span></h3>
-<h3 style="text-align: center;"><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">full and </span><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">whole and enough,&nbsp;</span><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">just as you are? </span></h3>
-<h3 style="text-align: center;"><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">to come home to yourself?</span></h3>
-<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Is there a sense of it calling you?</span></p>
-<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">What is being called into re:memberance&nbsp;</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">to help navigate your journey home?</span></p>
-<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Let's nurture a space for You, to be,&nbsp;</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">with whatever You are bringing, as You are, here, now.</span></p>
+<h3 style="text-align: center;"><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">full and </span><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">whole and enough.&nbsp;</span></h3>
+<h3 style="text-align: center;"><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">to come home to yourself,</span></h3>
+<h3 style="text-align: center;"><span style="color: rgb(52, 73, 94); font-family: 'trebuchet ms', geneva, sans-serif;">just as you are?</span></h3>
+<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">could there be a sense of it calling you to</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp;</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">re:member from within?</span></p>
+<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Let's nurture a space for You to be,</span><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">&nbsp;here, now.</span></p>
+<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">to notice what feels most alive for you</span></p>
+<p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">and explore what is it to be alive, connected and witnessed together.</span></p>
 <p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Shall we take the first step?</span></p>
 <p>&nbsp;</p>
 <blockquote>
