@@ -42,5 +42,5 @@ highlightedText: ""
 <p style="text-align: center;"><span style="color: rgb(23, 58, 46); font-family: 'trebuchet ms', geneva, sans-serif;">Shall we take the first step?</span></p>
 <p>&nbsp;</p>
 <blockquote>
-<h3 style="text-align: center;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><span style="color: rgb(176, 70, 100);"><strong>Join embodied explorations, journeys and retreats </strong></span><span style="color: rgb(176, 70, 100);"><strong>that support you to come home to true yourself</strong></span></span></h3>
+<h3 style="text-align: center;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><span style="color: rgb(176, 70, 100);"><strong>Join embodied explorations, journeys and retreats </strong></span><span style="color: rgb(176, 70, 100);"><strong>that support you to come home to yourself</strong></span></span></h3>
 </blockquote>
