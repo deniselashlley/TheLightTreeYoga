@@ -6,7 +6,7 @@ serviceList:
       All public explorations are listed in the schedule section. 
       Upcoming journeys and events are listed or follow me on Instagram.
     image: /img/adobestock_194685469.jpg
-    link: mailto:thelighttreeyoga@gmail.com
+    link: mailto:jae@ourlivingtree.co.uk
     title: GROUP EXPLORATIONS | JOURNEYS | EVENTS
     label: Contact me to book private group or workplace explorations.
   - description: >-
@@ -16,7 +16,7 @@ serviceList:
 
       Held at your home or in studio
     image: /img/adult-daylight-exercise-1533886.jpg
-    link: https://calendly.com/thelighttree/1-1-embodied-healing-exploration-22
+    link: https://calendly.com/our_living_tree/1-1-embodied-healing-exploration-22?month=2023-11
     title: EMBODIED HEALING (1-2-1)
     label: Book a free orientation here
   - description: >-
@@ -28,7 +28,7 @@ serviceList:
 
       I offer a reduced rate or FOC regular class to one change-making group or charitable organisation for their service users and staff. 
     image: /img/group_diversity_yoga.jpg
-    link: mailto:thelighttreeyoga@gmail.com
+    link: mailto:jae@ourlivingtree.co.uk
     title: WELLNESS EQUITY
     label: Get in touch to find out more
   - description: "A podcast series going beneath the physical matter to the soul of
