@@ -24,8 +24,8 @@ socialLinks:
     label: follow
     linkURL: https://www.instagram.com/our_living_tree/
     type: instagram
-  - hiddenText: thelighttreeyoga@gmail.com
+  - hiddenText: jae@ourlivingtree.co.uk
     label: "email "
-    linkURL: mailto:thelighttreeyoga@gmail.com
+    linkURL: mailto:jae@ourlivingtree.co.uk
     type: email
 ---
