@@ -15,7 +15,7 @@ scheduleSection:
 
       <p>&nbsp;</p>
 
-      <h3><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">next circle: be:ing balance</span></h3>
+      <h3><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">next circle: be:ing flow</span></h3>
 
       <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="color: rgb(23, 58, 46);">a community ritual for black women and women of colour</span></strong></span></p>
 
@@ -23,13 +23,13 @@ scheduleSection:
 
       <p data-key="120">&nbsp;</p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Date: Sunday 15th October 2023</span></p>
+      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Date: Sunday 10th March 2024</span></p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Cosmic attunment: New Moon in Libra</span></p>
+      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Cosmic attunment: New Moon in Pisces</span></p>
 
-      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Location: Yoga Reclaimied, Dalston, East London.</span></p>
+      <p><span style="color: rgb(23, 58, 46); font-family: tahoma, arial, helvetica, sans-serif;">Location: tbc</span></p>
 
-      <p><a href="https://www.eventbrite.co.uk/e/being-balance-new-moon-ritual-for-black-women-and-women-of-colour-tickets-722144111477" target="_blank" rel="noopener"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: rgb(176, 70, 100);"><strong><span style="color: rgb(176, 70, 100);">more info and booking</span></strong></span></span></a></p>
+      <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: rgb(176, 70, 100);"><strong><span style="color: rgb(176, 70, 100);">more info and booking coming soon</span></strong></span></span></p>
     title: NEXT UP
   - body: >-
       <p><span style="font-family: helvetica, arial, sans-serif; color: rgb(186,
