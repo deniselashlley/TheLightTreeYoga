@@ -16,7 +16,7 @@ serviceList:
 
       Held at your home or in studio
     image: /img/adult-daylight-exercise-1533886.jpg
-    link: https://calendly.com/our_living_tree/1-1-embodied-healing-exploration-22?month=2023-11
+    link: https://calendly.com/our_living_tree/1-1-free-40m-orientation
     title: EMBODIED HEALING (1-2-1)
     label: Book a free orientation here
   - description: >-
